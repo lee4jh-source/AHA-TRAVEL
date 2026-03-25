@@ -2559,6 +2559,456 @@
       "en": "I'll have the same.",
       "ko": "같은 걸로 주세요.",
       "tip": "일행과 같은 메뉴를 주문할 때 씁니다."
+    },
+    {
+      "en": "Can I get a large cappuccino?",
+      "ko": "카푸치노 라지 사이즈로 주시겠어요?",
+      "tip": "사이즈와 음료를 함께 말합니다."
+    },
+    {
+      "en": "I'll have a medium latte.",
+      "ko": "미디엄 라떼로 할게요.",
+      "tip": "I'll have ~ 패턴을 사용해 주문합니다."
+    },
+    {
+      "en": "Do you have soy milk?",
+      "ko": "두유 있나요?",
+      "tip": "우유 대체 옵션을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can you make it decaf?",
+      "ko": "디카페인으로 만들어 주실 수 있나요?",
+      "tip": "디카페인 옵션을 요청할 때 사용합니다."
+    },
+    {
+      "en": "I'd like a slice of carrot cake.",
+      "ko": "당근 케이크 한 조각 주세요.",
+      "tip": "디저트를 주문할 때 사용합니다."
+    },
+    {
+      "en": "Could I get that warmed up?",
+      "ko": "그거 데워 주실 수 있나요?",
+      "tip": "빵이나 페이스트리를 데워달라고 할 때 사용합니다."
+    },
+    {
+      "en": "Is there a restroom for customers?",
+      "ko": "고객용 화장실이 있나요?",
+      "tip": "화장실 위치를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "What's the Wi-Fi password?",
+      "ko": "와이파이 비밀번호가 뭐예요?",
+      "tip": "와이파이 비밀번호를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can I get the receipt, please?",
+      "ko": "영수증 좀 주시겠어요?",
+      "tip": "영수증을 요청할 때 사용합니다."
+    },
+    {
+      "en": "Do you accept Apple Pay?",
+      "ko": "애플페이 되나요?",
+      "tip": "결제 수단을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'll pay with cash.",
+      "ko": "현금으로 계산할게요.",
+      "tip": "현금 결제를 원할 때 사용합니다."
+    },
+    {
+      "en": "Can I get a carrier for these?",
+      "ko": "이것들 담아갈 캐리어 주시겠어요?",
+      "tip": "음료 여러 잔을 담을 캐리어를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Could I have an extra cup?",
+      "ko": "빈 컵 하나 더 주실 수 있나요?",
+      "tip": "여분의 컵을 요청할 때 사용합니다."
+    },
+    {
+      "en": "Is this table taken?",
+      "ko": "이 자리 비어 있나요?",
+      "tip": "자리가 비어 있는지 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can we sit anywhere?",
+      "ko": "아무데나 앉아도 되나요?",
+      "tip": "자리를 자유롭게 선택해도 되는지 물어볼 때 사용합니다."
+    },
+    {
+      "en": "What time do you close?",
+      "ko": "몇 시에 문 닫나요?",
+      "tip": "영업 종료 시간을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Do you have any vegan options?",
+      "ko": "비건 메뉴 있나요?",
+      "tip": "비건 메뉴를 찾을 때 사용합니다."
+    },
+    {
+      "en": "I'd like a black coffee.",
+      "ko": "블랙 커피 주세요.",
+      "tip": "아메리카노나 드립 커피를 주문할 때 사용합니다."
+    },
+    {
+      "en": "Can I get a caramel macchiato?",
+      "ko": "카라멜 마끼아또 주시겠어요?",
+      "tip": "특정 음료를 주문할 때 사용합니다."
+    },
+    {
+      "en": "With whipped cream on top, please.",
+      "ko": "위에 휘핑크림 올려 주세요.",
+      "tip": "휘핑크림 추가를 요청할 때 사용합니다."
+    },
+    {
+      "en": "No whipped cream, please.",
+      "ko": "휘핑크림은 빼 주세요.",
+      "tip": "휘핑크림을 빼달라고 할 때 사용합니다."
+    },
+    {
+      "en": "Can I get a pump of vanilla syrup?",
+      "ko": "바닐라 시럽 한 펌프 넣어 주시겠어요?",
+      "tip": "시럽 추가를 요청할 때 사용합니다."
+    },
+    {
+      "en": "I'd like it less sweet.",
+      "ko": "덜 달게 해 주세요.",
+      "tip": "단맛을 조절하고 싶을 때 사용합니다."
+    },
+    {
+      "en": "Can I get extra ice?",
+      "ko": "얼음 많이 넣어 주세요.",
+      "tip": "얼음을 많이 원할 때 사용합니다."
+    },
+    {
+      "en": "Light ice, please.",
+      "ko": "얼음은 조금만 넣어 주세요.",
+      "tip": "얼음을 적게 원할 때 사용합니다."
+    },
+    {
+      "en": "Can I get a hot tea?",
+      "ko": "따뜻한 차 주시겠어요?",
+      "tip": "따뜻한 차를 주문할 때 사용합니다."
+    },
+    {
+      "en": "What kind of tea do you have?",
+      "ko": "어떤 종류의 차가 있나요?",
+      "tip": "차 종류를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'll have an iced green tea.",
+      "ko": "아이스 녹차로 할게요.",
+      "tip": "아이스 티를 주문할 때 사용합니다."
+    },
+    {
+      "en": "Can I get a smoothie?",
+      "ko": "스무디 주시겠어요?",
+      "tip": "스무디를 주문할 때 사용합니다."
+    },
+    {
+      "en": "What flavors do you have?",
+      "ko": "어떤 맛이 있나요?",
+      "tip": "맛 종류를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'd like a strawberry smoothie.",
+      "ko": "딸기 스무디 주세요.",
+      "tip": "특정 맛의 스무디를 주문할 때 사용합니다."
+    },
+    {
+      "en": "Can I get a bagel with cream cheese?",
+      "ko": "크림치즈 바글 주시겠어요?",
+      "tip": "베이글을 주문할 때 사용합니다."
+    },
+    {
+      "en": "Could you toast the bagel?",
+      "ko": "베이글 구워 주실 수 있나요?",
+      "tip": "베이글을 구워달라고 할 때 사용합니다."
+    },
+    {
+      "en": "I'll have a croissant.",
+      "ko": "크루아상으로 할게요.",
+      "tip": "크루아상을 주문할 때 사용합니다."
+    },
+    {
+      "en": "Do you have any muffins?",
+      "ko": "머핀 있나요?",
+      "tip": "머핀이 있는지 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'd like a blueberry muffin.",
+      "ko": "블루베리 머핀 주세요.",
+      "tip": "특정 맛의 머핀을 주문할 때 사용합니다."
+    },
+    {
+      "en": "Can I get a sandwich?",
+      "ko": "샌드위치 주시겠어요?",
+      "tip": "샌드위치를 주문할 때 사용합니다."
+    },
+    {
+      "en": "What kind of sandwiches do you have?",
+      "ko": "어떤 종류의 샌드위치가 있나요?",
+      "tip": "샌드위치 종류를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'll have a turkey sandwich.",
+      "ko": "칠면조 샌드위치로 할게요.",
+      "tip": "특정 샌드위치를 주문할 때 사용합니다."
+    },
+    {
+      "en": "Can I get a salad?",
+      "ko": "샐러드 주시겠어요?",
+      "tip": "샐러드를 주문할 때 사용합니다."
+    },
+    {
+      "en": "What kind of dressing comes with it?",
+      "ko": "어떤 드레싱이 같이 나오나요?",
+      "tip": "드레싱 종류를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'd like the dressing on the side.",
+      "ko": "드레싱은 따로 주세요.",
+      "tip": "드레싱을 따로 달라고 할 때 사용합니다."
+    },
+    {
+      "en": "Can I get a bottle of water?",
+      "ko": "생수 한 병 주시겠어요?",
+      "tip": "생수를 주문할 때 사용합니다."
+    },
+    {
+      "en": "Do you have sparkling water?",
+      "ko": "탄산수 있나요?",
+      "tip": "탄산수가 있는지 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'll have a sparkling water.",
+      "ko": "탄산수 하나 주세요.",
+      "tip": "탄산수를 주문할 때 사용합니다."
+    },
+    {
+      "en": "Can I get a cup of tap water?",
+      "ko": "수돗물 한 잔 주시겠어요?",
+      "tip": "수돗물을 요청할 때 사용합니다."
+    },
+    {
+      "en": "Is there a charge for tap water?",
+      "ko": "수돗물은 유료인가요?",
+      "tip": "수돗물 요금을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can I get some napkins, please?",
+      "ko": "냅킨 좀 주시겠어요?",
+      "tip": "냅킨을 요청할 때 사용합니다."
+    },
+    {
+      "en": "Could I have a straw?",
+      "ko": "빨대 하나 주실 수 있나요?",
+      "tip": "빨대를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Do you have paper straws?",
+      "ko": "종이 빨대 있나요?",
+      "tip": "종이 빨대를 찾을 때 사용합니다."
+    },
+    {
+      "en": "Can I get a stirrer?",
+      "ko": "젓는 막대 주시겠어요?",
+      "tip": "젓는 막대를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Where can I find sugar?",
+      "ko": "설탕은 어디 있나요?",
+      "tip": "설탕 위치를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Do you have artificial sweeteners?",
+      "ko": "인공 감미료 있나요?",
+      "tip": "인공 감미료를 찾을 때 사용합니다."
+    },
+    {
+      "en": "Can I get some milk for my coffee?",
+      "ko": "커피에 넣을 우유 좀 주시겠어요?",
+      "tip": "우유를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Is there a trash can around here?",
+      "ko": "이 근처에 쓰레기통이 있나요?",
+      "tip": "쓰레기통 위치를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Where do I return my tray?",
+      "ko": "쟁반은 어디에 반납하나요?",
+      "tip": "쟁반 반납 위치를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can you wipe this table, please?",
+      "ko": "이 테이블 좀 닦아 주시겠어요?",
+      "tip": "테이블을 닦아달라고 할 때 사용합니다."
+    },
+    {
+      "en": "Is there an outlet near here?",
+      "ko": "이 근처에 콘센트가 있나요?",
+      "tip": "콘센트 위치를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can I charge my phone here?",
+      "ko": "여기서 핸드폰 충전해도 되나요?",
+      "tip": "충전 가능 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Do you have a charger I could borrow?",
+      "ko": "빌릴 수 있는 충전기가 있나요?",
+      "tip": "충전기를 빌릴 수 있는지 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Is it okay if I sit here?",
+      "ko": "여기 앉아도 괜찮을까요?",
+      "tip": "자리에 앉아도 되는지 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Are you open on Sundays?",
+      "ko": "일요일에도 영업하나요?",
+      "tip": "일요일 영업 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "What time do you open tomorrow?",
+      "ko": "내일 몇 시에 문 여나요?",
+      "tip": "내일 오픈 시간을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Do you have a loyalty program?",
+      "ko": "포인트 적립 프로그램이 있나요?",
+      "tip": "포인트 적립 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can I use this coupon?",
+      "ko": "이 쿠폰 사용할 수 있나요?",
+      "tip": "쿠폰 사용 가능 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I have a discount code.",
+      "ko": "할인 코드가 있어요.",
+      "tip": "할인 코드가 있음을 알릴 때 사용합니다."
+    },
+    {
+      "en": "Is there a student discount?",
+      "ko": "학생 할인이 있나요?",
+      "tip": "학생 할인 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can I split the bill?",
+      "ko": "계산 나눠서 할 수 있나요?",
+      "tip": "분할 결제를 요청할 때 사용합니다."
+    },
+    {
+      "en": "I'll pay for everything.",
+      "ko": "제가 다 계산할게요.",
+      "tip": "일괄 결제를 원할 때 사용합니다."
+    },
+    {
+      "en": "Keep the change.",
+      "ko": "잔돈은 가지세요.",
+      "tip": "팁으로 잔돈을 줄 때 사용합니다."
+    },
+    {
+      "en": "Is tip included?",
+      "ko": "팁이 포함되어 있나요?",
+      "tip": "팁 포함 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "How much should I tip?",
+      "ko": "팁은 얼마를 줘야 하나요?",
+      "tip": "적정 팁 금액을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "This isn't what I ordered.",
+      "ko": "이건 제가 주문한 게 아니에요.",
+      "tip": "주문한 메뉴가 잘못 나왔을 때 사용합니다."
+    },
+    {
+      "en": "My coffee is cold.",
+      "ko": "커피가 식었어요.",
+      "tip": "커피가 식었음을 알릴 때 사용합니다."
+    },
+    {
+      "en": "Can you make it hotter?",
+      "ko": "더 뜨겁게 해 주실 수 있나요?",
+      "tip": "더 뜨겁게 해달라고 할 때 사용합니다."
+    },
+    {
+      "en": "This is too sweet.",
+      "ko": "이건 너무 달아요.",
+      "tip": "음료가 너무 달 때 사용합니다."
+    },
+    {
+      "en": "Can you remake this, please?",
+      "ko": "이거 다시 만들어 주시겠어요?",
+      "tip": "음료를 다시 만들어달라고 할 때 사용합니다."
+    },
+    {
+      "en": "I dropped my drink.",
+      "ko": "음료를 쏟았어요.",
+      "tip": "음료를 쏟았음을 알릴 때 사용합니다."
+    },
+    {
+      "en": "Can I get a mop?",
+      "ko": "대걸레 좀 주시겠어요?",
+      "tip": "대걸레를 요청할 때 사용합니다."
+    },
+    {
+      "en": "I'm sorry for the mess.",
+      "ko": "어질러서 죄송합니다.",
+      "tip": "어질러서 미안함을 표현할 때 사용합니다."
+    },
+    {
+      "en": "It's okay, no problem.",
+      "ko": "괜찮아요, 문제없어요.",
+      "tip": "괜찮다고 말할 때 사용합니다."
+    },
+    {
+      "en": "Thank you for your help.",
+      "ko": "도와주셔서 감사합니다.",
+      "tip": "도움을 받았을 때 감사 인사를 합니다."
+    },
+    {
+      "en": "Have a nice day!",
+      "ko": "좋은 하루 보내세요!",
+      "tip": "헤어질 때 인사말입니다."
+    },
+    {
+      "en": "You too!",
+      "ko": "당신도요!",
+      "tip": "상대방의 인사에 답할 때 사용합니다."
+    },
+    {
+      "en": "I really like this cafe.",
+      "ko": "이 카페 정말 마음에 들어요.",
+      "tip": "카페가 마음에 듦을 표현할 때 사용합니다."
+    },
+    {
+      "en": "The coffee here is great.",
+      "ko": "여기 커피 정말 맛있네요.",
+      "tip": "커피 맛을 칭찬할 때 사용합니다."
+    },
+    {
+      "en": "I love the atmosphere.",
+      "ko": "분위기가 너무 좋아요.",
+      "tip": "분위기를 칭찬할 때 사용합니다."
+    },
+    {
+      "en": "Do you have any recommendations?",
+      "ko": "추천해 주실 만한 게 있나요?",
+      "tip": "메뉴 추천을 부탁할 때 사용합니다."
+    },
+    {
+      "en": "What's your favorite drink?",
+      "ko": "가장 좋아하는 음료가 뭐예요?",
+      "tip": "직원의 추천을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'll try that one.",
+      "ko": "그걸로 먹어볼게요.",
+      "tip": "추천받은 메뉴를 선택할 때 사용합니다."
     }
   ],
   "emergency": [
@@ -2636,6 +3086,506 @@
       "en": "I need to contact my family.",
       "ko": "가족에게 연락해야 해요.",
       "tip": "비상 연락이 필요할 때 씁니다."
+    },
+    {
+      "en": "Someone stole my wallet.",
+      "ko": "누군가 제 지갑을 훔쳐갔어요.",
+      "tip": "소매치기나 도난을 당했을 때 씁니다."
+    },
+    {
+      "en": "My passport is missing.",
+      "ko": "여권이 없어졌어요.",
+      "tip": "여권을 분실했을 때 대사관이나 경찰서에서 사용합니다."
+    },
+    {
+      "en": "Please call the police.",
+      "ko": "경찰을 불러주세요.",
+      "tip": "범죄 피해를 입었거나 위험할 때 요청합니다."
+    },
+    {
+      "en": "Where is the nearest police station?",
+      "ko": "가장 가까운 경찰서가 어디인가요?",
+      "tip": "경찰서 위치를 물어볼 때 씁니다."
+    },
+    {
+      "en": "I need to contact my embassy.",
+      "ko": "대사관에 연락해야 해요.",
+      "tip": "해외에서 심각한 문제가 생겼을 때 대사관의 도움이 필요할 때 씁니다."
+    },
+    {
+      "en": "I lost my bag on the train.",
+      "ko": "기차에 가방을 두고 내렸어요.",
+      "tip": "대중교통에서 물건을 분실했을 때 분실물 센터에 말합니다."
+    },
+    {
+      "en": "It's an emergency.",
+      "ko": "응급 상황입니다.",
+      "tip": "상황의 심각성을 알릴 때 사용합니다."
+    },
+    {
+      "en": "I'm bleeding heavily.",
+      "ko": "피를 많이 흘리고 있어요.",
+      "tip": "심한 출혈이 있을 때 의료진에게 알립니다."
+    },
+    {
+      "en": "He is unconscious.",
+      "ko": "그가 의식을 잃었어요.",
+      "tip": "주변 사람이 쓰러졌을 때 구조대원에게 상태를 설명합니다."
+    },
+    {
+      "en": "She is not breathing.",
+      "ko": "그녀가 숨을 쉬지 않아요.",
+      "tip": "호흡이 멈춘 위급 환자를 발견했을 때 사용합니다."
+    },
+    {
+      "en": "Is there a doctor around here?",
+      "ko": "이 근처에 의사 선생님 계신가요?",
+      "tip": "응급 환자 발생 시 주변에 의료진을 찾을 때 외칩니다."
+    },
+    {
+      "en": "I have a severe allergy.",
+      "ko": "저는 심한 알레르기가 있어요.",
+      "tip": "알레르기 반응이 나타날 때 주변에 알립니다."
+    },
+    {
+      "en": "I need my medication.",
+      "ko": "제 약이 필요해요.",
+      "tip": "지병으로 인해 급히 약을 먹어야 할 때 씁니다."
+    },
+    {
+      "en": "I think I broke my leg.",
+      "ko": "다리가 부러진 것 같아요.",
+      "tip": "골절이 의심될 때 상태를 설명합니다."
+    },
+    {
+      "en": "I feel dizzy and nauseous.",
+      "ko": "어지럽고 속이 안 좋아요.",
+      "tip": "몸 상태가 급격히 안 좋아졌을 때 증상을 말합니다."
+    },
+    {
+      "en": "My chest hurts.",
+      "ko": "가슴이 아파요.",
+      "tip": "심장 통증 등 흉통이 있을 때 즉시 알립니다."
+    },
+    {
+      "en": "I can't breathe well.",
+      "ko": "숨을 잘 못 쉬겠어요.",
+      "tip": "호흡 곤란이 올 때 증상을 설명합니다."
+    },
+    {
+      "en": "I've been in a car accident.",
+      "ko": "교통사고가 났어요.",
+      "tip": "교통사고 발생 시 경찰이나 구급대에 신고합니다."
+    },
+    {
+      "en": "The car is on fire.",
+      "ko": "차에 불이 났어요.",
+      "tip": "차량 화재 발생 시 대피하며 신고할 때 씁니다."
+    },
+    {
+      "en": "We need a tow truck.",
+      "ko": "견인차가 필요해요.",
+      "tip": "차가 고장나서 움직일 수 없을 때 요청합니다."
+    },
+    {
+      "en": "I have a flat tire.",
+      "ko": "타이어가 펑크 났어요.",
+      "tip": "타이어 문제로 주행이 불가능할 때 도움을 청합니다."
+    },
+    {
+      "en": "My car broke down.",
+      "ko": "제 차가 고장 났어요.",
+      "tip": "차량 고장으로 멈췄을 때 상황을 설명합니다."
+    },
+    {
+      "en": "I'm locked out of my room.",
+      "ko": "방에 갇혔어요. / 방 문이 잠겼어요.",
+      "tip": "호텔 등에서 키를 두고 나와 못 들어갈 때 씁니다."
+    },
+    {
+      "en": "I lost my room key.",
+      "ko": "방 열쇠를 잃어버렸어요.",
+      "tip": "호텔 프론트에 열쇠 분실을 알릴 때 사용합니다."
+    },
+    {
+      "en": "There is a fire in the building.",
+      "ko": "건물에 불이 났어요.",
+      "tip": "화재를 발견하고 주변에 알리거나 신고할 때 외칩니다."
+    },
+    {
+      "en": "Where is the emergency exit?",
+      "ko": "비상구가 어디인가요?",
+      "tip": "화재나 비상 상황 시 대피로를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Please evacuate immediately.",
+      "ko": "즉시 대피하세요.",
+      "tip": "위험 상황에서 사람들을 대피시킬 때 사용합니다."
+    },
+    {
+      "en": "I smell gas.",
+      "ko": "가스 냄새가 나요.",
+      "tip": "가스 누출이 의심될 때 주변에 알리고 대피합니다."
+    },
+    {
+      "en": "The elevator is stuck.",
+      "ko": "엘리베이터가 멈췄어요.",
+      "tip": "엘리베이터에 갇혔을 때 비상벨을 누르고 말합니다."
+    },
+    {
+      "en": "I'm lost. Can you help me?",
+      "ko": "길을 잃었어요. 도와주시겠어요?",
+      "tip": "낯선 곳에서 길을 잃었을 때 도움을 청합니다."
+    },
+    {
+      "en": "What does he look like?",
+      "ko": "그는 어떻게 생겼나요?",
+      "tip": "미아 발생 시 인상착의를 물어볼 때 씁니다."
+    },
+    {
+      "en": "He is wearing a red shirt.",
+      "ko": "그는 빨간 셔츠를 입고 있어요.",
+      "tip": "잃어버린 사람의 옷차림을 설명할 때 사용합니다."
+    },
+    {
+      "en": "I've been mugged.",
+      "ko": "노상강도를 당했어요.",
+      "tip": "길에서 강도를 당했을 때 경찰에 신고합니다."
+    },
+    {
+      "en": "Someone is following me.",
+      "ko": "누군가 저를 따라오고 있어요.",
+      "tip": "미행을 당하고 있다고 느낄 때 도움을 청합니다."
+    },
+    {
+      "en": "Leave me alone!",
+      "ko": "저를 내버려 두세요!",
+      "tip": "누군가 괴롭히거나 귀찮게 할 때 단호하게 말합니다."
+    },
+    {
+      "en": "Stop, thief!",
+      "ko": "도둑 잡아라!",
+      "tip": "도둑을 발견하고 주변에 도움을 요청할 때 외칩니다."
+    },
+    {
+      "en": "I need a lawyer.",
+      "ko": "변호사가 필요해요.",
+      "tip": "법적인 문제가 생겨 변호사의 도움이 필요할 때 씁니다."
+    },
+    {
+      "en": "I want to report a crime.",
+      "ko": "범죄를 신고하고 싶습니다.",
+      "tip": "경찰서에서 범죄 사실을 알릴 때 사용합니다."
+    },
+    {
+      "en": "Did you see what happened?",
+      "ko": "무슨 일이 있었는지 보셨나요?",
+      "tip": "사고나 범죄의 목격자를 찾을 때 묻습니다."
+    },
+    {
+      "en": "I saw the whole thing.",
+      "ko": "제가 모든 것을 다 봤어요.",
+      "tip": "목격자로서 상황을 설명할 준비가 되었을 때 말합니다."
+    },
+    {
+      "en": "Can you describe the suspect?",
+      "ko": "용의자의 인상착의를 설명해 주시겠어요?",
+      "tip": "경찰이 목격자에게 범인의 모습을 물어볼 때 씁니다."
+    },
+    {
+      "en": "He ran that way.",
+      "ko": "그가 저쪽으로 도망갔어요.",
+      "tip": "범인의 도주 방향을 알려줄 때 사용합니다."
+    },
+    {
+      "en": "How long will it take?",
+      "ko": "얼마나 걸릴까요?",
+      "tip": "구조대나 경찰이 도착하는 데 걸리는 시간을 물어볼 때 씁니다."
+    },
+    {
+      "en": "Stay calm.",
+      "ko": "침착하세요.",
+      "tip": "당황한 사람을 안심시킬 때 말합니다."
+    },
+    {
+      "en": "Don't move.",
+      "ko": "움직이지 마세요.",
+      "tip": "부상자가 움직이면 위험할 때 경고합니다."
+    },
+    {
+      "en": "Everything will be okay.",
+      "ko": "다 괜찮아질 거예요.",
+      "tip": "응급 상황에서 환자나 피해자를 위로할 때 씁니다."
+    },
+    {
+      "en": "I'm having a heart attack.",
+      "ko": "심장마비가 온 것 같아요.",
+      "tip": "심장마비 증상이 있을 때 즉각적인 도움을 요청합니다."
+    },
+    {
+      "en": "Do you know CPR?",
+      "ko": "심폐소생술 할 줄 아시나요?",
+      "tip": "심정지 환자 발생 시 CPR 가능한 사람을 찾을 때 묻습니다."
+    },
+    {
+      "en": "Where is the automated external defibrillator?",
+      "ko": "자동심장충격기(AED)가 어디 있나요?",
+      "tip": "응급 상황에서 AED를 찾을 때 씁니다."
+    },
+    {
+      "en": "I burned my hand.",
+      "ko": "손을 데였어요.",
+      "tip": "화상을 입었을 때 상태를 알립니다."
+    },
+    {
+      "en": "I got bitten by a dog.",
+      "ko": "개에게 물렸어요.",
+      "tip": "동물에게 물려 치료가 필요할 때 상황을 설명합니다."
+    },
+    {
+      "en": "I swallowed something poisonous.",
+      "ko": "독성이 있는 것을 삼켰어요.",
+      "tip": "독극물이나 잘못된 약을 삼켰을 때 응급실에 알립니다."
+    },
+    {
+      "en": "My water broke.",
+      "ko": "양수가 터졌어요.",
+      "tip": "임산부의 출산이 임박했을 때 알립니다."
+    },
+    {
+      "en": "I'm in labor.",
+      "ko": "진통이 시작됐어요.",
+      "tip": "출산 진통이 시작되었음을 알릴 때 사용합니다."
+    },
+    {
+      "en": "I dropped my phone in the water.",
+      "ko": "휴대폰을 물에 빠뜨렸어요.",
+      "tip": "전자기기가 침수되었을 때 상황을 설명합니다."
+    },
+    {
+      "en": "My credit card was swallowed by the ATM.",
+      "ko": "ATM 기계가 제 신용카드를 삼켰어요.",
+      "tip": "해외에서 ATM 기기 오류로 카드를 잃었을 때 은행에 말합니다."
+    },
+    {
+      "en": "I need to cancel my credit card.",
+      "ko": "신용카드를 정지해야 해요.",
+      "tip": "카드 분실이나 도난 시 카드사에 연락할 때 씁니다."
+    },
+    {
+      "en": "My flight was cancelled.",
+      "ko": "제 비행기가 취소되었어요.",
+      "tip": "항공편 취소로 인해 도움이 필요할 때 항공사 직원에게 말합니다."
+    },
+    {
+      "en": "I missed my flight.",
+      "ko": "비행기를 놓쳤어요.",
+      "tip": "비행기 탑승 시간을 놓쳤을 때 대처 방법을 물어보기 위해 씁니다."
+    },
+    {
+      "en": "Where is the lost and found?",
+      "ko": "분실물 센터가 어디인가요?",
+      "tip": "공항이나 역에서 물건을 잃어버렸을 때 찾습니다."
+    },
+    {
+      "en": "I left my luggage on the bus.",
+      "ko": "버스에 짐을 두고 내렸어요.",
+      "tip": "버스에 짐을 놓고 내렸을 때 분실물 센터에 알립니다."
+    },
+    {
+      "en": "My luggage hasn't arrived.",
+      "ko": "제 수하물이 도착하지 않았어요.",
+      "tip": "공항에서 수하물을 찾지 못했을 때 수하물 센터에 신고합니다."
+    },
+    {
+      "en": "I need an interpreter.",
+      "ko": "통역사가 필요해요.",
+      "tip": "의사소통이 어려워 통역 지원이 필요할 때 요청합니다."
+    },
+    {
+      "en": "Do you speak Korean?",
+      "ko": "한국어 할 줄 아시나요?",
+      "tip": "한국어 소통이 가능한 사람을 찾을 때 묻습니다."
+    },
+    {
+      "en": "I don't understand what you're saying.",
+      "ko": "무슨 말씀이신지 이해를 못 하겠어요.",
+      "tip": "상대방의 말을 알아듣지 못했을 때 솔직하게 말합니다."
+    },
+    {
+      "en": "Please write it down.",
+      "ko": "적어 주시겠어요?",
+      "tip": "말을 알아듣기 힘들 때 글로 써달라고 요청합니다."
+    },
+    {
+      "en": "I need a painkiller.",
+      "ko": "진통제가 필요해요.",
+      "tip": "통증이 심해서 약국이나 병원에서 진통제를 찾을 때 씁니다."
+    },
+    {
+      "en": "Where is the nearest pharmacy?",
+      "ko": "가장 가까운 약국이 어디인가요?",
+      "tip": "급히 약을 사야 할 때 약국 위치를 묻습니다."
+    },
+    {
+      "en": "I have a high fever.",
+      "ko": "열이 높아요.",
+      "tip": "고열 증상을 의사나 약사에게 설명할 때 사용합니다."
+    },
+    {
+      "en": "I have food poisoning.",
+      "ko": "식중독에 걸렸어요.",
+      "tip": "음식을 잘못 먹고 배탈이 났을 때 증상을 말합니다."
+    },
+    {
+      "en": "I need a bandage.",
+      "ko": "반창고가 필요해요.",
+      "tip": "가벼운 상처가 났을 때 반창고를 찾습니다."
+    },
+    {
+      "en": "Is it safe to drink the tap water?",
+      "ko": "수돗물을 마셔도 안전한가요?",
+      "tip": "해외에서 수돗물 음용 가능 여부를 물어볼 때 씁니다."
+    },
+    {
+      "en": "I need to go to the hospital.",
+      "ko": "병원에 가야 해요.",
+      "tip": "아파서 병원 진료가 필요할 때 주변에 알립니다."
+    },
+    {
+      "en": "Can you take me to the hospital?",
+      "ko": "저를 병원으로 데려다 주실 수 있나요?",
+      "tip": "혼자 병원에 가기 힘들 때 도움을 청합니다."
+    },
+    {
+      "en": "I have travel insurance.",
+      "ko": "저는 여행자 보험이 있습니다.",
+      "tip": "병원 진료 접수 시 보험 가입 여부를 알릴 때 씁니다."
+    },
+    {
+      "en": "I need a medical certificate.",
+      "ko": "진단서가 필요해요.",
+      "tip": "보험 청구 등을 위해 진단서 발급을 요청할 때 사용합니다."
+    },
+    {
+      "en": "I'm trapped in the bathroom.",
+      "ko": "화장실에 갇혔어요.",
+      "tip": "화장실 문이 고장나서 갇혔을 때 도움을 요청합니다."
+    },
+    {
+      "en": "The toilet is overflowing.",
+      "ko": "변기 물이 넘치고 있어요.",
+      "tip": "변기가 막혀 물이 넘칠 때 수리를 요청합니다."
+    },
+    {
+      "en": "There is no hot water.",
+      "ko": "따뜻한 물이 안 나와요.",
+      "tip": "호텔 등에서 온수가 나오지 않을 때 프론트에 알립니다."
+    },
+    {
+      "en": "The power went out.",
+      "ko": "정전이 되었어요.",
+      "tip": "갑자기 전기가 나갔을 때 상황을 설명합니다."
+    },
+    {
+      "en": "I lost my contact lenses.",
+      "ko": "콘택트렌즈를 잃어버렸어요.",
+      "tip": "렌즈를 잃어버려 앞이 잘 안 보일 때 도움을 청합니다."
+    },
+    {
+      "en": "I need to report a missing person.",
+      "ko": "실종 신고를 해야 해요.",
+      "tip": "사람이 없어졌을 때 경찰에 신고합니다."
+    },
+    {
+      "en": "My child is choking.",
+      "ko": "제 아이가 목에 뭔가가 걸렸어요.",
+      "tip": "기도가 막혔을 때 응급처치를 요청합니다."
+    },
+    {
+      "en": "I've been bitten by a snake.",
+      "ko": "뱀에게 물렸어요.",
+      "tip": "독사 등 뱀에게 물렸을 때 구조대에 알립니다."
+    },
+    {
+      "en": "There's a leak in the ceiling.",
+      "ko": "천장에서 물이 새고 있어요.",
+      "tip": "호텔이나 숙소에서 누수가 발생했을 때 알립니다."
+    },
+    {
+      "en": "I locked my keys in the car.",
+      "ko": "차 안에 열쇠를 두고 문을 잠갔어요.",
+      "tip": "차 문이 잠겨 열 수 없을 때 도움을 청합니다."
+    },
+    {
+      "en": "My battery is dead.",
+      "ko": "배터리가 방전되었어요.",
+      "tip": "차량 배터리가 방전되어 시동이 안 걸릴 때 씁니다."
+    },
+    {
+      "en": "I need a jump start.",
+      "ko": "점프 스타트가 필요해요.",
+      "tip": "방전된 차에 시동을 걸기 위해 도움을 요청합니다."
+    },
+    {
+      "en": "I'm having a severe allergic reaction.",
+      "ko": "심한 알레르기 반응이 오고 있어요.",
+      "tip": "아나필락시스 등 심각한 알레르기 증상을 알립니다."
+    },
+    {
+      "en": "Do you have an EpiPen?",
+      "ko": "에피펜(알레르기 응급 주사) 있나요?",
+      "tip": "알레르기 응급 상황에서 약을 찾을 때 묻습니다."
+    },
+    {
+      "en": "I think I have food poisoning.",
+      "ko": "식중독에 걸린 것 같아요.",
+      "tip": "음식을 먹고 심하게 아플 때 증상을 말합니다."
+    },
+    {
+      "en": "I've lost my prescription.",
+      "ko": "처방전을 잃어버렸어요.",
+      "tip": "약을 사야 하는데 처방전이 없을 때 의사나 약사에게 말합니다."
+    },
+    {
+      "en": "I need to see a dentist urgently.",
+      "ko": "급히 치과 의사를 만나야 해요.",
+      "tip": "치통이 심하거나 치아가 부러졌을 때 씁니다."
+    },
+    {
+      "en": "My tooth is broken.",
+      "ko": "이빨이 부러졌어요.",
+      "tip": "치아 손상을 치과에 알릴 때 사용합니다."
+    },
+    {
+      "en": "I've been in a hit-and-run.",
+      "ko": "뺑소니 사고를 당했어요.",
+      "tip": "뺑소니 피해를 입었을 때 경찰에 신고합니다."
+    },
+    {
+      "en": "I need to block my bank account.",
+      "ko": "제 은행 계좌를 정지해야 해요.",
+      "tip": "금융 사기나 카드 도난 시 은행에 요청합니다."
+    },
+    {
+      "en": "Someone is trying to break in.",
+      "ko": "누군가 침입하려고 해요.",
+      "tip": "집이나 방에 누군가 들어오려 할 때 경찰에 신고합니다."
+    },
+    {
+      "en": "I hear gunshots.",
+      "ko": "총소리가 들려요.",
+      "tip": "총격 사건이 의심될 때 경찰에 알립니다."
+    },
+    {
+      "en": "There is a suspicious package here.",
+      "ko": "여기에 수상한 소포가 있어요.",
+      "tip": "테러나 폭발물이 의심되는 물건을 발견했을 때 신고합니다."
+    },
+    {
+      "en": "Can you call this number for me?",
+      "ko": "이 번호로 대신 전화해 주실 수 있나요?",
+      "tip": "직접 전화하기 힘들 때 주변에 부탁합니다."
     }
   ],
   "hospital": [
@@ -2713,6 +3663,501 @@
       "en": "I need a band-aid.",
       "ko": "반창고가 필요해요.",
       "tip": "가벼운 상처에 붙일 밴드를 찾을 때 씁니다."
+    },
+    {
+      "en": "I'd like to see a doctor, please.",
+      "ko": "의사 선생님께 진료를 받고 싶습니다.",
+      "tip": "병원 접수처에서 진료를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Do I need to make an appointment?",
+      "ko": "예약을 해야 하나요?",
+      "tip": "예약 필수 여부를 물어볼 때 씁니다."
+    },
+    {
+      "en": "I have an appointment with Dr. Smith at 10 AM.",
+      "ko": "오전 10시에 스미스 선생님과 예약이 되어 있습니다.",
+      "tip": "예약된 진료를 확인받을 때 사용합니다."
+    },
+    {
+      "en": "This is my first time here.",
+      "ko": "여기는 처음입니다.",
+      "tip": "초진임을 알릴 때 씁니다."
+    },
+    {
+      "en": "Could you fill out this form, please?",
+      "ko": "이 양식을 작성해 주시겠어요?",
+      "tip": "접수처에서 문진표나 개인정보 작성을 요청할 때 듣는 말입니다."
+    },
+    {
+      "en": "Do you accept foreign travel insurance?",
+      "ko": "해외 여행자 보험이 적용되나요?",
+      "tip": "여행자 보험 처리 가능 여부를 물어볼 때 씁니다."
+    },
+    {
+      "en": "I don't have health insurance.",
+      "ko": "저는 건강 보험이 없습니다.",
+      "tip": "보험이 없음을 알릴 때 사용합니다."
+    },
+    {
+      "en": "How much is the consultation fee?",
+      "ko": "진료비가 얼마인가요?",
+      "tip": "기본 진료비를 미리 확인할 때 묻습니다."
+    },
+    {
+      "en": "Where is the waiting room?",
+      "ko": "대기실이 어디인가요?",
+      "tip": "접수 후 대기 장소를 찾을 때 씁니다."
+    },
+    {
+      "en": "How long is the wait?",
+      "ko": "얼마나 기다려야 하나요?",
+      "tip": "대기 시간을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "What seems to be the problem today?",
+      "ko": "오늘 어디가 불편해서 오셨나요?",
+      "tip": "의사가 증상을 물어볼 때 하는 말입니다."
+    },
+    {
+      "en": "I have a terrible headache.",
+      "ko": "머리가 너무 아파요.",
+      "tip": "심한 두통을 호소할 때 씁니다."
+    },
+    {
+      "en": "My stomach hurts really badly.",
+      "ko": "배가 너무 아파요.",
+      "tip": "심한 복통을 설명할 때 사용합니다."
+    },
+    {
+      "en": "I have a sore throat and a cough.",
+      "ko": "목이 아프고 기침이 나요.",
+      "tip": "감기나 인후염 증상을 말할 때 씁니다."
+    },
+    {
+      "en": "I've been feeling dizzy since this morning.",
+      "ko": "오늘 아침부터 어지러워요.",
+      "tip": "어지럼증이 시작된 시점과 함께 증상을 말합니다."
+    },
+    {
+      "en": "I have a high fever and chills.",
+      "ko": "고열이 나고 오한이 있어요.",
+      "tip": "열과 함께 몸이 떨리는 증상을 설명합니다."
+    },
+    {
+      "en": "My nose is runny and stuffed up.",
+      "ko": "콧물이 나고 코가 막혀요.",
+      "tip": "비염이나 코감기 증상을 말할 때 씁니다."
+    },
+    {
+      "en": "I've been vomiting all night.",
+      "ko": "밤새 토했어요.",
+      "tip": "구토 증상을 설명할 때 사용합니다."
+    },
+    {
+      "en": "I have severe diarrhea.",
+      "ko": "심한 설사를 해요.",
+      "tip": "설사 증상을 의사에게 알릴 때 씁니다."
+    },
+    {
+      "en": "I feel nauseous.",
+      "ko": "속이 메스꺼워요.",
+      "tip": "토할 것 같은 느낌을 설명할 때 사용합니다."
+    },
+    {
+      "en": "I have a sharp pain in my chest.",
+      "ko": "가슴에 찌르는 듯한 통증이 있어요.",
+      "tip": "흉통의 양상을 구체적으로 설명할 때 씁니다."
+    },
+    {
+      "en": "My lower back is killing me.",
+      "ko": "허리가 끊어질 듯이 아파요.",
+      "tip": "극심한 요통을 과장하여 표현할 때 씁니다."
+    },
+    {
+      "en": "I sprained my ankle.",
+      "ko": "발목을 삐었어요.",
+      "tip": "발목 염좌를 설명할 때 사용합니다."
+    },
+    {
+      "en": "I think I broke my arm.",
+      "ko": "팔이 부러진 것 같아요.",
+      "tip": "골절이 의심될 때 증상을 말합니다."
+    },
+    {
+      "en": "I have a rash on my arm.",
+      "ko": "팔에 발진이 생겼어요.",
+      "tip": "피부에 붉은 반점이나 발진이 났을 때 씁니다."
+    },
+    {
+      "en": "My skin is very itchy.",
+      "ko": "피부가 너무 가려워요.",
+      "tip": "가려움증을 호소할 때 사용합니다."
+    },
+    {
+      "en": "My eyes are red and swollen.",
+      "ko": "눈이 충혈되고 부었어요.",
+      "tip": "안과 질환이나 알레르기 증상을 설명할 때 씁니다."
+    },
+    {
+      "en": "I have a toothache.",
+      "ko": "치통이 있어요.",
+      "tip": "이가 아플 때 치과에서 사용합니다."
+    },
+    {
+      "en": "I have a terrible earache.",
+      "ko": "귀가 너무 아파요.",
+      "tip": "귀 통증을 호소할 때 씁니다."
+    },
+    {
+      "en": "I can't stop sneezing.",
+      "ko": "재채기가 멈추지 않아요.",
+      "tip": "알레르기나 감기로 인한 잦은 재채기를 말합니다."
+    },
+    {
+      "en": "I feel very weak and tired.",
+      "ko": "몸에 기운이 없고 너무 피곤해요.",
+      "tip": "전신 무력감과 피로를 설명할 때 씁니다."
+    },
+    {
+      "en": "I have a loss of appetite.",
+      "ko": "식욕이 없어요.",
+      "tip": "입맛이 없음을 의사에게 알릴 때 사용합니다."
+    },
+    {
+      "en": "I can't sleep well at night.",
+      "ko": "밤에 잠을 잘 못 자요.",
+      "tip": "불면증 증상을 설명할 때 씁니다."
+    },
+    {
+      "en": "It hurts right here.",
+      "ko": "바로 여기가 아파요.",
+      "tip": "아픈 부위를 직접 가리키며 말할 때 사용합니다."
+    },
+    {
+      "en": "It hurts when I press here.",
+      "ko": "여기를 누르면 아파요.",
+      "tip": "압통이 있음을 설명할 때 씁니다."
+    },
+    {
+      "en": "The pain is getting worse.",
+      "ko": "통증이 점점 심해져요.",
+      "tip": "증상이 악화되고 있음을 알릴 때 사용합니다."
+    },
+    {
+      "en": "It's a dull, throbbing ache.",
+      "ko": "둔하고 욱신거리는 통증이에요.",
+      "tip": "통증의 느낌을 자세히 묘사할 때 씁니다."
+    },
+    {
+      "en": "When did the symptoms start?",
+      "ko": "증상이 언제 시작되었나요?",
+      "tip": "의사가 발병 시기를 물어볼 때 하는 말입니다."
+    },
+    {
+      "en": "It started two days ago.",
+      "ko": "이틀 전에 시작되었어요.",
+      "tip": "증상 시작 시점을 대답할 때 씁니다."
+    },
+    {
+      "en": "Have you taken any medicine for this?",
+      "ko": "이 증상 때문에 약을 드신 적이 있나요?",
+      "tip": "의사가 자가 투약 여부를 물어볼 때 씁니다."
+    },
+    {
+      "en": "I took some painkillers yesterday.",
+      "ko": "어제 진통제를 좀 먹었어요.",
+      "tip": "복용한 약을 의사에게 알릴 때 사용합니다."
+    },
+    {
+      "en": "Are you allergic to any medications?",
+      "ko": "약물 알레르기가 있나요?",
+      "tip": "의사나 약사가 알레르기 여부를 확인할 때 묻습니다."
+    },
+    {
+      "en": "I don't have any known allergies.",
+      "ko": "알려진 알레르기는 없습니다.",
+      "기": "알레르기가 없다고 대답할 때 씁니다."
+    },
+    {
+      "en": "Are you currently taking any medication?",
+      "ko": "현재 복용 중인 약이 있나요?",
+      "tip": "의사가 현재 투약 상태를 물어볼 때 씁니다."
+    },
+    {
+      "en": "I take blood pressure medicine daily.",
+      "ko": "매일 혈압약을 먹고 있어요.",
+      "tip": "지병으로 먹는 약을 설명할 때 사용합니다."
+    },
+    {
+      "en": "Is there any chance you might be pregnant?",
+      "ko": "임신 가능성이 있나요?",
+      "tip": "X-ray 촬영이나 약 처방 전 의사가 묻는 질문입니다."
+    },
+    {
+      "en": "I am three months pregnant.",
+      "ko": "임신 3개월입니다.",
+      "tip": "임신 상태임을 알릴 때 반드시 말해야 합니다."
+    },
+    {
+      "en": "I am breastfeeding.",
+      "ko": "모유 수유 중입니다.",
+      "tip": "수유 중임을 알려 안전한 약을 처방받기 위해 씁니다."
+    },
+    {
+      "en": "I have a history of asthma.",
+      "ko": "천식 병력이 있습니다.",
+      "tip": "과거 병력을 의사에게 알릴 때 사용합니다."
+    },
+    {
+      "en": "I have diabetes.",
+      "ko": "저는 당뇨가 있습니다.",
+      "tip": "당뇨병이 있음을 알릴 때 씁니다."
+    },
+    {
+      "en": "Let me check your blood pressure.",
+      "ko": "혈압을 재보겠습니다.",
+      "tip": "간호사나 의사가 혈압 측정을 안내할 때 씁니다."
+    },
+    {
+      "en": "Please step on the scale.",
+      "ko": "체중계에 올라가 주세요.",
+      "tip": "몸무게를 잴 때 듣는 말입니다."
+    },
+    {
+      "en": "Open your mouth and say ah.",
+      "ko": "입을 벌리고 아 해보세요.",
+      "tip": "목 안을 진찰할 때 의사가 하는 말입니다."
+    },
+    {
+      "en": "Take a deep breath and hold it.",
+      "ko": "숨을 깊게 들이마시고 참으세요.",
+      "tip": "청진이나 흉부 X-ray 촬영 시 듣는 말입니다."
+    },
+    {
+      "en": "We need to run some blood tests.",
+      "ko": "혈액 검사를 좀 해야겠습니다.",
+      "tip": "의사가 피검사를 지시할 때 씁니다."
+    },
+    {
+      "en": "You need to get an X-ray.",
+      "ko": "엑스레이를 찍어보셔야 합니다.",
+      "tip": "방사선 촬영이 필요할 때 듣는 말입니다."
+    },
+    {
+      "en": "We need a urine sample.",
+      "ko": "소변 샘플이 필요합니다.",
+      "tip": "소변 검사를 안내받을 때 씁니다."
+    },
+    {
+      "en": "It looks like a viral infection.",
+      "ko": "바이러스 감염인 것 같습니다.",
+      "tip": "의사가 진단 결과를 말해줄 때 씁니다."
+    },
+    {
+      "en": "You have food poisoning.",
+      "ko": "식중독입니다.",
+      "tip": "식중독 진단을 받았을 때 듣는 말입니다."
+    },
+    {
+      "en": "It's just a common cold.",
+      "ko": "그냥 단순한 감기입니다.",
+      "tip": "가벼운 감기라는 진단을 받을 때 씁니다."
+    },
+    {
+      "en": "You need to get some rest.",
+      "ko": "휴식을 좀 취하셔야 합니다.",
+      "tip": "의사가 안정을 권고할 때 하는 말입니다."
+    },
+    {
+      "en": "Drink plenty of fluids.",
+      "ko": "수분을 충분히 섭취하세요.",
+      "tip": "물을 많이 마시라는 의사의 조언입니다."
+    },
+    {
+      "en": "You should avoid spicy food.",
+      "ko": "매운 음식은 피하셔야 합니다.",
+      "tip": "위장 질환 시 식단 주의사항을 들을 때 씁니다."
+    },
+    {
+      "en": "I'm going to prescribe some antibiotics.",
+      "ko": "항생제를 처방해 드리겠습니다.",
+      "tip": "의사가 약 처방 계획을 말할 때 씁니다."
+    },
+    {
+      "en": "You need to take this for five days.",
+      "ko": "이 약을 5일 동안 드셔야 합니다.",
+      "tip": "투약 기간을 안내받을 때 듣는 말입니다."
+    },
+    {
+      "en": "Do I need to come back?",
+      "ko": "다시 와야 하나요?",
+      "tip": "재진이 필요한지 물어볼 때 씁니다."
+    },
+    {
+      "en": "Come back if it doesn't get better.",
+      "ko": "나아지지 않으면 다시 오세요.",
+      "tip": "경과를 지켜보자는 의사의 말입니다."
+    },
+    {
+      "en": "I need a medical certificate for my insurance.",
+      "ko": "보험 청구용 진단서가 필요합니다.",
+      "tip": "보험사에 제출할 서류를 요청할 때 씁니다."
+    },
+    {
+      "en": "Can I get a copy of my medical records?",
+      "ko": "진료 기록 사본을 받을 수 있을까요?",
+      "tip": "의무 기록을 복사해 달라고 할 때 사용합니다."
+    },
+    {
+      "en": "Can I get a receipt, please?",
+      "ko": "영수증 좀 주시겠어요?",
+      "tip": "수납 후 영수증 발급을 요청할 때 씁니다."
+    },
+    {
+      "en": "Where is the nearest pharmacy?",
+      "ko": "가장 가까운 약국이 어디인가요?",
+      "tip": "처방전을 가지고 약국을 찾을 때 묻습니다."
+    },
+    {
+      "en": "I'd like to fill this prescription, please.",
+      "ko": "이 처방전대로 약을 조제해 주세요.",
+      "tip": "약국에 처방전을 제출하며 하는 말입니다."
+    },
+    {
+      "en": "How long will it take to prepare?",
+      "ko": "약이 나오는 데 얼마나 걸리나요?",
+      "tip": "조제 대기 시간을 물어볼 때 씁니다."
+    },
+    {
+      "en": "It will be ready in about ten minutes.",
+      "ko": "약 10분 정도 걸립니다.",
+      "tip": "약사가 대기 시간을 알려줄 때 하는 말입니다."
+    },
+    {
+      "en": "Do you have any over-the-counter medicine for a cold?",
+      "ko": "처방전 없이 살 수 있는 감기약 있나요?",
+      "tip": "일반 의약품을 찾을 때 씁니다."
+    },
+    {
+      "en": "I need something for a headache.",
+      "ko": "두통약 좀 주세요.",
+      "tip": "증상을 말하고 약을 추천받을 때 사용합니다."
+    },
+    {
+      "en": "Do you have anything for motion sickness?",
+      "ko": "멀미약 있나요?",
+      "tip": "멀미약을 찾을 때 씁니다."
+    },
+    {
+      "en": "I need some band-aids and antiseptic.",
+      "ko": "반창고와 소독약이 필요해요.",
+      "tip": "상처 치료용품을 살 때 사용합니다."
+    },
+    {
+      "en": "Do you have any digestive medicine?",
+      "ko": "소화제 있나요?",
+      "tip": "소화가 안 될 때 소화제를 찾으며 묻습니다."
+    },
+    {
+      "en": "I need eye drops for dry eyes.",
+      "ko": "안구 건조증용 안약이 필요해요.",
+      "tip": "인공눈물이나 안약을 살 때 씁니다."
+    },
+    {
+      "en": "Do you have an ointment for burns?",
+      "ko": "화상 연고 있나요?",
+      "tip": "데였을 때 바를 연고를 찾을 때 사용합니다."
+    },
+    {
+      "en": "I need a thermometer.",
+      "ko": "체온계가 필요해요.",
+      "tip": "열을 재기 위해 체온계를 살 때 씁니다."
+    },
+    {
+      "en": "How should I take this medicine?",
+      "ko": "이 약은 어떻게 먹어야 하나요?",
+      "tip": "복용법을 약사에게 물어볼 때 씁니다."
+    },
+    {
+      "en": "Take one pill three times a day.",
+      "ko": "하루 세 번 한 알씩 드세요.",
+      "tip": "가장 일반적인 복용 지시사항입니다."
+    },
+    {
+      "en": "Take this thirty minutes after meals.",
+      "ko": "식후 30분에 드세요.",
+      "tip": "식후 복용을 안내받을 때 듣는 말입니다."
+    },
+    {
+      "en": "Take this on an empty stomach.",
+      "ko": "빈속에 드세요.",
+      "tip": "식전 복용을 안내받을 때 듣는 말입니다."
+    },
+    {
+      "en": "Take this before you go to bed.",
+      "ko": "취침 전에 드세요.",
+      "tip": "수면제나 특정 약의 취침 전 복용 안내입니다."
+    },
+    {
+      "en": "Does this medicine have any side effects?",
+      "ko": "이 약에 부작용이 있나요?",
+      "tip": "약의 부작용을 미리 확인할 때 묻습니다."
+    },
+    {
+      "en": "This might make you feel drowsy.",
+      "ko": "이 약을 먹으면 졸릴 수 있습니다.",
+      "tip": "졸음 유발 부작용을 경고받을 때 듣습니다."
+    },
+    {
+      "en": "Do not drink alcohol while taking this.",
+      "ko": "이 약을 드시는 동안에는 술을 드시면 안 됩니다.",
+      "tip": "음주 금지 주의사항을 들을 때 씁니다."
+    },
+    {
+      "en": "Can I take this with other medications?",
+      "ko": "다른 약과 함께 먹어도 되나요?",
+      "tip": "약물 병용 금기가 있는지 확인할 때 묻습니다."
+    },
+    {
+      "en": "Is this safe for children?",
+      "ko": "아이들이 먹어도 안전한가요?",
+      "tip": "어린이 복용 가능 여부를 물어볼 때 씁니다."
+    },
+    {
+      "en": "What is the dosage for a ten-year-old?",
+      "ko": "10살 아이의 복용량은 어떻게 되나요?",
+      "tip": "연령에 맞는 복용량을 확인할 때 사용합니다."
+    },
+    {
+      "en": "I need a refill for my prescription.",
+      "ko": "처방전 약을 리필하고 싶어요.",
+      "tip": "장기 복용 약을 다시 타러 갈 때 씁니다."
+    },
+    {
+      "en": "My prescription has expired.",
+      "ko": "제 처방전 기한이 만료되었어요.",
+      "tip": "처방전 유효기간이 지났음을 알릴 때 씁니다."
+    },
+    {
+      "en": "Do you sell contact lens solution?",
+      "ko": "콘택트렌즈 세척액 파나요?",
+      "tip": "렌즈 세척액을 약국에서 찾을 때 묻습니다."
+    },
+    {
+      "en": "I need some vitamin C supplements.",
+      "ko": "비타민 C 영양제가 필요해요.",
+      "tip": "영양제를 구매할 때 사용합니다."
+    },
+    {
+      "en": "Do you have any insect repellent?",
+      "ko": "벌레 기피제 있나요?",
+      "tip": "모기약 등 벌레 퇴치제를 찾을 때 씁니다."
+    },
+    {
+      "en": "Thank you for your help, doctor.",
+      "ko": "도와주셔서 감사합니다, 선생님.",
+      "tip": "진료를 마치고 의사에게 인사할 때 씁니다."
     }
   ],
   "police": [
@@ -2790,6 +4235,506 @@
       "en": "Please give me a copy of the report.",
       "ko": "신고서 사본을 주세요.",
       "tip": "보험사 제출용으로 사본을 꼭 챙기세요."
+    },
+    {
+      "en": "I want to report a stolen bag.",
+      "ko": "가방 도난 신고를 하고 싶습니다.",
+      "tip": "가방을 도난당했을 때 경찰서에서 처음 하는 말입니다."
+    },
+    {
+      "en": "Where can I file a police report?",
+      "ko": "경찰 조서는 어디서 작성할 수 있나요?",
+      "tip": "조서 작성이 필요한 부서를 찾을 때 씁니다."
+    },
+    {
+      "en": "My wallet was pickpocketed on the subway.",
+      "ko": "지하철에서 소매치기를 당해 지갑을 잃어버렸어요.",
+      "tip": "소매치기 피해 사실과 장소를 함께 알릴 때 사용합니다."
+    },
+    {
+      "en": "I left my phone in a taxi.",
+      "ko": "택시에 휴대폰을 두고 내렸어요.",
+      "tip": "택시 분실물을 신고할 때 씁니다."
+    },
+    {
+      "en": "Someone broke into my rental car.",
+      "ko": "누군가 제 렌터카에 침입했어요.",
+      "tip": "차량 털이 피해를 신고할 때 사용합니다."
+    },
+    {
+      "en": "My passport is missing from my hotel room.",
+      "ko": "호텔 방에서 여권이 없어졌어요.",
+      "tip": "숙소 내 도난이 의심될 때 알립니다."
+    },
+    {
+      "en": "I need a police report for my insurance company.",
+      "ko": "보험사에 제출할 경찰 조서(폴리스 리포트)가 필요해요.",
+      "tip": "조서 발급 목적을 설명할 때 씁니다."
+    },
+    {
+      "en": "Can you give me a copy of the report?",
+      "ko": "조서 사본을 주실 수 있나요?",
+      "tip": "작성된 조서의 복사본을 요청할 때 사용합니다."
+    },
+    {
+      "en": "When did you realize it was missing?",
+      "ko": "언제 없어졌다는 것을 깨달았나요?",
+      "tip": "경찰이 분실 인지 시점을 물어볼 때 하는 말입니다."
+    },
+    {
+      "en": "I noticed it was gone about an hour ago.",
+      "ko": "약 한 시간 전에 없어진 걸 알았어요.",
+      "tip": "분실 인지 시점을 대답할 때 씁니다."
+    },
+    {
+      "en": "What was in your bag?",
+      "ko": "가방 안에 무엇이 들어 있었나요?",
+      "tip": "경찰이 분실물의 내용물을 확인할 때 묻습니다."
+    },
+    {
+      "en": "There was some cash, my credit cards, and my ID.",
+      "ko": "현금 약간과 신용카드, 신분증이 들어 있었어요.",
+      "tip": "잃어버린 물건들을 나열할 때 사용합니다."
+    },
+    {
+      "en": "How much cash was in the wallet?",
+      "ko": "지갑에 현금이 얼마나 있었나요?",
+      "tip": "정확한 피해 금액을 확인할 때 듣는 말입니다."
+    },
+    {
+      "en": "About two hundred dollars.",
+      "ko": "약 200달러 정도요.",
+      "tip": "대략적인 금액을 대답할 때 씁니다."
+    },
+    {
+      "en": "What color is your suitcase?",
+      "ko": "여행 가방은 무슨 색인가요?",
+      "tip": "분실물의 외형을 물어볼 때 씁니다."
+    },
+    {
+      "en": "It's a large black Samsonite suitcase.",
+      "ko": "크고 검은색인 샘소나이트 여행 가방입니다.",
+      "tip": "브랜드와 색상, 크기를 구체적으로 설명합니다."
+    },
+    {
+      "en": "Are there any distinguishing marks on it?",
+      "ko": "눈에 띄는 특징이 있나요?",
+      "tip": "분실물을 식별할 수 있는 특징을 물어볼 때 듣습니다."
+    },
+    {
+      "en": "It has a red ribbon tied to the handle.",
+      "ko": "손잡이에 빨간 리본이 묶여 있어요.",
+      "tip": "본인 물건만의 특징을 설명할 때 씁니다."
+    },
+    {
+      "en": "Can you describe the person who took it?",
+      "ko": "가져간 사람의 인상착의를 설명해 주실 수 있나요?",
+      "tip": "용의자 묘사를 요청받을 때 듣는 말입니다."
+    },
+    {
+      "en": "He was tall and wearing a black hoodie.",
+      "ko": "그는 키가 컸고 검은색 후드티를 입고 있었어요.",
+      "tip": "용의자의 키와 옷차림을 설명할 때 사용합니다."
+    },
+    {
+      "en": "I didn't get a good look at his face.",
+      "ko": "얼굴은 제대로 보지 못했어요.",
+      "tip": "용의자의 얼굴을 기억하지 못할 때 솔직하게 말합니다."
+    },
+    {
+      "en": "He ran away towards the station.",
+      "ko": "그가 역 쪽으로 도망갔어요.",
+      "tip": "도주 방향을 알려줄 때 씁니다."
+    },
+    {
+      "en": "Did anyone else see what happened?",
+      "ko": "무슨 일이 있었는지 본 다른 사람이 있나요?",
+      "tip": "경찰이 목격자 유무를 확인할 때 묻습니다."
+    },
+    {
+      "en": "I think the shop owner might have seen it.",
+      "ko": "가게 주인이 봤을지도 몰라요.",
+      "tip": "잠재적인 목격자를 지목할 때 사용합니다."
+    },
+    {
+      "en": "Are there any security cameras around there?",
+      "ko": "그 주변에 보안 카메라(CCTV)가 있나요?",
+      "tip": "CCTV 확인을 요청하거나 물어볼 때 씁니다."
+    },
+    {
+      "en": "Please fill out this lost property form.",
+      "ko": "이 분실물 신고서를 작성해 주세요.",
+      "tip": "경찰이 서류 작성을 안내할 때 하는 말입니다."
+    },
+    {
+      "en": "Do you have any identification with you?",
+      "ko": "신분증을 가지고 계신가요?",
+      "tip": "신원 확인을 위해 신분증을 요구할 때 듣습니다."
+    },
+    {
+      "en": "I only have a copy of my passport.",
+      "ko": "여권 사본만 가지고 있어요.",
+      "tip": "원본 신분증이 없을 때 대답합니다."
+    },
+    {
+      "en": "What is your contact number here?",
+      "ko": "이곳에서의 연락처가 어떻게 되나요?",
+      "tip": "현지 연락처를 물어볼 때 듣는 말입니다."
+    },
+    {
+      "en": "You can reach me at my hotel.",
+      "ko": "제 호텔로 연락 주시면 됩니다.",
+      "tip": "현지 번호가 없을 때 숙소 연락처를 안내합니다."
+    },
+    {
+      "en": "My hotel is the Grand Plaza in downtown.",
+      "ko": "제 호텔은 시내에 있는 그랜드 플라자입니다.",
+      "tip": "숙소 이름과 위치를 정확히 알려줄 때 씁니다."
+    },
+    {
+      "en": "How long will the investigation take?",
+      "ko": "조사는 얼마나 걸릴까요?",
+      "tip": "수사 소요 시간을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "We will contact you if we find anything.",
+      "ko": "단서가 발견되면 연락드리겠습니다.",
+      "tip": "경찰이 수사 진행 상황 통보를 약속할 때 하는 말입니다."
+    },
+    {
+      "en": "Is there any chance of getting it back?",
+      "ko": "되찾을 가능성이 있을까요?",
+      "tip": "물건을 찾을 수 있을지 물어볼 때 씁니다."
+    },
+    {
+      "en": "I've already canceled my credit cards.",
+      "ko": "신용카드는 이미 정지시켰어요.",
+      "tip": "2차 피해 방지 조치를 완료했음을 알릴 때 사용합니다."
+    },
+    {
+      "en": "I need to contact my embassy immediately.",
+      "ko": "즉시 대사관에 연락해야 해요.",
+      "tip": "대사관의 도움이 시급할 때 경찰에 알립니다."
+    },
+    {
+      "en": "Can you provide a translator?",
+      "ko": "통역사를 제공해 주실 수 있나요?",
+      "tip": "의사소통이 어려워 통역 지원을 요청할 때 씁니다."
+    },
+    {
+      "en": "I don't speak English very well.",
+      "ko": "저는 영어를 잘하지 못합니다.",
+      "tip": "언어 장벽을 솔직하게 알릴 때 사용합니다."
+    },
+    {
+      "en": "Could you speak a little slower, please?",
+      "ko": "조금만 천천히 말씀해 주시겠어요?",
+      "tip": "경찰의 말이 너무 빠를 때 정중히 요청합니다."
+    },
+    {
+      "en": "I was walking down the street when it happened.",
+      "ko": "사건이 발생했을 때 저는 길을 걷고 있었어요.",
+      "tip": "사건 당시의 상황을 묘사하기 시작할 때 씁니다."
+    },
+    {
+      "en": "Two men approached me from behind.",
+      "ko": "두 남자가 뒤에서 저에게 다가왔어요.",
+      "tip": "용의자의 접근 방식을 설명할 때 사용합니다."
+    },
+    {
+      "en": "One of them bumped into me intentionally.",
+      "ko": "그들 중 한 명이 고의로 저와 부딪혔어요.",
+      "tip": "소매치기 수법(고의 충돌)을 설명할 때 씁니다."
+    },
+    {
+      "en": "I felt someone's hand in my pocket.",
+      "ko": "누군가의 손이 제 주머니에 들어오는 것을 느꼈어요.",
+      "tip": "소매치기 순간의 느낌을 진술할 때 사용합니다."
+    },
+    {
+      "en": "I shouted for help, but no one came.",
+      "ko": "도와달라고 소리쳤지만 아무도 오지 않았어요.",
+      "tip": "당시의 대처와 주변 상황을 설명할 때 씁니다."
+    },
+    {
+      "en": "My laptop was in the backpack.",
+      "ko": "제 노트북이 배낭 안에 있었어요.",
+      "tip": "도난당한 주요 물품을 구체적으로 언급할 때 사용합니다."
+    },
+    {
+      "en": "It's a silver MacBook Pro.",
+      "ko": "은색 맥북 프로입니다.",
+      "tip": "전자기기의 모델과 색상을 정확히 설명합니다."
+    },
+    {
+      "en": "The serial number is written on this paper.",
+      "ko": "일련번호가 이 종이에 적혀 있어요.",
+      "tip": "기기 추적을 위해 일련번호를 제공할 때 씁니다."
+    },
+    {
+      "en": "I have the receipt for the stolen camera.",
+      "ko": "도난당한 카메라의 영수증을 가지고 있어요.",
+      "tip": "소유권 및 가치 증명을 위해 영수증을 제시할 때 사용합니다."
+    },
+    {
+      "en": "The camera lens was also attached.",
+      "ko": "카메라 렌즈도 장착되어 있었어요.",
+      "tip": "추가적인 도난 물품을 설명할 때 씁니다."
+    },
+    {
+      "en": "My designer sunglasses were in the case.",
+      "ko": "명품 선글라스가 케이스 안에 있었어요.",
+      "tip": "고가의 분실물을 신고할 때 사용합니다."
+    },
+    {
+      "en": "I left my purse on the chair at the cafe.",
+      "ko": "카페 의자에 지갑을 두고 왔어요.",
+      "tip": "분실 장소와 상황을 설명할 때 씁니다."
+    },
+    {
+      "en": "When I came back, it was gone.",
+      "ko": "돌아와 보니 없어져 있었어요.",
+      "tip": "분실 사실을 인지한 순간을 진술할 때 사용합니다."
+    },
+    {
+      "en": "I asked the staff, but they didn't see anything.",
+      "ko": "직원에게 물어봤지만 아무것도 보지 못했다고 했어요.",
+      "tip": "자체적으로 확인한 내용을 경찰에 알릴 때 씁니다."
+    },
+    {
+      "en": "I tracked my phone using GPS.",
+      "ko": "GPS를 이용해 제 휴대폰을 추적했어요.",
+      "tip": "위치 추적 결과를 경찰에 알릴 때 사용합니다."
+    },
+    {
+      "en": "The location shows it's in this neighborhood.",
+      "ko": "위치가 이 동네로 나와요.",
+      "tip": "추적된 대략적인 위치를 알려줄 때 씁니다."
+    },
+    {
+      "en": "Can you send an officer to that location?",
+      "ko": "그 위치로 경찰관을 보내주실 수 있나요?",
+      "tip": "추적된 위치로 출동을 요청할 때 사용합니다."
+    },
+    {
+      "en": "I am leaving the country tomorrow.",
+      "ko": "저는 내일 출국합니다.",
+      "tip": "시간이 촉박함을 경찰에 알릴 때 씁니다."
+    },
+    {
+      "en": "Can you email me the report number?",
+      "ko": "조서 번호를 이메일로 보내주실 수 있나요?",
+      "tip": "출국 후 조서 번호를 받기 위해 요청할 때 사용합니다."
+    },
+    {
+      "en": "What should I do next?",
+      "ko": "다음에는 어떻게 해야 하나요?",
+      "tip": "신고 후 향후 절차를 물어볼 때 씁니다."
+    },
+    {
+      "en": "Do I need to come back to the station?",
+      "ko": "경찰서에 다시 와야 하나요?",
+      "tip": "재방문 필요 여부를 확인할 때 사용합니다."
+    },
+    {
+      "en": "Is this the lost and found department?",
+      "ko": "여기가 분실물 센터인가요?",
+      "tip": "경찰서 내 분실물 담당 부서를 찾을 때 묻습니다."
+    },
+    {
+      "en": "I'm looking for a lost umbrella.",
+      "ko": "잃어버린 우산을 찾고 있어요.",
+      "tip": "특정 분실물을 찾으러 왔음을 알릴 때 씁니다."
+    },
+    {
+      "en": "Has anyone turned in a brown leather jacket?",
+      "ko": "갈색 가죽 재킷 들어온 것 있나요?",
+      "tip": "누군가 습득하여 제출했는지 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I lost my wedding ring at the beach.",
+      "ko": "해변에서 결혼반지를 잃어버렸어요.",
+      "tip": "귀중품 분실 장소를 설명할 때 씁니다."
+    },
+    {
+      "en": "It has my initials engraved inside.",
+      "ko": "안쪽에 제 이니셜이 새겨져 있어요.",
+      "tip": "반지 등 귀금속의 고유한 특징을 설명할 때 사용합니다."
+    },
+    {
+      "en": "I dropped my keys somewhere in the park.",
+      "ko": "공원 어딘가에 열쇠를 떨어뜨렸어요.",
+      "tip": "정확한 분실 위치를 모를 때 씁니다."
+    },
+    {
+      "en": "They are on a blue keychain.",
+      "ko": "파란색 열쇠고리에 끼워져 있어요.",
+      "tip": "열쇠의 특징을 설명할 때 사용합니다."
+    },
+    {
+      "en": "I want to report a scam.",
+      "ko": "사기를 당해서 신고하고 싶습니다.",
+      "tip": "사기 피해를 신고할 때 씁니다."
+    },
+    {
+      "en": "I bought fake tickets from a street vendor.",
+      "ko": "노점상에게서 가짜 티켓을 샀어요.",
+      "tip": "사기 수법을 구체적으로 설명할 때 사용합니다."
+    },
+    {
+      "en": "I paid him in cash.",
+      "ko": "그에게 현금으로 지불했어요.",
+      "tip": "결제 수단을 진술할 때 씁니다."
+    },
+    {
+      "en": "He told me to wait, but he never returned.",
+      "ko": "기다리라고 하더니 돌아오지 않았어요.",
+      "tip": "사기꾼의 행동을 묘사할 때 사용합니다."
+    },
+    {
+      "en": "I was overcharged by a taxi driver.",
+      "ko": "택시 기사에게 바가지를 썼어요.",
+      "tip": "부당한 요금 청구 피해를 신고할 때 씁니다."
+    },
+    {
+      "en": "The driver refused to use the meter.",
+      "ko": "기사가 미터기 사용을 거부했어요.",
+      "tip": "택시 기사의 불법 행위를 진술할 때 사용합니다."
+    },
+    {
+      "en": "I took a picture of the license plate.",
+      "ko": "번호판 사진을 찍어두었어요.",
+      "tip": "증거 자료가 있음을 경찰에 알릴 때 씁니다."
+    },
+    {
+      "en": "Here is the photo on my phone.",
+      "ko": "제 휴대폰에 있는 사진이 여기 있습니다.",
+      "tip": "경찰에게 증거 사진을 보여줄 때 사용합니다."
+    },
+    {
+      "en": "I want to press charges.",
+      "ko": "고소(처벌)를 원합니다.",
+      "tip": "가해자에 대한 법적 처벌 의사를 밝힐 때 씁니다."
+    },
+    {
+      "en": "I don't want to press charges, I just want my things back.",
+      "ko": "처벌은 원하지 않고, 제 물건만 되찾고 싶어요.",
+      "tip": "처벌보다는 피해 복구에 목적이 있음을 알릴 때 사용합니다."
+    },
+    {
+      "en": "I feel very unsafe right now.",
+      "ko": "지금 너무 불안해요.",
+      "tip": "신변의 위협이나 불안감을 느낄 때 경찰에 호소합니다."
+    },
+    {
+      "en": "Can someone escort me to my hotel?",
+      "ko": "누군가 저를 호텔까지 에스코트해 주실 수 있나요?",
+      "tip": "안전을 위해 동행을 요청할 때 씁니다."
+    },
+    {
+      "en": "I am traveling alone.",
+      "ko": "저는 혼자 여행 중입니다.",
+      "tip": "동행자가 없음을 알려 추가적인 보호를 요청할 때 사용합니다."
+    },
+    {
+      "en": "My travel companion is at the hospital.",
+      "ko": "제 일행은 병원에 있어요.",
+      "tip": "일행의 위치와 상황을 설명할 때 씁니다."
+    },
+    {
+      "en": "We were attacked by a group of teenagers.",
+      "ko": "10대 무리에게 공격을 받았어요.",
+      "tip": "폭행 피해 사실과 가해자를 진술할 때 사용합니다."
+    },
+    {
+      "en": "They threatened us with a knife.",
+      "ko": "그들이 칼로 우리를 위협했어요.",
+      "tip": "무기를 사용한 위협 사실을 알릴 때 씁니다."
+    },
+    {
+      "en": "They demanded our money and phones.",
+      "ko": "그들이 돈과 휴대폰을 요구했어요.",
+      "tip": "강도의 요구 사항을 진술할 때 사용합니다."
+    },
+    {
+      "en": "I handed over everything I had.",
+      "ko": "가진 것을 모두 넘겨주었어요.",
+      "tip": "피해 상황을 설명할 때 씁니다."
+    },
+    {
+      "en": "I am physically unharmed, but very shocked.",
+      "ko": "신체적으로 다치진 않았지만, 너무 큰 충격을 받았어요.",
+      "tip": "현재의 신체적, 심리적 상태를 알릴 때 사용합니다."
+    },
+    {
+      "en": "Do you need medical attention?",
+      "ko": "의학적 치료가 필요하신가요?",
+      "tip": "경찰이 부상 여부를 확인할 때 묻는 말입니다."
+    },
+    {
+      "en": "No, I don't need an ambulance.",
+      "ko": "아니요, 구급차는 필요 없습니다.",
+      "tip": "병원 치료가 필요 없음을 대답할 때 씁니다."
+    },
+    {
+      "en": "Please sign at the bottom of the page.",
+      "ko": "페이지 하단에 서명해 주세요.",
+      "tip": "조서 작성을 마치고 서명을 요구받을 때 듣습니다."
+    },
+    {
+      "en": "Read the statement carefully before signing.",
+      "ko": "서명하기 전에 진술서를 주의 깊게 읽어보세요.",
+      "tip": "서명 전 내용 확인을 당부받을 때 듣는 말입니다."
+    },
+    {
+      "en": "Is everything written here correct?",
+      "ko": "여기에 적힌 내용이 모두 맞습니까?",
+      "tip": "진술 내용의 정확성을 최종 확인할 때 경찰이 묻습니다."
+    },
+    {
+      "en": "Yes, that is exactly what happened.",
+      "ko": "네, 정확히 그렇게 일어난 일입니다.",
+      "tip": "진술 내용이 사실과 일치함을 확인해 줄 때 씁니다."
+    },
+    {
+      "en": "I want to add one more detail.",
+      "ko": "한 가지 세부 사항을 더 추가하고 싶어요.",
+      "tip": "조서에 누락된 내용을 덧붙일 때 사용합니다."
+    },
+    {
+      "en": "He had a scar on his left cheek.",
+      "ko": "그는 왼쪽 뺨에 흉터가 있었어요.",
+      "tip": "용의자의 결정적인 신체적 특징을 묘사할 때 씁니다."
+    },
+    {
+      "en": "He was wearing a baseball cap.",
+      "ko": "그는 야구 모자를 쓰고 있었어요.",
+      "tip": "용의자의 착장을 추가로 설명할 때 사용합니다."
+    },
+    {
+      "en": "The car was a dark blue sedan.",
+      "ko": "그 차는 짙은 파란색 세단이었어요.",
+      "tip": "도주 차량의 색상과 차종을 설명할 때 씁니다."
+    },
+    {
+      "en": "I couldn't catch the license plate number.",
+      "ko": "번호판 번호는 보지 못했어요.",
+      "tip": "차량 번호를 기억하지 못할 때 솔직하게 말합니다."
+    },
+    {
+      "en": "Thank you for your assistance, officer.",
+      "ko": "도와주셔서 감사합니다, 경찰관님.",
+      "tip": "조사를 마치고 경찰에게 감사 인사를 할 때 씁니다."
+    },
+    {
+      "en": "I appreciate your quick response.",
+      "ko": "빠른 대처에 감사드립니다.",
+      "tip": "경찰의 신속한 도움에 고마움을 표할 때 사용합니다."
+    },
+    {
+      "en": "I hope you can catch the culprit.",
+      "ko": "범인을 꼭 잡을 수 있기를 바랍니다.",
+      "tip": "수사 성공을 기원하며 마무리 인사를 할 때 씁니다."
     }
   ],
   "navigation": [
@@ -2867,6 +4812,506 @@
       "en": "It's across the street.",
       "ko": "길 건너편에 있어요.",
       "tip": "(답변 예시) 목적지가 바로 맞은편에 있을 때 듣습니다."
+    },
+    {
+      "en": "Excuse me, where is the nearest subway station?",
+      "ko": "실례합니다, 가장 가까운 지하철역이 어디인가요?",
+      "tip": "길을 물어볼 때 가장 흔하게 쓰는 표현입니다."
+    },
+    {
+      "en": "How do I get to the museum from here?",
+      "ko": "여기서 박물관까지 어떻게 가나요?",
+      "tip": "특정 장소로 가는 방법을 물어볼 때 씁니다."
+    },
+    {
+      "en": "Is there a bus stop near here?",
+      "ko": "이 근처에 버스 정류장이 있나요?",
+      "tip": "가까운 대중교통 이용 장소를 찾을 때 묻습니다."
+    },
+    {
+      "en": "I'm looking for this address.",
+      "ko": "이 주소를 찾고 있어요.",
+      "tip": "주소가 적힌 종이나 스마트폰을 보여주며 묻습니다."
+    },
+    {
+      "en": "Can you show me on the map?",
+      "ko": "지도에서 보여주실 수 있나요?",
+      "tip": "지도를 펴고 위치를 확인받고 싶을 때 씁니다."
+    },
+    {
+      "en": "Am I headed the right way to the station?",
+      "ko": "역으로 가는 방향이 맞나요?",
+      "tip": "가고 있는 방향이 맞는지 확인할 때 묻습니다."
+    },
+    {
+      "en": "Go straight for two blocks.",
+      "ko": "두 블록 직진하세요.",
+      "tip": "직진 방향을 안내받을 때 듣는 말입니다."
+    },
+    {
+      "en": "Turn left at the next intersection.",
+      "ko": "다음 교차로에서 왼쪽으로 도세요.",
+      "tip": "좌회전 방향을 안내받을 때 듣는 말입니다."
+    },
+    {
+      "en": "Turn right at the traffic light.",
+      "ko": "신호등에서 오른쪽으로 도세요.",
+      "tip": "우회전 방향을 안내받을 때 듣는 말입니다."
+    },
+    {
+      "en": "It's on your right.",
+      "ko": "오른쪽에 있습니다.",
+      "tip": "목적지가 오른편에 있음을 알릴 때 씁니다."
+    },
+    {
+      "en": "It's on your left.",
+      "ko": "왼쪽에 있습니다.",
+      "tip": "목적지가 왼편에 있음을 알릴 때 씁니다."
+    },
+    {
+      "en": "It's across the street from the bank.",
+      "ko": "은행 건너편에 있어요.",
+      "tip": "건너편 위치를 설명할 때 사용합니다."
+    },
+    {
+      "en": "It's next to the post office.",
+      "ko": "우체국 옆에 있어요.",
+      "tip": "바로 옆 건물을 기준으로 위치를 설명할 때 씁니다."
+    },
+    {
+      "en": "It's behind the tall building.",
+      "ko": "높은 건물 뒤에 있어요.",
+      "tip": "건물 뒤편에 있음을 알릴 때 사용합니다."
+    },
+    {
+      "en": "It's in front of the park.",
+      "ko": "공원 앞에 있어요.",
+      "tip": "공원 앞쪽 위치를 설명할 때 씁니다."
+    },
+    {
+      "en": "It's between the cafe and the pharmacy.",
+      "ko": "카페와 약국 사이에 있어요.",
+      "tip": "두 건물 사이에 위치함을 설명할 때 사용합니다."
+    },
+    {
+      "en": "You can't miss it.",
+      "ko": "쉽게 찾으실 수 있을 거예요.",
+      "tip": "눈에 잘 띄는 곳에 있음을 강조할 때 씁니다."
+    },
+    {
+      "en": "How far is it from here?",
+      "ko": "여기서 얼마나 먼가요?",
+      "tip": "목적지까지의 거리를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Is it within walking distance?",
+      "ko": "걸어갈 수 있는 거리인가요?",
+      "tip": "도보 이동 가능 여부를 확인할 때 묻습니다."
+    },
+    {
+      "en": "It takes about ten minutes on foot.",
+      "ko": "걸어서 10분 정도 걸려요.",
+      "tip": "도보 소요 시간을 안내받을 때 듣는 말입니다."
+    },
+    {
+      "en": "It's too far to walk.",
+      "ko": "걸어가기엔 너무 멀어요.",
+      "tip": "도보로 가기 힘든 거리임을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "You should take a taxi.",
+      "ko": "택시를 타는 게 좋겠어요.",
+      "tip": "택시 이용을 권유받을 때 듣는 말입니다."
+    },
+    {
+      "en": "Which bus goes to the city center?",
+      "ko": "시내로 가려면 몇 번 버스를 타야 하나요?",
+      "tip": "목적지행 버스 번호를 물어볼 때 씁니다."
+    },
+    {
+      "en": "Where can I catch a taxi?",
+      "ko": "택시는 어디서 탈 수 있나요?",
+      "tip": "택시 승강장이나 잡기 좋은 곳을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Could you help me find my way?",
+      "ko": "길 찾는 것 좀 도와주시겠어요?",
+      "tip": "정중하게 길 안내를 부탁할 때 사용합니다."
+    },
+    {
+      "en": "What street is this?",
+      "ko": "여기가 무슨 거리인가요?",
+      "tip": "현재 위치의 거리 이름을 물어볼 때 씁니다."
+    },
+    {
+      "en": "Where are we now?",
+      "ko": "우리 지금 어디에 있나요?",
+      "tip": "지도상 현재 위치를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Is this the right train for downtown?",
+      "ko": "이 기차가 시내로 가는 게 맞나요?",
+      "기": "올바른 기차/전철을 탔는지 확인할 때 묻습니다."
+    },
+    {
+      "en": "How many stops is it to the airport?",
+      "ko": "공항까지 몇 정거장 남았나요?",
+      "tip": "남은 정거장 수를 물어볼 때 씁니다."
+    },
+    {
+      "en": "Please tell me when to get off.",
+      "ko": "언제 내려야 하는지 알려주세요.",
+      "tip": "내릴 곳을 알려달라고 부탁할 때 사용합니다."
+    },
+    {
+      "en": "You need to transfer at the next station.",
+      "ko": "다음 역에서 환승하셔야 해요.",
+      "tip": "환승 안내를 받을 때 듣는 말입니다."
+    },
+    {
+      "en": "Go down this street.",
+      "ko": "이 길을 따라 내려가세요.",
+      "tip": "길을 따라 직진하라는 안내입니다."
+    },
+    {
+      "en": "Go up this street.",
+      "ko": "이 길을 따라 올라가세요.",
+      "tip": "길을 따라 직진하라는 안내입니다."
+    },
+    {
+      "en": "Walk past the supermarket.",
+      "ko": "슈퍼마켓을 지나서 걸어가세요.",
+      "tip": "특정 건물을 지나치라는 안내입니다."
+    },
+    {
+      "en": "It's at the end of the road.",
+      "ko": "길 끝에 있어요.",
+      "tip": "막다른 곳이나 길 끝에 위치함을 알릴 때 씁니다."
+    },
+    {
+      "en": "It's on the corner of Main Street and First Avenue.",
+      "ko": "메인 스트리트와 1번가 모퉁이에 있어요.",
+      "tip": "두 거리가 만나는 모퉁이 위치를 설명할 때 사용합니다."
+    },
+    {
+      "en": "Keep going until you see a gas station.",
+      "ko": "주유소가 보일 때까지 계속 가세요.",
+      "tip": "특정 랜드마크가 나올 때까지 직진하라는 안내입니다."
+    },
+    {
+      "en": "Cross the bridge.",
+      "ko": "다리를 건너세요.",
+      "tip": "다리를 건너가라는 안내입니다."
+    },
+    {
+      "en": "Go through the tunnel.",
+      "ko": "터널을 통과하세요.",
+      "tip": "터널을 지나가라는 안내입니다."
+    },
+    {
+      "en": "Take the first right.",
+      "ko": "첫 번째 골목에서 오른쪽으로 가세요.",
+      "tip": "첫 번째 교차로에서 우회전하라는 안내입니다."
+    },
+    {
+      "en": "Take the second left.",
+      "ko": "두 번째 골목에서 왼쪽으로 가세요.",
+      "tip": "두 번째 교차로에서 좌회전하라는 안내입니다."
+    },
+    {
+      "en": "It's just around the corner.",
+      "ko": "바로 모퉁이 돌아서 있어요.",
+      "tip": "모퉁이만 돌면 바로 있음을 알릴 때 씁니다."
+    },
+    {
+      "en": "It's opposite the hospital.",
+      "ko": "병원 맞은편에 있어요.",
+      "tip": "맞은편 위치를 설명할 때 사용합니다."
+    },
+    {
+      "en": "Where is the nearest restroom?",
+      "ko": "가장 가까운 화장실이 어디인가요?",
+      "tip": "화장실을 급히 찾을 때 묻습니다."
+    },
+    {
+      "en": "Where is the tourist information center?",
+      "ko": "관광 안내소가 어디인가요?",
+      "tip": "관광 정보를 얻기 위해 안내소를 찾을 때 씁니다."
+    },
+    {
+      "en": "Is there a convenience store around here?",
+      "ko": "이 근처에 편의점이 있나요?",
+      "tip": "가까운 편의점을 찾을 때 묻습니다."
+    },
+    {
+      "en": "Can you point me in the right direction?",
+      "ko": "맞는 방향을 가리켜 주시겠어요?",
+      "tip": "가야 할 방향을 손가락으로 가리켜 달라고 할 때 씁니다."
+    },
+    {
+      "en": "I'm trying to find the central station.",
+      "ko": "중앙역을 찾고 있어요.",
+      "tip": "목적지를 밝히며 길을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Do you know where the library is?",
+      "ko": "도서관이 어디 있는지 아시나요?",
+      "tip": "특정 건물의 위치를 물어볼 때 씁니다."
+    },
+    {
+      "en": "Am I on the right road for the beach?",
+      "ko": "해변으로 가는 길이 맞나요?",
+      "tip": "올바른 길로 가고 있는지 확인할 때 묻습니다."
+    },
+    {
+      "en": "You're going the wrong way.",
+      "ko": "반대 방향으로 가고 계세요.",
+      "tip": "길을 잘못 들었음을 안내받을 때 듣는 말입니다."
+    },
+    {
+      "en": "Turn around and go back.",
+      "ko": "돌아서 다시 가세요.",
+      "tip": "왔던 길로 되돌아가라는 안내입니다."
+    },
+    {
+      "en": "It's about a mile down the road.",
+      "ko": "길을 따라 1마일 정도 가면 있어요.",
+      "tip": "거리와 방향을 함께 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Follow the signs for the airport.",
+      "ko": "공항 표지판을 따라가세요.",
+      "tip": "표지판 안내를 따르라는 말을 들을 때 씁니다."
+    },
+    {
+      "en": "Where is the ticket office?",
+      "ko": "매표소가 어디인가요?",
+      "tip": "표를 사는 곳을 찾을 때 묻습니다."
+    },
+    {
+      "en": "Where is platform number five?",
+      "ko": "5번 플랫폼이 어디인가요?",
+      "tip": "기차나 전철 타는 플랫폼을 찾을 때 씁니다."
+    },
+    {
+      "en": "Which exit should I take?",
+      "ko": "어느 출구로 나가야 하나요?",
+      "tip": "지하철역 등에서 나갈 출구를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Take exit number three.",
+      "ko": "3번 출구로 나가세요.",
+      "tip": "출구 번호를 안내받을 때 듣는 말입니다."
+    },
+    {
+      "en": "Go up the stairs.",
+      "ko": "계단으로 올라가세요.",
+      "tip": "계단 이용을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Go down the escalator.",
+      "ko": "에스컬레이터를 타고 내려가세요.",
+      "tip": "에스컬레이터 이용을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Take the elevator to the second floor.",
+      "ko": "엘리베이터를 타고 2층으로 가세요.",
+      "tip": "엘리베이터 이용 및 층수를 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Where is the taxi stand?",
+      "ko": "택시 승강장이 어디인가요?",
+      "tip": "택시 타는 곳을 찾을 때 묻습니다."
+    },
+    {
+      "en": "Is this the line for the bus?",
+      "ko": "이게 버스 타는 줄인가요?",
+      "tip": "줄을 서기 전 올바른 줄인지 확인할 때 씁니다."
+    },
+    {
+      "en": "Does this bus stop at the museum?",
+      "ko": "이 버스는 박물관에 정차하나요?",
+      "tip": "버스의 목적지를 확인할 때 묻습니다."
+    },
+    {
+      "en": "How often do the buses run?",
+      "ko": "버스는 얼마나 자주 다니나요?",
+      "tip": "배차 간격을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "The next bus is in fifteen minutes.",
+      "ko": "다음 버스는 15분 후에 옵니다.",
+      "tip": "다음 버스 도착 시간을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Where can I buy a ticket?",
+      "ko": "표는 어디서 살 수 있나요?",
+      "tip": "매표소나 발권기 위치를 물어볼 때 씁니다."
+    },
+    {
+      "en": "Can I buy a ticket on the bus?",
+      "ko": "버스 안에서 표를 살 수 있나요?",
+      "tip": "차내 발권 가능 여부를 확인할 때 묻습니다."
+    },
+    {
+      "en": "How much is the fare?",
+      "ko": "요금이 얼마인가요?",
+      "tip": "교통 요금을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Do I need exact change?",
+      "ko": "잔돈을 정확히 맞춰 내야 하나요?",
+      "tip": "거스름돈을 주는지 확인할 때 묻습니다."
+    },
+    {
+      "en": "Please let me off here.",
+      "ko": "여기서 내려주세요.",
+      "tip": "택시나 버스에서 하차를 요청할 때 씁니다."
+    },
+    {
+      "en": "Could you drop me off at the corner?",
+      "ko": "모퉁이에서 내려주시겠어요?",
+      "tip": "특정 지점에서 하차를 요청할 때 사용합니다."
+    },
+    {
+      "en": "I need to go to this hotel.",
+      "ko": "이 호텔로 가야 합니다.",
+      "tip": "택시 기사에게 목적지를 알릴 때 씁니다."
+    },
+    {
+      "en": "Can you take me to this address?",
+      "ko": "이 주소로 데려다 주시겠어요?",
+      "tip": "주소를 보여주며 택시 기사에게 요청할 때 사용합니다."
+    },
+    {
+      "en": "Please use the meter.",
+      "ko": "미터기를 켜주세요.",
+      "tip": "택시 미터기 사용을 요구할 때 씁니다."
+    },
+    {
+      "en": "How long will the ride take?",
+      "ko": "차로 얼마나 걸릴까요?",
+      "tip": "이동 소요 시간을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Is there a lot of traffic?",
+      "ko": "차가 많이 막히나요?",
+      "tip": "교통 체증 여부를 물어볼 때 씁니다."
+    },
+    {
+      "en": "Please take the fastest route.",
+      "ko": "가장 빠른 길로 가주세요.",
+      "tip": "빠른 길로 가달라고 요청할 때 사용합니다."
+    },
+    {
+      "en": "Could you drive a little slower?",
+      "ko": "조금만 천천히 운전해 주시겠어요?",
+      "tip": "과속하는 기사에게 속도를 줄여달라고 요청할 때 씁니다."
+    },
+    {
+      "en": "Stop here, please.",
+      "ko": "여기 세워주세요.",
+      "tip": "목적지에 도착하여 정차를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Keep the change.",
+      "ko": "잔돈은 가지세요.",
+      "tip": "거스름돈을 팁으로 줄 때 씁니다."
+    },
+    {
+      "en": "Can I get a receipt?",
+      "ko": "영수증 받을 수 있을까요?",
+      "tip": "결제 후 영수증을 요구할 때 사용합니다."
+    },
+    {
+      "en": "Where can I rent a car?",
+      "ko": "렌터카는 어디서 빌릴 수 있나요?",
+      "tip": "렌터카 업체를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Where is the nearest gas station?",
+      "ko": "가장 가까운 주유소가 어디인가요?",
+      "tip": "주유소를 찾을 때 사용합니다."
+    },
+    {
+      "en": "Fill it up, please.",
+      "ko": "가득 채워주세요.",
+      "tip": "주유소에서 연료를 가득 채워달라고 할 때 씁니다."
+    },
+    {
+      "en": "Where can I park my car?",
+      "ko": "차는 어디에 주차할 수 있나요?",
+      "tip": "주차장 위치를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Is this a paid parking lot?",
+      "ko": "유료 주차장인가요?",
+      "tip": "주차 요금 부과 여부를 확인할 때 묻습니다."
+    },
+    {
+      "en": "How much is parking per hour?",
+      "ko": "시간당 주차 요금이 얼마인가요?",
+      "tip": "주차 요금을 물어볼 때 씁니다."
+    },
+    {
+      "en": "You can't park here.",
+      "ko": "여기에 주차하시면 안 됩니다.",
+      "tip": "주차 금지 구역임을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "My car was towed.",
+      "ko": "제 차가 견인되었어요.",
+      "tip": "차량이 견인되었음을 알릴 때 사용합니다."
+    },
+    {
+      "en": "Where is the car rental return?",
+      "ko": "렌터카 반납 장소가 어디인가요?",
+      "tip": "렌터카를 반납할 곳을 찾을 때 묻습니다."
+    },
+    {
+      "en": "I need a map of the city.",
+      "ko": "시내 지도가 필요해요.",
+      "tip": "관광 안내소 등에서 지도를 요청할 때 씁니다."
+    },
+    {
+      "en": "Do you have a subway map?",
+      "ko": "지하철 노선도가 있나요?",
+      "tip": "지하철 노선도를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Can I walk there safely at night?",
+      "ko": "밤에 거기로 걸어가도 안전한가요?",
+      "tip": "야간 치안 상태를 물어볼 때 씁니다."
+    },
+    {
+      "en": "Is this a safe neighborhood?",
+      "ko": "여기는 안전한 동네인가요?",
+      "tip": "해당 지역의 치안을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'm looking for a good restaurant around here.",
+      "ko": "이 근처에 좋은 식당을 찾고 있어요.",
+      "tip": "주변 식당 추천을 부탁할 때 씁니다."
+    },
+    {
+      "en": "Where is the main shopping street?",
+      "ko": "메인 쇼핑 거리가 어디인가요?",
+      "tip": "번화가나 쇼핑 거리를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Thank you for your directions.",
+      "ko": "길을 알려주셔서 감사합니다.",
+      "tip": "길 안내를 받은 후 감사 인사를 할 때 씁니다."
+    },
+    {
+      "en": "You've been very helpful.",
+      "ko": "정말 큰 도움이 되었습니다.",
+      "tip": "도움을 준 사람에게 고마움을 표할 때 사용합니다."
+    },
+    {
+      "en": "Can you draw me a map?",
+      "ko": "지도를 그려주실 수 있나요?",
+      "tip": "길을 말로 설명하기 어려울 때 지도를 그려달라고 부탁할 때 씁니다."
     }
   ],
   "sightseeing": [
@@ -2944,6 +5389,506 @@
       "en": "What is the most famous attraction here?",
       "ko": "여기서 가장 유명한 볼거리가 뭔가요?",
       "tip": "주요 관광 포인트를 추천받을 때 씁니다."
+    },
+    {
+      "en": "Where is the ticket office?",
+      "ko": "매표소가 어디인가요?",
+      "tip": "표를 사는 곳을 찾을 때 묻습니다."
+    },
+    {
+      "en": "How much is the admission fee?",
+      "ko": "입장료가 얼마인가요?",
+      "tip": "입장 가격을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Do you offer a student discount?",
+      "ko": "학생 할인이 되나요?",
+      "tip": "할인 혜택을 확인할 때 씁니다."
+    },
+    {
+      "en": "Two adults and one child, please.",
+      "ko": "어른 두 명, 아이 한 명입니다.",
+      "tip": "인원수를 말하며 표를 살 때 사용합니다."
+    },
+    {
+      "en": "What time do you close today?",
+      "ko": "오늘 몇 시에 문을 닫나요?",
+      "tip": "마감 시간을 확인할 때 묻습니다."
+    },
+    {
+      "en": "Are there any guided tours available?",
+      "ko": "가이드 투어가 있나요?",
+      "tip": "가이드 동반 투어 여부를 물어볼 때 씁니다."
+    },
+    {
+      "en": "Where does the tour start?",
+      "ko": "투어는 어디서 시작하나요?",
+      "tip": "투어 집결지를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Is there an audio guide in Korean?",
+      "ko": "한국어 오디오 가이드가 있나요?",
+      "tip": "한국어 안내 기기를 찾을 때 씁니다."
+    },
+    {
+      "en": "Can I take pictures here?",
+      "ko": "여기서 사진을 찍어도 되나요?",
+      "tip": "사진 촬영 허용 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Flash photography is not allowed.",
+      "ko": "플래시 촬영은 금지되어 있습니다.",
+      "tip": "플래시 사용 금지 안내를 받을 때 듣습니다."
+    },
+    {
+      "en": "Where is the best spot for photos?",
+      "ko": "사진 찍기 가장 좋은 곳이 어디인가요?",
+      "tip": "포토 스팟을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Do I need to book in advance?",
+      "ko": "미리 예약해야 하나요?",
+      "tip": "사전 예약 필요 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "Can I buy tickets online?",
+      "ko": "온라인으로 표를 살 수 있나요?",
+      "tip": "인터넷 예매 가능 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I have a reservation under the name Kim.",
+      "ko": "킴이라는 이름으로 예약했습니다.",
+      "tip": "예약자 이름을 말할 때 씁니다."
+    },
+    {
+      "en": "Where is the entrance?",
+      "ko": "입구가 어디인가요?",
+      "tip": "들어가는 곳을 찾을 때 묻습니다."
+    },
+    {
+      "en": "Is this the line for the museum?",
+      "ko": "이게 박물관 들어가는 줄인가요?",
+      "tip": "줄을 서기 전 확인할 때 사용합니다."
+    },
+    {
+      "en": "How long is the wait?",
+      "ko": "얼마나 기다려야 하나요?",
+      "tip": "대기 시간을 물어볼 때 씁니다."
+    },
+    {
+      "en": "Where can I get a map of the park?",
+      "ko": "공원 지도는 어디서 구할 수 있나요?",
+      "tip": "안내 지도를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Are there any restrooms inside?",
+      "ko": "안에 화장실이 있나요?",
+      "tip": "내부 화장실 유무를 확인할 때 사용합니다."
+    },
+    {
+      "en": "Do you sell postcards?",
+      "ko": "엽서도 파나요?",
+      "tip": "특정 기념품 판매 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "What time is the next show?",
+      "ko": "다음 공연은 몇 시인가요?",
+      "tip": "공연 시간을 확인할 때 묻습니다."
+    },
+    {
+      "en": "Don't touch the exhibits, please.",
+      "ko": "전시물을 만지지 마세요.",
+      "tip": "전시물 보호를 위한 안내를 받을 때 듣습니다."
+    },
+    {
+      "en": "Is food allowed inside?",
+      "ko": "안에 음식물을 가지고 들어가도 되나요?",
+      "tip": "음식물 반입 여부를 확인할 때 묻습니다."
+    },
+    {
+      "en": "Where can I leave my bag?",
+      "ko": "가방은 어디에 맡길 수 있나요?",
+      "tip": "짐 보관소를 찾을 때 씁니다."
+    },
+    {
+      "en": "Is there a locker room?",
+      "ko": "물품 보관소가 있나요?",
+      "tip": "사물함 유무를 확인할 때 사용합니다."
+    },
+    {
+      "en": "How much is the locker fee?",
+      "ko": "사물함 이용료가 얼마인가요?",
+      "tip": "보관 요금을 물어볼 때 씁니다."
+    },
+    {
+      "en": "We lost our group.",
+      "ko": "일행을 잃어버렸어요.",
+      "tip": "일행과 헤어졌을 때 도움을 청하며 씁니다."
+    },
+    {
+      "en": "Where is the observation deck?",
+      "ko": "전망대가 어디인가요?",
+      "tip": "전망대 위치를 찾을 때 묻습니다."
+    },
+    {
+      "en": "The view from here is amazing.",
+      "ko": "여기 경치가 정말 멋지네요.",
+      "tip": "아름다운 경치를 감상하며 하는 말입니다."
+    },
+    {
+      "en": "Is the elevator working?",
+      "ko": "엘리베이터가 작동하나요?",
+      "tip": "엘리베이터 운행 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "Can we go up to the roof?",
+      "ko": "옥상에 올라갈 수 있나요?",
+      "tip": "옥상 개방 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "What is this building called?",
+      "ko": "이 건물 이름이 뭔가요?",
+      "tip": "건물의 명칭을 물어볼 때 씁니다."
+    },
+    {
+      "en": "When was this castle built?",
+      "ko": "이 성은 언제 지어졌나요?",
+      "tip": "건축 연도를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Who painted this picture?",
+      "ko": "이 그림은 누가 그렸나요?",
+      "tip": "작품의 작가를 물어볼 때 씁니다."
+    },
+    {
+      "en": "This is a masterpiece.",
+      "ko": "이건 걸작이네요.",
+      "tip": "훌륭한 작품을 칭찬할 때 사용합니다."
+    },
+    {
+      "en": "I'd like to rent a bicycle.",
+      "ko": "자전거를 빌리고 싶어요.",
+      "tip": "자전거 대여를 요청할 때 씁니다."
+    },
+    {
+      "en": "Where is the boarding gate for the ferry?",
+      "ko": "페리 탑승구가 어디인가요?",
+      "tip": "배 타는 곳을 찾을 때 묻습니다."
+    },
+    {
+      "en": "How often does the shuttle bus run?",
+      "ko": "셔틀버스는 얼마나 자주 다니나요?",
+      "tip": "셔틀버스 배차 간격을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Is this seat taken?",
+      "ko": "여기 자리 있나요?",
+      "tip": "빈자리인지 확인할 때 묻습니다."
+    },
+    {
+      "en": "Please keep your voice down.",
+      "ko": "목소리를 낮춰주세요.",
+      "tip": "조용히 해달라는 요청을 받을 때 듣습니다."
+    },
+    {
+      "en": "No smoking in this area.",
+      "ko": "이 구역은 금연입니다.",
+      "tip": "금연 구역임을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Can I get a refund for this ticket?",
+      "ko": "이 표 환불받을 수 있나요?",
+      "tip": "표 환불을 요청할 때 씁니다."
+    },
+    {
+      "en": "The ticket is valid for one day.",
+      "ko": "이 표는 하루 동안 유효합니다.",
+      "tip": "표의 유효 기간을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Do you have a brochure in English?",
+      "ko": "영어 안내 책자가 있나요?",
+      "tip": "영어 팸플릿을 요청할 때 사용합니다."
+    },
+    {
+      "en": "Where is the lost and found?",
+      "ko": "분실물 센터가 어디인가요?",
+      "tip": "물건을 잃어버려 센터를 찾을 때 묻습니다."
+    },
+    {
+      "en": "I lost my camera.",
+      "ko": "카메라를 잃어버렸어요.",
+      "tip": "분실 사실을 알릴 때 씁니다."
+    },
+    {
+      "en": "Is there a cafe nearby?",
+      "ko": "근처에 카페가 있나요?",
+      "tip": "가까운 카페를 찾을 때 사용합니다."
+    },
+    {
+      "en": "We are looking for the main square.",
+      "ko": "저희는 중앙 광장을 찾고 있어요.",
+      "tip": "목적지를 말하며 길을 물어볼 때 씁니다."
+    },
+    {
+      "en": "How do we get back to the hotel?",
+      "ko": "호텔로 어떻게 돌아가나요?",
+      "tip": "숙소로 돌아가는 길을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Is it safe to walk around here at night?",
+      "ko": "밤에 이 주변을 걸어 다녀도 안전한가요?",
+      "tip": "야간 치안을 확인할 때 묻습니다."
+    },
+    {
+      "en": "What are the opening hours?",
+      "ko": "영업시간이 어떻게 되나요?",
+      "tip": "운영 시간을 물어볼 때 씁니다."
+    },
+    {
+      "en": "Are you open on Mondays?",
+      "ko": "월요일에도 여나요?",
+      "tip": "특정 요일의 영업 여부를 확인할 때 사용합니다."
+    },
+    {
+      "en": "The museum is closed on public holidays.",
+      "ko": "박물관은 공휴일에 휴관합니다.",
+      "tip": "휴관일 안내를 받을 때 듣습니다."
+    },
+    {
+      "en": "Do you have a senior citizen discount?",
+      "ko": "경로 할인이 있나요?",
+      "tip": "노인 할인 혜택을 확인할 때 묻습니다."
+    },
+    {
+      "en": "Children under five are free.",
+      "ko": "5세 미만 어린이는 무료입니다.",
+      "tip": "무료입장 조건을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Please show me your ticket.",
+      "ko": "표를 보여주세요.",
+      "tip": "표 검사를 받을 때 듣는 말입니다."
+    },
+    {
+      "en": "Keep your ticket until the end of the tour.",
+      "ko": "투어가 끝날 때까지 표를 보관하세요.",
+      "tip": "표 보관 안내를 받을 때 듣습니다."
+    },
+    {
+      "en": "Where can I validate my parking ticket?",
+      "ko": "주차권 확인은 어디서 받나요?",
+      "tip": "주차 할인을 위한 확인처를 찾을 때 씁니다."
+    },
+    {
+      "en": "Is there a dress code for the temple?",
+      "ko": "사원에 복장 규정이 있나요?",
+      "tip": "종교 시설 등의 복장 제한을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "You need to cover your shoulders.",
+      "ko": "어깨를 가리셔야 합니다.",
+      "tip": "복장 규정에 대한 안내를 받을 때 듣습니다."
+    },
+    {
+      "en": "Please take off your shoes.",
+      "ko": "신발을 벗어주세요.",
+      "tip": "신발을 벗어야 하는 곳에서 듣는 말입니다."
+    },
+    {
+      "en": "Can I use a tripod?",
+      "ko": "삼각대를 사용해도 되나요?",
+      "tip": "삼각대 사용 허용 여부를 물어볼 때 씁니다."
+    },
+    {
+      "en": "Drones are strictly prohibited here.",
+      "ko": "이곳에서는 드론 사용이 엄격히 금지되어 있습니다.",
+      "tip": "드론 금지 구역임을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Watch your step.",
+      "ko": "발밑을 조심하세요.",
+      "tip": "계단이나 턱이 있는 곳에서 주의를 받을 때 듣습니다."
+    },
+    {
+      "en": "The floor is slippery.",
+      "ko": "바닥이 미끄럽습니다.",
+      "tip": "미끄럼 주의 안내를 받을 때 듣습니다."
+    },
+    {
+      "en": "Do not lean on the glass.",
+      "ko": "유리에 기대지 마세요.",
+      "tip": "안전을 위한 경고를 받을 때 듣습니다."
+    },
+    {
+      "en": "Stay behind the line.",
+      "ko": "선 뒤에 머물러 주세요.",
+      "tip": "안전선 준수를 요청받을 때 듣습니다."
+    },
+    {
+      "en": "Please follow the guide.",
+      "ko": "가이드를 따라가 주세요.",
+      "tip": "가이드 인솔에 따르라는 안내입니다."
+    },
+    {
+      "en": "Don't fall behind the group.",
+      "ko": "일행에서 뒤처지지 마세요.",
+      "tip": "무리에서 이탈하지 말라는 경고입니다."
+    },
+    {
+      "en": "We have twenty minutes of free time.",
+      "ko": "자유 시간 20분입니다.",
+      "tip": "자유 시간이 주어졌을 때 듣는 말입니다."
+    },
+    {
+      "en": "Let's meet back here at three o'clock.",
+      "ko": "3시에 다시 여기서 만납시다.",
+      "tip": "재집결 시간을 정할 때 씁니다."
+    },
+    {
+      "en": "What time does the sun set?",
+      "ko": "해는 몇 시에 지나요?",
+      "tip": "일몰 시간을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I want to see the night view.",
+      "ko": "야경을 보고 싶어요.",
+      "tip": "야경 관람 의사를 밝힐 때 씁니다."
+    },
+    {
+      "en": "Is there a night tour?",
+      "ko": "야간 투어가 있나요?",
+      "tip": "밤에 진행되는 투어를 찾을 때 묻습니다."
+    },
+    {
+      "en": "The fountain show starts at eight.",
+      "ko": "분수 쇼는 8시에 시작합니다.",
+      "tip": "쇼 시작 시간을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Where is the best place to watch the parade?",
+      "ko": "퍼레이드를 보기 가장 좋은 자리가 어디인가요?",
+      "tip": "관람 명당을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can I feed the animals?",
+      "ko": "동물들에게 먹이를 줘도 되나요?",
+      "tip": "먹이 주기 체험 가능 여부를 확인할 때 묻습니다."
+    },
+    {
+      "en": "Do not feed the pigeons.",
+      "ko": "비둘기에게 먹이를 주지 마세요.",
+      "tip": "먹이 금지 안내를 받을 때 듣습니다."
+    },
+    {
+      "en": "Where is the roller coaster?",
+      "ko": "롤러코스터가 어디인가요?",
+      "tip": "특정 놀이기구 위치를 찾을 때 씁니다."
+    },
+    {
+      "en": "I feel dizzy.",
+      "ko": "어지러워요.",
+      "tip": "놀이기구 탑승 후나 컨디션이 안 좋을 때 씁니다."
+    },
+    {
+      "en": "Is there a first aid station?",
+      "ko": "응급 처치소가 있나요?",
+      "tip": "다치거나 아플 때 의무실을 찾으며 묻습니다."
+    },
+    {
+      "en": "Can I get a stamp here?",
+      "ko": "여기서 스탬프를 찍을 수 있나요?",
+      "tip": "기념 스탬프를 찍는 곳을 찾을 때 사용합니다."
+    },
+    {
+      "en": "I collect magnets from every city.",
+      "ko": "저는 도시마다 자석을 수집해요.",
+      "tip": "자신의 수집 취미를 말할 때 씁니다."
+    },
+    {
+      "en": "This is a great souvenir.",
+      "ko": "이거 좋은 기념품이네요.",
+      "tip": "마음에 드는 기념품을 발견했을 때 사용합니다."
+    },
+    {
+      "en": "Could you wrap this carefully?",
+      "ko": "이것 좀 조심해서 포장해 주시겠어요?",
+      "tip": "파손 주의 포장을 부탁할 때 씁니다."
+    },
+    {
+      "en": "It's fragile.",
+      "ko": "깨지기 쉬운 물건이에요.",
+      "tip": "물건을 조심히 다뤄달라고 할 때 사용합니다."
+    },
+    {
+      "en": "Do you accept credit cards?",
+      "ko": "신용카드 받으시나요?",
+      "tip": "카드 결제 가능 여부를 물어볼 때 씁니다."
+    },
+    {
+      "en": "Is there an ATM around here?",
+      "ko": "이 근처에 현금인출기가 있나요?",
+      "tip": "현금이 필요할 때 ATM을 찾으며 묻습니다."
+    },
+    {
+      "en": "The line is moving fast.",
+      "ko": "줄이 빨리 줄어드네요.",
+      "tip": "대기 줄이 금방 빠질 때 하는 말입니다."
+    },
+    {
+      "en": "We've been waiting for an hour.",
+      "ko": "우리 한 시간째 기다리고 있어요.",
+      "tip": "오랜 대기 시간에 대해 말할 때 씁니다."
+    },
+    {
+      "en": "It's worth the wait.",
+      "ko": "기다릴 만한 가치가 있네요.",
+      "tip": "오래 기다린 보람이 있을 때 사용합니다."
+    },
+    {
+      "en": "I'm so glad we came here.",
+      "ko": "여기 오길 정말 잘했어요.",
+      "tip": "방문한 곳이 마음에 들 때 하는 말입니다."
+    },
+    {
+      "en": "This place is breathtaking.",
+      "ko": "이곳은 숨이 멎을 정도로 아름답네요.",
+      "기": "엄청난 경치나 장관을 보고 감탄할 때 씁니다."
+    },
+    {
+      "en": "Let's take a selfie.",
+      "ko": "셀카 찍자.",
+      "tip": "일행과 함께 사진을 찍자고 제안할 때 사용합니다."
+    },
+    {
+      "en": "Where is the audio guide return desk?",
+      "ko": "오디오 가이드 반납처가 어디인가요?",
+      "tip": "다 쓴 오디오 가이드를 반납할 곳을 찾을 때 묻습니다."
+    },
+    {
+      "en": "Is it allowed to record videos?",
+      "ko": "동영상 촬영이 허용되나요?",
+      "tip": "동영상 촬영 가능 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "Can we join the tour halfway?",
+      "ko": "중간에 투어에 합류할 수 있나요?",
+      "tip": "이미 시작된 투어에 늦게 참여할 수 있는지 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Where can I get a stamp for the passport?",
+      "ko": "여권에 스탬프를 어디서 찍을 수 있나요?",
+      "tip": "기념 스탬프를 찍는 곳을 찾을 때 씁니다."
+    },
+    {
+      "en": "Is there a fast-track lane?",
+      "ko": "빠른 입장 줄이 있나요?",
+      "tip": "대기 시간을 줄일 수 있는 패스트트랙이 있는지 물어볼 때 사용합니다."
+    },
+    {
+      "en": "We would like to hire a private guide.",
+      "ko": "개인 가이드를 고용하고 싶습니다.",
+      "tip": "일행만을 위한 전담 가이드를 요청할 때 씁니다."
     }
   ],
   "sim": [
@@ -3021,6 +5966,506 @@
       "en": "Is there free Wi-Fi here?",
       "ko": "여기에 무료 와이파이가 있나요?",
       "tip": "데이터를 아끼기 위해 와이파이를 찾을 때 씁니다."
+    },
+    {
+      "en": "Do you have a SIM card for tourists?",
+      "ko": "관광객용 유심이 있나요?",
+      "tip": "여행자 전용 유심을 찾을 때 묻습니다."
+    },
+    {
+      "en": "I'd like a data-only plan.",
+      "ko": "데이터 전용 요금제로 할게요.",
+      "tip": "통화 없이 데이터만 필요할 때 씁니다."
+    },
+    {
+      "en": "Which network has the best coverage here?",
+      "ko": "여기선 어느 통신사 망이 가장 잘 터지나요?",
+      "tip": "수신율이 좋은 통신사를 추천받을 때 사용합니다."
+    },
+    {
+      "en": "Is this SIM card compatible with my phone?",
+      "ko": "이 유심이 제 휴대폰과 호환되나요?",
+      "tip": "기기 호환 여부를 확인할 때 묻습니다."
+    },
+    {
+      "en": "I need a micro SIM, not a nano SIM.",
+      "ko": "나노 유심이 아니라 마이크로 유심이 필요해요.",
+      "tip": "유심 크기를 지정할 때 씁니다."
+    },
+    {
+      "en": "Can you cut this SIM card to fit my phone?",
+      "ko": "제 폰에 맞게 이 유심을 잘라주실 수 있나요?",
+      "tip": "유심 크기를 맞춰달라고 부탁할 때 사용합니다."
+    },
+    {
+      "en": "Does this plan include local calls?",
+      "ko": "이 요금제에 현지 통화가 포함되어 있나요?",
+      "tip": "국내 통화 가능 여부를 확인할 때 묻습니다."
+    },
+    {
+      "en": "How many minutes of talk time do I get?",
+      "ko": "통화는 몇 분이나 제공되나요?",
+      "tip": "무료 통화 시간을 물어볼 때 씁니다."
+    },
+    {
+      "en": "Are text messages free with this plan?",
+      "ko": "이 요금제는 문자 메시지가 무료인가요?",
+      "tip": "무료 문자 여부를 확인할 때 사용합니다."
+    },
+    {
+      "en": "What is the validity period of this SIM?",
+      "ko": "이 유심의 유효 기간은 어떻게 되나요?",
+      "tip": "사용 가능 기간을 물어볼 때 묻습니다."
+    },
+    {
+      "en": "Can I extend the plan later?",
+      "ko": "나중에 요금제를 연장할 수 있나요?",
+      "tip": "기간 연장 가능 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "How much does it cost to recharge?",
+      "ko": "충전하는 데 얼마인가요?",
+      "tip": "요금 충전 비용을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Where can I buy a recharge voucher?",
+      "ko": "충전 바우처는 어디서 살 수 있나요?",
+      "tip": "충전권 구매처를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Can I top up online?",
+      "ko": "온라인으로 충전할 수 있나요?",
+      "tip": "인터넷 충전 가능 여부를 물어볼 때 씁니다."
+    },
+    {
+      "en": "I want to add ten dollars to my account.",
+      "ko": "제 계정에 10달러를 충전하고 싶어요.",
+      "tip": "특정 금액 충전을 요청할 때 사용합니다."
+    },
+    {
+      "en": "My data ran out too fast.",
+      "ko": "데이터가 너무 빨리 닳았어요.",
+      "tip": "데이터 소진 속도에 대해 말할 때 씁니다."
+    },
+    {
+      "en": "Is there a daily data limit?",
+      "ko": "일일 데이터 제한이 있나요?",
+      "tip": "하루 데이터 사용량 제한을 확인할 때 묻습니다."
+    },
+    {
+      "en": "What happens when I use all my high-speed data?",
+      "ko": "고속 데이터를 다 쓰면 어떻게 되나요?",
+      "tip": "데이터 소진 후의 상태를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Will the speed be throttled after three gigabytes?",
+      "ko": "3기가바이트 이후에는 속도가 제한되나요?",
+      "tip": "속도 제한 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "I need an eSIM for my iPhone.",
+      "ko": "제 아이폰용 eSIM이 필요해요.",
+      "tip": "eSIM 구매를 요청할 때 묻습니다."
+    },
+    {
+      "en": "Can you email me the QR code for the eSIM?",
+      "ko": "eSIM QR 코드를 이메일로 보내주실 수 있나요?",
+      "tip": "QR 코드를 이메일로 받고 싶을 때 사용합니다."
+    },
+    {
+      "en": "I accidentally deleted my eSIM profile.",
+      "ko": "실수로 eSIM 프로필을 지웠어요.",
+      "tip": "eSIM 프로필 삭제 문제를 알릴 때 씁니다."
+    },
+    {
+      "en": "How do I scan the QR code?",
+      "ko": "QR 코드는 어떻게 스캔하나요?",
+      "tip": "스캔 방법을 모를 때 물어봅니다."
+    },
+    {
+      "en": "The QR code is not working.",
+      "ko": "QR 코드가 작동하지 않아요.",
+      "tip": "QR 코드 인식 오류를 알릴 때 사용합니다."
+    },
+    {
+      "en": "Do I need to restart my phone after activation?",
+      "ko": "개통 후에 휴대폰을 재시작해야 하나요?",
+      "tip": "개통 후 절차를 확인할 때 묻습니다."
+    },
+    {
+      "en": "It says no service on my screen.",
+      "ko": "화면에 서비스 안 됨이라고 떠요.",
+      "tip": "통신망 연결 실패를 알릴 때 씁니다."
+    },
+    {
+      "en": "I only have 3G, not 4G or 5G.",
+      "ko": "4G나 5G가 아니라 3G만 잡혀요.",
+      "tip": "네트워크 속도 문제를 알릴 때 사용합니다."
+    },
+    {
+      "en": "Why is my signal so weak?",
+      "ko": "왜 이렇게 신호가 약하죠?",
+      "tip": "수신 상태 불량을 문의할 때 묻습니다."
+    },
+    {
+      "en": "Is there an outage in this area?",
+      "ko": "이 지역에 통신 장애가 있나요?",
+      "tip": "통신망 장애 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "My phone shows 'Invalid SIM'.",
+      "ko": "휴대폰에 '유효하지 않은 유심'이라고 나와요.",
+      "tip": "유심 인식 오류를 알릴 때 사용합니다."
+    },
+    {
+      "en": "I think the SIM card is damaged.",
+      "ko": "유심이 손상된 것 같아요.",
+      "tip": "유심 불량이 의심될 때 씁니다."
+    },
+    {
+      "en": "Can I get a replacement SIM with the same number?",
+      "ko": "같은 번호로 유심을 재발급받을 수 있나요?",
+      "tip": "유심 재발급을 요청할 때 묻습니다."
+    },
+    {
+      "en": "How do I find out my new phone number?",
+      "ko": "제 새 전화번호는 어떻게 확인하나요?",
+      "기": "본인 번호 확인 방법을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Please write down my phone number.",
+      "ko": "제 전화번호 좀 적어주세요.",
+      "tip": "번호를 메모해 달라고 부탁할 때 씁니다."
+    },
+    {
+      "en": "Do I need to register with my passport?",
+      "ko": "여권으로 등록해야 하나요?",
+      "tip": "신분증 등록 필요 여부를 확인할 때 묻습니다."
+    },
+    {
+      "en": "Here is my ID for the registration.",
+      "ko": "등록을 위한 제 신분증입니다.",
+      "tip": "신분증을 제시할 때 사용합니다."
+    },
+    {
+      "en": "How long does activation take?",
+      "ko": "개통하는 데 얼마나 걸리나요?",
+      "tip": "개통 소요 시간을 물어볼 때 씁니다."
+    },
+    {
+      "en": "It has been an hour and it is still not activated.",
+      "ko": "한 시간이 지났는데 아직 개통이 안 됐어요.",
+      "tip": "개통 지연을 항의할 때 사용합니다."
+    },
+    {
+      "en": "Can you check my activation status?",
+      "ko": "제 개통 상태 좀 확인해 주시겠어요?",
+      "tip": "개통 진행 상황을 물어볼 때 묻습니다."
+    },
+    {
+      "en": "What are the APN settings for this network?",
+      "ko": "이 통신사의 APN 설정이 어떻게 되나요?",
+      "tip": "APN 설정값을 물어볼 때 씁니다."
+    },
+    {
+      "en": "Do I need to change my APN manually?",
+      "ko": "APN을 수동으로 변경해야 하나요?",
+      "tip": "수동 설정 필요 여부를 확인할 때 사용합니다."
+    },
+    {
+      "en": "Can you type the APN settings for me?",
+      "ko": "APN 설정을 대신 입력해 주시겠어요?",
+      "tip": "설정 입력을 부탁할 때 묻습니다."
+    },
+    {
+      "en": "I cannot send any text messages.",
+      "ko": "문자 메시지가 안 보내져요.",
+      "tip": "문자 발신 오류를 알릴 때 씁니다."
+    },
+    {
+      "en": "I am not receiving any calls.",
+      "ko": "전화가 안 걸려와요.",
+      "tip": "수신 불량 문제를 알릴 때 사용합니다."
+    },
+    {
+      "en": "How do I turn on data roaming?",
+      "ko": "데이터 로밍은 어떻게 켜나요?",
+      "tip": "로밍 활성화 방법을 물어볼 때 묻습니다."
+    },
+    {
+      "en": "Should I turn off data roaming to avoid charges?",
+      "ko": "요금 폭탄을 피하려면 데이터 로밍을 꺼야 하나요?",
+      "tip": "데이터 차단 방법을 확인할 때 씁니다."
+    },
+    {
+      "en": "I want to rent a portable Wi-Fi router.",
+      "ko": "휴대용 와이파이 라우터를 대여하고 싶어요.",
+      "tip": "포켓 와이파이 대여를 요청할 때 사용합니다."
+    },
+    {
+      "en": "How many devices can connect to this pocket Wi-Fi?",
+      "ko": "이 포켓 와이파이에 기기를 몇 대까지 연결할 수 있나요?",
+      "tip": "동시 접속 가능 대수를 물어볼 때 묻습니다."
+    },
+    {
+      "en": "How long does the battery last on this router?",
+      "ko": "이 라우터 배터리는 얼마나 가나요?",
+      "tip": "배터리 지속 시간을 확인할 때 씁니다."
+    },
+    {
+      "en": "Do I need to pay a deposit for the router?",
+      "ko": "라우터 보증금을 내야 하나요?",
+      "tip": "보증금 유무를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Where do I return the pocket Wi-Fi?",
+      "ko": "포켓 와이파이는 어디에 반납하나요?",
+      "tip": "반납 장소를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Can I return it at the airport?",
+      "ko": "공항에서 반납해도 되나요?",
+      "tip": "공항 반납 가능 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "The Wi-Fi router is not turning on.",
+      "ko": "와이파이 라우터 전원이 안 켜져요.",
+      "tip": "기기 고장을 알릴 때 사용합니다."
+    },
+    {
+      "en": "I forgot the password for the pocket Wi-Fi.",
+      "ko": "포켓 와이파이 비밀번호를 잊어버렸어요.",
+      "tip": "비밀번호 분실 시 도움을 청할 때 묻습니다."
+    },
+    {
+      "en": "Is the public Wi-Fi safe to use?",
+      "ko": "공용 와이파이를 써도 안전한가요?",
+      "tip": "공용망 보안을 확인할 때 씁니다."
+    },
+    {
+      "en": "The hotel Wi-Fi keeps disconnecting.",
+      "ko": "호텔 와이파이가 자꾸 끊겨요.",
+      "tip": "와이파이 연결 불안정을 알릴 때 사용합니다."
+    },
+    {
+      "en": "Is there a free Wi-Fi hotspot nearby?",
+      "ko": "근처에 무료 와이파이 핫스팟이 있나요?",
+      "tip": "무료 와이파이를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Which network should I select manually?",
+      "ko": "수동으로 어떤 네트워크를 선택해야 하나요?",
+      "tip": "수동 네트워크 선택 시 물어봅니다."
+    },
+    {
+      "en": "My phone is locked to my home carrier.",
+      "ko": "제 휴대폰은 원래 통신사에 잠겨 있어요.",
+      "tip": "컨트리락/캐리어락 상태를 알릴 때 씁니다."
+    },
+    {
+      "en": "Can you unlock my phone?",
+      "ko": "제 휴대폰 잠금을 해제해 주실 수 있나요?",
+      "tip": "락 해제를 요청할 때 사용합니다."
+    },
+    {
+      "en": "I need to call my home country.",
+      "ko": "고국으로 전화를 걸어야 해요.",
+      "tip": "국제 전화가 필요할 때 묻습니다."
+    },
+    {
+      "en": "What is the country code for the United States?",
+      "ko": "미국 국가 코드가 어떻게 되나요?",
+      "tip": "국가 번호를 물어볼 때 씁니다."
+    },
+    {
+      "en": "How much is an international text message?",
+      "ko": "국제 문자 메시지는 얼마인가요?",
+      "tip": "국제 문자 요금을 확인할 때 사용합니다."
+    },
+    {
+      "en": "Can I use WhatsApp with this data plan?",
+      "ko": "이 요금제로 왓츠앱을 쓸 수 있나요?",
+      "tip": "특정 앱 사용 가능 여부를 물어볼 때 묻습니다."
+    },
+    {
+      "en": "Does social media use up my data allowance?",
+      "ko": "소셜 미디어를 쓰면 데이터 제공량이 차감되나요?",
+      "tip": "SNS 데이터 차감 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "Is tethering allowed on this plan?",
+      "ko": "이 요금제는 테더링이 허용되나요?",
+      "tip": "테더링/핫스팟 가능 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I cannot share my internet via personal hotspot.",
+      "ko": "개인용 핫스팟으로 인터넷 공유가 안 돼요.",
+      "tip": "핫스팟 연결 오류를 알릴 때 씁니다."
+    },
+    {
+      "en": "Please help me insert the SIM card.",
+      "ko": "유심 꽂는 것 좀 도와주세요.",
+      "tip": "유심 장착 도움을 요청할 때 묻습니다."
+    },
+    {
+      "en": "I dropped my SIM card on the floor.",
+      "ko": "유심을 바닥에 떨어뜨렸어요.",
+      "tip": "유심을 떨어뜨렸을 때 하는 말입니다."
+    },
+    {
+      "en": "The SIM tray is stuck.",
+      "ko": "유심 트레이가 꼈어요.",
+      "tip": "트레이가 안 빠질 때 도움을 청하며 씁니다."
+    },
+    {
+      "en": "Do you have a paperclip I can use?",
+      "ko": "제가 쓸 수 있는 클립 있나요?",
+      "tip": "유심 핀 대용품을 찾을 때 사용합니다."
+    },
+    {
+      "en": "My battery is dying, do you have a charger?",
+      "ko": "배터리가 다 돼가는데, 충전기 있나요?",
+      "tip": "충전기를 빌릴 때 묻습니다."
+    },
+    {
+      "en": "Can I charge my phone here for a minute?",
+      "ko": "여기서 휴대폰 좀 잠깐 충전해도 될까요?",
+      "tip": "충전 콘센트 사용을 허락받을 때 씁니다."
+    },
+    {
+      "en": "Where is the nearest mobile phone shop?",
+      "ko": "가장 가까운 휴대폰 매장이 어디인가요?",
+      "tip": "대리점 위치를 찾을 때 사용합니다."
+    },
+    {
+      "en": "I need to buy a local adapter.",
+      "ko": "현지 어댑터를 사야 해요.",
+      "tip": "플러그 어댑터를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Does this come with a universal adapter?",
+      "ko": "이거 멀티 어댑터도 같이 들어있나요?",
+      "tip": "구성품을 확인할 때 씁니다."
+    },
+    {
+      "en": "I lost my phone, what should I do?",
+      "ko": "휴대폰을 잃어버렸는데 어떡해야 하죠?",
+      "tip": "분실 시 대처 방법을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can you block my SIM card?",
+      "ko": "제 유심을 정지시켜 주실 수 있나요?",
+      "tip": "분실 신고 및 정지를 요청할 때 묻습니다."
+    },
+    {
+      "en": "I need to report a stolen phone.",
+      "ko": "도난당한 휴대폰을 신고해야 해요.",
+      "tip": "도난 신고를 할 때 씁니다."
+    },
+    {
+      "en": "What number do I call for customer service?",
+      "ko": "고객 센터 번호가 몇 번인가요?",
+      "tip": "고객 센터 연락처를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Is there an English-speaking operator?",
+      "ko": "영어를 할 줄 아는 상담원이 있나요?",
+      "tip": "영어 상담원을 찾을 때 묻습니다."
+    },
+    {
+      "en": "I keep getting spam messages.",
+      "ko": "스팸 문자가 계속 와요.",
+      "tip": "스팸 문제를 알릴 때 씁니다."
+    },
+    {
+      "en": "How do I check my voicemail?",
+      "ko": "음성 사서함은 어떻게 확인하나요?",
+      "tip": "음성 메시지 확인 방법을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can you disable voicemail for me?",
+      "ko": "음성 사서함을 해지해 주실 수 있나요?",
+      "tip": "음성 사서함 기능 끄기를 요청할 때 묻습니다."
+    },
+    {
+      "en": "I want to cancel my subscription.",
+      "ko": "가입을 취소하고 싶어요.",
+      "tip": "서비스 해지를 요청할 때 씁니다."
+    },
+    {
+      "en": "Do I get a refund for the unused days?",
+      "ko": "사용하지 않은 날짜에 대해 환불받을 수 있나요?",
+      "tip": "잔여 기간 환불을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "The internet speed is much slower than advertised.",
+      "ko": "인터넷 속도가 광고한 것보다 훨씬 느려요.",
+      "tip": "속도 불만을 제기할 때 묻습니다."
+    },
+    {
+      "en": "I can't load any web pages.",
+      "ko": "웹페이지가 하나도 안 열려요.",
+      "tip": "인터넷 접속 불량을 알릴 때 씁니다."
+    },
+    {
+      "en": "Maps are not loading because of the slow connection.",
+      "ko": "연결이 느려서 지도가 안 떠요.",
+      "tip": "지도 앱 사용 불가 상황을 알릴 때 사용합니다."
+    },
+    {
+      "en": "Is there a cheaper plan available?",
+      "ko": "더 저렴한 요금제가 있나요?",
+      "tip": "싼 요금제를 찾을 때 묻습니다."
+    },
+    {
+      "en": "What is your most popular plan for tourists?",
+      "ko": "관광객에게 가장 인기 있는 요금제가 뭔가요?",
+      "tip": "추천 요금제를 물어볼 때 씁니다."
+    },
+    {
+      "en": "I will be staying for two weeks.",
+      "ko": "2주 동안 머물 예정입니다.",
+      "tip": "체류 기간에 맞는 요금제를 찾기 위해 말합니다."
+    },
+    {
+      "en": "Can I pay with cash for the recharge?",
+      "ko": "충전 요금을 현금으로 내도 되나요?",
+      "tip": "결제 수단을 확인할 때 사용합니다."
+    },
+    {
+      "en": "The recharge machine is out of order.",
+      "ko": "충전 기계가 고장 났어요.",
+      "tip": "기기 고장을 알릴 때 묻습니다."
+    },
+    {
+      "en": "I entered the wrong PIN code three times.",
+      "ko": "PIN 번호를 세 번 잘못 입력했어요.",
+      "tip": "비밀번호 입력 오류 상황을 알릴 때 씁니다."
+    },
+    {
+      "en": "I need the PUK code to unlock my SIM.",
+      "ko": "유심 잠금을 풀려면 PUK 코드가 필요해요.",
+      "tip": "잠금 해제 코드를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Where is the PIN code on this card?",
+      "ko": "이 카드 어디에 PIN 번호가 있나요?",
+      "tip": "번호 위치를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Scratch this area to reveal the code.",
+      "ko": "코드를 보려면 이 부분을 긁으세요.",
+      "tip": "스크래치 카드 사용법을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "My data plan expires tomorrow.",
+      "ko": "제 데이터 요금제가 내일 만료돼요.",
+      "tip": "만료 임박을 알리며 연장 등을 문의할 때 씁니다."
+    },
+    {
+      "en": "Thank you for setting up my phone.",
+      "ko": "제 휴대폰을 설정해 주셔서 감사합니다.",
+      "tip": "도움을 받은 후 감사 인사를 할 때 사용합니다."
     }
   ],
   "bank": [
@@ -3098,6 +6543,506 @@
       "en": "Where is the nearest ATM?",
       "ko": "가장 가까운 ATM이 어디인가요?",
       "tip": "현금 인출기를 찾을 때 유용합니다."
+    },
+    {
+      "en": "I'd like to exchange some money.",
+      "ko": "돈을 좀 환전하고 싶어요.",
+      "tip": "환전을 요청할 때 가장 기본적으로 쓰는 표현입니다."
+    },
+    {
+      "en": "What is the exchange rate for US dollars today?",
+      "ko": "오늘 미국 달러 환율이 어떻게 되나요?",
+      "tip": "특정 통화의 환율을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "How much is the commission fee?",
+      "ko": "수수료는 얼마인가요?",
+      "tip": "수수료 금액을 구체적으로 물어볼 때 씁니다."
+    },
+    {
+      "en": "I want to change Korean won to Euros.",
+      "ko": "한국 원화를 유로화로 바꾸고 싶어요.",
+      "tip": "바꾸려는 통화를 명확히 말할 때 사용합니다."
+    },
+    {
+      "en": "I need some coins for the bus.",
+      "ko": "버스를 타게 동전이 좀 필요해요.",
+      "tip": "동전 교환을 요청할 때 씁니다."
+    },
+    {
+      "en": "Could you break this hundred-dollar bill?",
+      "ko": "이 100달러짜리 지폐 좀 잔돈으로 바꿔주시겠어요?",
+      "tip": "고액권을 소액권으로 깰 때 사용합니다."
+    },
+    {
+      "en": "I'd like ten twenty-dollar bills and the rest in tens.",
+      "ko": "20달러짜리 10장 주시고 나머지는 10달러짜리로 주세요.",
+      "tip": "원하는 지폐 구성을 구체적으로 말할 때 씁니다."
+    },
+    {
+      "en": "My card is blocked.",
+      "ko": "제 카드가 정지되었어요.",
+      "tip": "카드 사용이 막혔을 때 상황을 알리는 표현입니다."
+    },
+    {
+      "en": "I forgot my PIN.",
+      "ko": "비밀번호를 잊어버렸어요.",
+      "tip": "비밀번호 분실 시 은행원에게 말할 때 씁니다."
+    },
+    {
+      "en": "I entered the wrong PIN three times.",
+      "ko": "비밀번호를 세 번 잘못 입력했어요.",
+      "tip": "비밀번호 오류로 잠겼을 때 이유를 설명합니다."
+    },
+    {
+      "en": "Is there a daily withdrawal limit?",
+      "ko": "하루 인출 한도가 있나요?",
+      "tip": "출금 한도를 확인할 때 묻습니다."
+    },
+    {
+      "en": "The machine didn't give me my money.",
+      "ko": "기계에서 돈이 안 나왔어요.",
+      "tip": "ATM 오류로 현금이 나오지 않았을 때 씁니다."
+    },
+    {
+      "en": "I'd like to make a withdrawal.",
+      "ko": "돈을 인출하고 싶어요.",
+      "tip": "창구에서 돈을 찾을 때 사용합니다."
+    },
+    {
+      "en": "I'd like to make a deposit.",
+      "ko": "돈을 입금하고 싶어요.",
+      "tip": "창구에서 돈을 넣을 때 씁니다."
+    },
+    {
+      "en": "Can I cash this traveler's check here?",
+      "ko": "여기서 이 여행자 수표를 현금으로 바꿀 수 있나요?",
+      "tip": "여행자 수표 환전을 문의할 때 묻습니다."
+    },
+    {
+      "en": "Do I need to show my passport?",
+      "ko": "여권을 보여줘야 하나요?",
+      "tip": "신분증 제시 필요 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "Here is my ID.",
+      "ko": "제 신분증 여기 있습니다.",
+      "tip": "신분증을 건넬 때 하는 말입니다."
+    },
+    {
+      "en": "I lost my credit card.",
+      "ko": "신용카드를 잃어버렸어요.",
+      "tip": "카드 분실 신고를 할 때 가장 먼저 하는 말입니다."
+    },
+    {
+      "en": "I need to report a stolen card.",
+      "ko": "도난당한 카드를 신고해야 해요.",
+      "tip": "도난 신고를 명확히 할 때 씁니다."
+    },
+    {
+      "en": "Please cancel my card immediately.",
+      "ko": "제 카드를 즉시 정지해 주세요.",
+      "tip": "카드 사용 중지를 긴급히 요청할 때 사용합니다."
+    },
+    {
+      "en": "Are there any unauthorized transactions?",
+      "ko": "승인되지 않은 거래 내역이 있나요?",
+      "tip": "부정 사용 내역을 확인할 때 묻습니다."
+    },
+    {
+      "en": "I didn't make this purchase.",
+      "ko": "이 결제는 제가 한 게 아니에요.",
+      "tip": "본인이 하지 않은 결제를 부인할 때 씁니다."
+    },
+    {
+      "en": "Can you reverse this charge?",
+      "ko": "이 결제를 취소해 주실 수 있나요?",
+      "tip": "잘못된 청구의 취소를 요청할 때 사용합니다."
+    },
+    {
+      "en": "How long does it take to get a replacement card?",
+      "ko": "새 카드를 발급받는 데 얼마나 걸리나요?",
+      "tip": "재발급 소요 기간을 물어볼 때 씁니다."
+    },
+    {
+      "en": "I want to open a bank account.",
+      "ko": "은행 계좌를 개설하고 싶어요.",
+      "tip": "새 계좌를 만들 때 사용합니다."
+    },
+    {
+      "en": "What documents do I need to open an account?",
+      "ko": "계좌를 열려면 어떤 서류가 필요한가요?",
+      "tip": "필요 서류를 문의할 때 묻습니다."
+    },
+    {
+      "en": "Do you offer accounts for non-residents?",
+      "ko": "비거주자를 위한 계좌도 제공하나요?",
+      "tip": "외국인/여행자 계좌 개설 가능 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "Is there a minimum balance requirement?",
+      "ko": "최소 유지 잔액 조건이 있나요?",
+      "tip": "계좌 유지 조건을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I want to close my account.",
+      "ko": "제 계좌를 해지하고 싶어요.",
+      "tip": "계좌를 닫을 때 씁니다."
+    },
+    {
+      "en": "How much is the wire transfer fee?",
+      "ko": "해외 송금 수수료가 얼마인가요?",
+      "tip": "송금 수수료를 확인할 때 씁니다."
+    },
+    {
+      "en": "How long will the transfer take?",
+      "ko": "송금하는 데 얼마나 걸리나요?",
+      "tip": "송금 소요 시간을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I need the SWIFT code for this bank.",
+      "ko": "이 은행의 스위프트 코드가 필요해요.",
+      "tip": "해외 송금용 은행 식별 코드를 물어볼 때 씁니다."
+    },
+    {
+      "en": "What is the routing number?",
+      "ko": "라우팅 번호가 어떻게 되나요?",
+      "tip": "미국 등에서 은행 경로 번호를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Please fill out this form.",
+      "ko": "이 양식을 작성해 주세요.",
+      "tip": "서류 작성을 요청받을 때 듣습니다."
+    },
+    {
+      "en": "Sign at the bottom, please.",
+      "ko": "아래에 서명해 주세요.",
+      "tip": "서명을 요구받을 때 듣습니다."
+    },
+    {
+      "en": "I need a bank statement for the last three months.",
+      "ko": "최근 3개월치 은행 거래 내역서가 필요해요.",
+      "tip": "거래 내역서 발급을 요청할 때 씁니다."
+    },
+    {
+      "en": "Can you print my account balance?",
+      "ko": "제 계좌 잔액을 출력해 주실 수 있나요?",
+      "tip": "잔액 증명서나 출력을 요구할 때 사용합니다."
+    },
+    {
+      "en": "My account is overdrawn.",
+      "ko": "제 계좌가 마이너스 통장이 되었어요.",
+      "tip": "초과 인출 상태를 알릴 때 씁니다."
+    },
+    {
+      "en": "What is the interest rate for a savings account?",
+      "ko": "예금 계좌의 이자율이 어떻게 되나요?",
+      "tip": "예금 금리를 물어볼 때 묻습니다."
+    },
+    {
+      "en": "Do you have a currency exchange counter?",
+      "ko": "환전 창구가 있나요?",
+      "tip": "환전 전용 창구를 찾을 때 사용합니다."
+    },
+    {
+      "en": "The exchange rate is very poor here.",
+      "ko": "여기는 환율이 너무 안 좋네요.",
+      "tip": "환율 조건이 불리할 때 하는 말입니다."
+    },
+    {
+      "en": "Is it better to exchange money at the airport or in the city?",
+      "ko": "공항과 시내 중 어디서 환전하는 게 더 낫나요?",
+      "tip": "환전 장소를 추천받을 때 묻습니다."
+    },
+    {
+      "en": "I have some leftover foreign currency.",
+      "ko": "남은 외국 돈이 좀 있어요.",
+      "tip": "쓰고 남은 돈을 환전하려 할 때 씁니다."
+    },
+    {
+      "en": "Can I change these coins back to my currency?",
+      "ko": "이 동전들을 다시 제 나라 돈으로 바꿀 수 있나요?",
+      "tip": "동전 환전 가능 여부를 확인할 때 사용합니다."
+    },
+    {
+      "en": "We only accept paper money for exchange.",
+      "ko": "환전은 지폐만 받습니다.",
+      "tip": "동전 환전 불가 안내를 받을 때 듣습니다."
+    },
+    {
+      "en": "The bill is torn, can you still accept it?",
+      "ko": "지폐가 찢어졌는데, 그래도 받아주시나요?",
+      "tip": "손상된 지폐 환전을 문의할 때 묻습니다."
+    },
+    {
+      "en": "This banknote is too old.",
+      "ko": "이 지폐는 너무 낡았어요.",
+      "tip": "지폐 상태가 안 좋을 때 하는 말입니다."
+    },
+    {
+      "en": "Do you accept mobile payments?",
+      "ko": "모바일 결제도 받으시나요?",
+      "tip": "스마트폰 결제 가능 여부를 물어볼 때 씁니다."
+    },
+    {
+      "en": "Can I pay with Apple Pay?",
+      "ko": "애플 페이로 결제할 수 있나요?",
+      "tip": "특정 간편 결제 사용을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "The transaction was declined.",
+      "ko": "거래가 거절되었습니다.",
+      "tip": "결제 실패 시 듣는 말입니다."
+    },
+    {
+      "en": "Please try inserting the chip.",
+      "ko": "칩을 꽂아서 다시 시도해 주세요.",
+      "tip": "IC 칩 결제를 유도할 때 듣습니다."
+    },
+    {
+      "en": "You need to swipe the card.",
+      "ko": "카드를 긁으셔야 합니다.",
+      "tip": "마그네틱 결제를 유도할 때 듣습니다."
+    },
+    {
+      "en": "Tap your card on the reader.",
+      "ko": "단말기에 카드를 대주세요.",
+      "tip": "비접촉 결제를 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Enter your PIN and press the green button.",
+      "ko": "비밀번호를 누르고 초록색 버튼을 누르세요.",
+      "tip": "비밀번호 입력을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "The card reader is broken.",
+      "ko": "카드 단말기가 고장 났어요.",
+      "tip": "결제 기기 고장을 알릴 때 씁니다."
+    },
+    {
+      "en": "Is there a surcharge for using a foreign card?",
+      "ko": "해외 카드 사용 시 추가 수수료가 있나요?",
+      "tip": "해외 카드 수수료를 확인할 때 묻습니다."
+    },
+    {
+      "en": "Would you like to pay in your local currency?",
+      "ko": "자국 통화로 결제하시겠습니까?",
+      "tip": "DCC(자국통화결제) 여부를 물어볼 때 듣습니다."
+    },
+    {
+      "en": "Please charge it in the local currency.",
+      "ko": "현지 통화로 결제해 주세요.",
+      "tip": "이중 환전을 피하기 위해 현지 통화 결제를 요청할 때 씁니다."
+    },
+    {
+      "en": "Dynamic currency conversion is a scam.",
+      "ko": "자국 통화 결제(DCC)는 사기나 다름없어요.",
+      "tip": "DCC의 불리함을 지적할 때 쓰는 표현입니다."
+    },
+    {
+      "en": "I need a receipt, please.",
+      "ko": "영수증 부탁드립니다.",
+      "tip": "영수증 발급을 요청할 때 사용합니다."
+    },
+    {
+      "en": "Keep the receipt for your records.",
+      "ko": "기록을 위해 영수증을 보관하세요.",
+      "tip": "영수증 보관 안내를 받을 때 듣습니다."
+    },
+    {
+      "en": "I was overcharged.",
+      "ko": "요금이 과다 청구되었어요.",
+      "tip": "계산이 잘못되었음을 알릴 때 씁니다."
+    },
+    {
+      "en": "Can I get a refund to my credit card?",
+      "ko": "신용카드로 환불받을 수 있나요?",
+      "tip": "카드 취소 및 환불을 요구할 때 사용합니다."
+    },
+    {
+      "en": "How many days will the refund take?",
+      "ko": "환불되는 데 며칠이나 걸리나요?",
+      "tip": "환불 소요 기간을 물어볼 때 묻습니다."
+    },
+    {
+      "en": "The refund hasn't appeared on my statement yet.",
+      "ko": "아직 명세서에 환불 내역이 안 떠요.",
+      "tip": "환불 지연을 항의할 때 씁니다."
+    },
+    {
+      "en": "I need to update my billing address.",
+      "ko": "청구지 주소를 변경해야 해요.",
+      "tip": "주소 변경을 요청할 때 사용합니다."
+    },
+    {
+      "en": "My card expires next month.",
+      "ko": "제 카드가 다음 달에 만료돼요.",
+      "tip": "카드 만료 임박을 알릴 때 씁니다."
+    },
+    {
+      "en": "Can you send the new card to my hotel?",
+      "ko": "새 카드를 제 호텔로 보내주실 수 있나요?",
+      "tip": "해외에서 카드 수령지를 변경할 때 묻습니다."
+    },
+    {
+      "en": "I'm traveling abroad, please don't block my card.",
+      "ko": "해외여행 중이니 제 카드를 정지하지 말아 주세요.",
+      "tip": "해외 사용 전 카드사에 알릴 때 씁니다."
+    },
+    {
+      "en": "I need to activate my card for international use.",
+      "ko": "해외 결제가 가능하도록 카드를 활성화해야 해요.",
+      "tip": "해외 사용 잠금 해제를 요청할 때 사용합니다."
+    },
+    {
+      "en": "What is the maximum limit for contactless payments?",
+      "ko": "비접촉 결제 최대 한도가 얼마인가요?",
+      "tip": "터치 결제 한도를 확인할 때 묻습니다."
+    },
+    {
+      "en": "I'd like to apply for a loan.",
+      "ko": "대출을 신청하고 싶어요.",
+      "tip": "대출 상담을 시작할 때 씁니다."
+    },
+    {
+      "en": "What is the current mortgage rate?",
+      "ko": "현재 주택 담보 대출 금리가 어떻게 되나요?",
+      "tip": "담보 대출 이율을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I need a cashier's check.",
+      "ko": "자기앞수표가 필요해요.",
+      "tip": "은행 보증 수표 발급을 요청할 때 묻습니다."
+    },
+    {
+      "en": "Can you certify this check?",
+      "ko": "이 수표를 보증해 주실 수 있나요?",
+      "tip": "수표 보증을 요구할 때 씁니다."
+    },
+    {
+      "en": "The check bounced.",
+      "ko": "수표가 부도났어요.",
+      "tip": "수표 결제 거절 상황을 알릴 때 사용합니다."
+    },
+    {
+      "en": "I want to stop payment on a check.",
+      "ko": "수표 지급 정지를 요청하고 싶어요.",
+      "tip": "수표 결제 취소를 은행에 요구할 때 씁니다."
+    },
+    {
+      "en": "Do you have a safe deposit box available?",
+      "ko": "이용 가능한 대여 금고가 있나요?",
+      "tip": "은행 금고 대여를 문의할 때 묻습니다."
+    },
+    {
+      "en": "I lost the key to my safe deposit box.",
+      "ko": "대여 금고 열쇠를 잃어버렸어요.",
+      "tip": "금고 열쇠 분실을 알릴 때 씁니다."
+    },
+    {
+      "en": "What are the banking hours?",
+      "ko": "은행 영업시간이 어떻게 되나요?",
+      "tip": "영업시간을 확인할 때 사용합니다."
+    },
+    {
+      "en": "Are you open on weekends?",
+      "ko": "주말에도 영업하나요?",
+      "tip": "주말 영업 여부를 물어볼 때 묻습니다."
+    },
+    {
+      "en": "The bank is closed for a national holiday.",
+      "ko": "국경일이라 은행이 문을 닫았어요.",
+      "tip": "휴무일 안내를 받을 때 듣습니다."
+    },
+    {
+      "en": "I need to speak to a manager.",
+      "ko": "지점장님과 이야기하고 싶어요.",
+      "tip": "책임자와의 면담을 요구할 때 씁니다."
+    },
+    {
+      "en": "Is there an English-speaking teller?",
+      "ko": "영어를 할 줄 아는 은행원이 있나요?",
+      "tip": "영어 소통이 가능한 직원을 찾을 때 묻습니다."
+    },
+    {
+      "en": "Please take a number and wait.",
+      "ko": "번호표를 뽑고 기다려 주세요.",
+      "tip": "대기표 발권을 안내받을 때 듣습니다."
+    },
+    {
+      "en": "Which counter should I go to?",
+      "ko": "어느 창구로 가야 하나요?",
+      "tip": "업무에 맞는 창구를 찾을 때 묻습니다."
+    },
+    {
+      "en": "I have an appointment with a financial advisor.",
+      "ko": "재무 상담사와 예약이 되어 있어요.",
+      "tip": "예약 방문임을 알릴 때 씁니다."
+    },
+    {
+      "en": "Can I get a tax refund form?",
+      "ko": "택스 리펀드 양식을 받을 수 있나요?",
+      "tip": "면세 환급 서류를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Where is the tax refund counter at the airport?",
+      "ko": "공항 택스 리펀드 창구가 어디인가요?",
+      "tip": "공항에서 세금 환급처를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Do I get the refund in cash or on my card?",
+      "ko": "환급금은 현금으로 받나요, 카드로 받나요?",
+      "tip": "환급 방식을 확인할 때 씁니다."
+    },
+    {
+      "en": "The customs officer needs to stamp the receipt.",
+      "ko": "세관원이 영수증에 도장을 찍어줘야 해요.",
+      "tip": "세관 확인 절차를 안내받을 때 듣습니다."
+    },
+    {
+      "en": "I didn't receive my tax refund.",
+      "ko": "택스 리펀드를 받지 못했어요.",
+      "tip": "환급 누락을 항의할 때 사용합니다."
+    },
+    {
+      "en": "Can I exchange these damaged notes?",
+      "ko": "이 손상된 지폐를 교환할 수 있나요?",
+      "tip": "훼손된 돈의 교환을 문의할 때 묻습니다."
+    },
+    {
+      "en": "Do you buy back foreign currency?",
+      "ko": "외국 돈을 다시 사주시기도 하나요?",
+      "tip": "재환전 가능 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "I'd like to check today's buying rate.",
+      "ko": "오늘의 매입 환율을 확인하고 싶어요.",
+      "tip": "은행이 외화를 사는 환율을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can I get a new PIN for my card?",
+      "ko": "제 카드 비밀번호를 새로 발급받을 수 있나요?",
+      "tip": "비밀번호 재설정을 요청할 때 씁니다."
+    },
+    {
+      "en": "I need to transfer funds to another account.",
+      "ko": "다른 계좌로 자금을 이체해야 해요.",
+      "tip": "계좌 이체를 요청할 때 사용합니다."
+    },
+    {
+      "en": "What is the daily transfer limit?",
+      "ko": "일일 이체 한도가 얼마인가요?",
+      "tip": "하루 송금 한도를 물어볼 때 묻습니다."
+    },
+    {
+      "en": "Is there a fee for using another bank's ATM?",
+      "ko": "타행 ATM을 사용하면 수수료가 있나요?",
+      "tip": "타행 기기 이용 수수료를 확인할 때 씁니다."
+    },
+    {
+      "en": "I want to exchange these traveler's checks for cash.",
+      "ko": "이 여행자 수표를 현금으로 바꾸고 싶어요.",
+      "tip": "여행자 수표를 현금화할 때 사용합니다."
     }
   ],
   "communication": [
@@ -3175,6 +7120,506 @@
       "en": "See you later.",
       "ko": "나중에 봐요.",
       "tip": "다시 만날 사람과 헤어질 때 씁니다."
+    },
+    {
+      "en": "Good morning.",
+      "ko": "좋은 아침입니다.",
+      "tip": "아침에 하는 기본적인 인사입니다."
+    },
+    {
+      "en": "Good afternoon.",
+      "ko": "좋은 오후입니다.",
+      "tip": "점심 이후부터 저녁 전까지 하는 인사입니다."
+    },
+    {
+      "en": "Good evening.",
+      "ko": "좋은 저녁입니다.",
+      "tip": "저녁에 만났을 때 하는 인사입니다."
+    },
+    {
+      "en": "How's it going?",
+      "ko": "어떻게 지내세요?",
+      "tip": "친근하게 안부를 묻는 표현입니다."
+    },
+    {
+      "en": "What's up?",
+      "ko": "별일 없죠?",
+      "tip": "친한 사이에서 가볍게 하는 인사입니다."
+    },
+    {
+      "en": "It's been a while.",
+      "ko": "오랜만이네요.",
+      "tip": "오랜만에 만난 사람에게 씁니다."
+    },
+    {
+      "en": "Long time no see.",
+      "ko": "오랜만이에요.",
+      "tip": "오랫동안 보지 못한 사람에게 친근하게 건네는 인사입니다."
+    },
+    {
+      "en": "How have you been?",
+      "ko": "그동안 어떻게 지내셨어요?",
+      "tip": "그간의 안부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'm doing great, thanks.",
+      "ko": "아주 잘 지내고 있어요, 고마워요.",
+      "tip": "안부 인사에 긍정적으로 답할 때 씁니다."
+    },
+    {
+      "en": "Not bad, how about you?",
+      "ko": "나쁘지 않아요, 당신은요?",
+      "tip": "무난하게 답하며 상대의 안부를 되물을 때 씁니다."
+    },
+    {
+      "en": "My name is Kim.",
+      "ko": "제 이름은 킴입니다.",
+      "tip": "자신의 이름을 소개할 때 사용합니다."
+    },
+    {
+      "en": "I'm from South Korea.",
+      "ko": "저는 한국에서 왔어요.",
+      "tip": "출신 국가를 말할 때 씁니다."
+    },
+    {
+      "en": "This is my first time here.",
+      "ko": "여기는 처음 와봐요.",
+      "tip": "첫 방문임을 알릴 때 사용합니다."
+    },
+    {
+      "en": "I'm traveling with my family.",
+      "ko": "가족과 함께 여행 중이에요.",
+      "tip": "동행자를 소개할 때 씁니다."
+    },
+    {
+      "en": "I'm here on vacation.",
+      "ko": "휴가차 이곳에 왔어요.",
+      "tip": "방문 목적이 휴가임을 알릴 때 씁니다."
+    },
+    {
+      "en": "I'm here for a business trip.",
+      "ko": "출장으로 왔어요.",
+      "tip": "방문 목적이 업무임을 알릴 때 사용합니다."
+    },
+    {
+      "en": "How long have you lived here?",
+      "ko": "여기 사신 지 얼마나 되셨나요?",
+      "tip": "현지인에게 거주 기간을 물어보며 스몰토크를 시작할 때 씁니다."
+    },
+    {
+      "en": "What do you do for a living?",
+      "ko": "무슨 일을 하시나요?",
+      "tip": "상대방의 직업을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'm a student.",
+      "ko": "저는 학생입니다.",
+      "tip": "자신의 직업이 학생임을 밝힐 때 씁니다."
+    },
+    {
+      "en": "I work in IT.",
+      "ko": "저는 IT 업계에서 일해요.",
+      "tip": "자신의 종사 분야를 말할 때 사용합니다."
+    },
+    {
+      "en": "The weather is lovely today.",
+      "ko": "오늘 날씨가 정말 좋네요.",
+      "tip": "날씨에 대해 가볍게 대화할 때 씁니다."
+    },
+    {
+      "en": "It's a bit chilly outside.",
+      "ko": "밖이 약간 쌀쌀하네요.",
+      "tip": "날씨가 추울 때 하는 말입니다."
+    },
+    {
+      "en": "Do you think it will rain later?",
+      "ko": "이따가 비가 올 것 같나요?",
+      "tip": "현지인에게 날씨 전망을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I love your outfit.",
+      "ko": "옷차림이 정말 멋지네요.",
+      "tip": "상대방의 스타일을 칭찬할 때 씁니다."
+    },
+    {
+      "en": "You have a beautiful country.",
+      "ko": "정말 아름다운 나라네요.",
+      "tip": "방문한 국가를 칭찬할 때 사용합니다."
+    },
+    {
+      "en": "The food here is amazing.",
+      "ko": "여기 음식 정말 맛있어요.",
+      "tip": "현지 음식에 대해 칭찬할 때 씁니다."
+    },
+    {
+      "en": "I'm really enjoying my trip.",
+      "ko": "여행을 정말 즐겁게 하고 있어요.",
+      "tip": "여행에 대한 만족감을 표현할 때 사용합니다."
+    },
+    {
+      "en": "Thank you so much for your help.",
+      "ko": "도와주셔서 정말 감사합니다.",
+      "tip": "도움을 받았을 때 깊은 감사를 표합니다."
+    },
+    {
+      "en": "I really appreciate it.",
+      "ko": "정말 감사하게 생각해요.",
+      "tip": "감사함을 진심으로 전할 때 씁니다."
+    },
+    {
+      "en": "That's very kind of you.",
+      "ko": "정말 친절하시네요.",
+      "tip": "상대방의 호의에 감사할 때 사용합니다."
+    },
+    {
+      "en": "Don't mention it.",
+      "ko": "천만에요.",
+      "tip": "감사 인사에 겸손하게 답할 때 씁니다."
+    },
+    {
+      "en": "It's my pleasure.",
+      "ko": "제가 오히려 기쁩니다.",
+      "tip": "도움을 주고 나서 정중하게 답할 때 사용합니다."
+    },
+    {
+      "en": "I'm sorry to bother you.",
+      "ko": "귀찮게 해드려 죄송합니다.",
+      "tip": "질문이나 부탁을 하기 전 양해를 구할 때 씁니다."
+    },
+    {
+      "en": "Excuse me, can I ask you a question?",
+      "ko": "실례하지만, 질문 하나 해도 될까요?",
+      "tip": "모르는 사람에게 말을 걸 때 사용합니다."
+    },
+    {
+      "en": "I apologize for the mistake.",
+      "ko": "실수에 대해 사과드립니다.",
+      "tip": "자신의 잘못을 정중히 사과할 때 씁니다."
+    },
+    {
+      "en": "That's alright.",
+      "ko": "괜찮습니다.",
+      "tip": "상대방의 사과를 받아들일 때 사용합니다."
+    },
+    {
+      "en": "No worries.",
+      "ko": "걱정 마세요.",
+      "tip": "사과나 감사에 대해 편하게 답할 때 씁니다."
+    },
+    {
+      "en": "I don't speak English very well.",
+      "ko": "저는 영어를 잘 못해요.",
+      "tip": "자신의 영어 실력이 부족함을 알릴 때 씁니다."
+    },
+    {
+      "en": "Could you speak a little slower, please?",
+      "ko": "조금만 천천히 말씀해 주시겠어요?",
+      "tip": "말이 너무 빠를 때 부탁하는 표현입니다."
+    },
+    {
+      "en": "Could you repeat that?",
+      "ko": "다시 한번 말씀해 주시겠어요?",
+      "tip": "상대방의 말을 잘 못 들었을 때 씁니다."
+    },
+    {
+      "en": "How do you pronounce this word?",
+      "ko": "이 단어는 어떻게 발음하나요?",
+      "tip": "발음 방법을 물어볼 때 씁니다."
+    },
+    {
+      "en": "I get it now.",
+      "ko": "이제 알겠어요.",
+      "tip": "설명을 듣고 이해했을 때 사용합니다."
+    },
+    {
+      "en": "Does anyone here speak Korean?",
+      "ko": "여기 한국어 할 줄 아시는 분 있나요?",
+      "tip": "한국어 통역이 필요할 때 묻습니다."
+    },
+    {
+      "en": "I'm using a translation app.",
+      "ko": "저는 번역 앱을 쓰고 있어요.",
+      "tip": "번역기를 사용해 소통함을 알릴 때 씁니다."
+    },
+    {
+      "en": "Is it customary to tip here?",
+      "ko": "여기는 팁을 주는 게 관례인가요?",
+      "tip": "현지의 팁 문화를 확인할 때 묻습니다."
+    },
+    {
+      "en": "How much should I tip?",
+      "ko": "팁은 얼마 정도 줘야 하나요?",
+      "tip": "적정 팁 액수를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Is service charge included?",
+      "ko": "서비스 요금이 포함되어 있나요?",
+      "tip": "영수증에 팁이 포함되었는지 확인할 때 씁니다."
+    },
+    {
+      "en": "Do I need to take off my shoes?",
+      "ko": "신발을 벗어야 하나요?",
+      "tip": "실내 진입 시 신발 탈의 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Is it okay to eat on the street?",
+      "ko": "길거리에서 음식을 먹어도 되나요?",
+      "tip": "길거리 취식 문화나 규정을 확인할 때 묻습니다."
+    },
+    {
+      "en": "What is the proper greeting here?",
+      "ko": "여기서는 어떻게 인사하는 것이 예의인가요?",
+      "tip": "현지의 올바른 인사법을 물어볼 때 씁니다."
+    },
+    {
+      "en": "Should I bow or shake hands?",
+      "ko": "고개를 숙여 인사해야 하나요, 악수를 해야 하나요?",
+      "tip": "인사 방식을 구체적으로 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Are there any cultural taboos I should know about?",
+      "ko": "제가 알아야 할 문화적 금기가 있나요?",
+      "tip": "실수하지 않기 위해 현지 금기 사항을 물어볼 때 씁니다."
+    },
+    {
+      "en": "Is it polite to slurp noodles here?",
+      "ko": "여기선 면을 소리 내어 먹는 게 예의에 어긋나지 않나요?",
+      "tip": "식사 예절을 확인할 때 사용합니다."
+    },
+    {
+      "en": "I didn't mean to be rude.",
+      "ko": "무례하게 굴려던 건 아니었어요.",
+      "tip": "문화적 차이로 실수했을 때 해명하는 표현입니다."
+    },
+    {
+      "en": "Please forgive my ignorance.",
+      "ko": "제가 잘 몰랐으니 용서해 주세요.",
+      "tip": "현지 문화를 몰라 실수했을 때 사과하며 씁니다."
+    },
+    {
+      "en": "That's very interesting.",
+      "ko": "그거 정말 흥미롭네요.",
+      "tip": "새로운 문화나 이야기를 들었을 때 반응입니다."
+    },
+    {
+      "en": "I didn't know that.",
+      "ko": "그건 몰랐네요.",
+      "tip": "새로운 사실을 알게 되었을 때 씁니다."
+    },
+    {
+      "en": "We don't do that in my country.",
+      "ko": "우리나라에서는 그렇게 하지 않아요.",
+      "tip": "문화적 차이를 설명할 때 사용합니다."
+    },
+    {
+      "en": "In Korea, we usually bow to elders.",
+      "ko": "한국에서는 보통 어른들께 고개를 숙여 인사해요.",
+      "tip": "한국의 문화를 소개할 때 씁니다."
+    },
+    {
+      "en": "What a coincidence!",
+      "ko": "이런 우연이 있네요!",
+      "tip": "뜻밖의 우연한 상황에 놀라며 하는 말입니다."
+    },
+    {
+      "en": "I'm so happy to hear that.",
+      "ko": "그 말을 들으니 정말 기쁘네요.",
+      "tip": "좋은 소식을 들었을 때 사용합니다."
+    },
+    {
+      "en": "That sounds like fun.",
+      "ko": "재밌을 것 같네요.",
+      "tip": "상대방의 제안이나 이야기에 호응할 때 씁니다."
+    },
+    {
+      "en": "I'm a bit confused.",
+      "ko": "조금 혼란스럽네요.",
+      "tip": "상황이나 설명이 헷갈릴 때 사용합니다."
+    },
+    {
+      "en": "I'm surprised.",
+      "ko": "놀랐어요.",
+      "tip": "놀라운 감정을 표현할 때 씁니다."
+    },
+    {
+      "en": "That's unbelievable!",
+      "ko": "믿을 수가 없네요!",
+      "tip": "매우 놀랍거나 대단한 일을 겪었을 때 사용합니다."
+    },
+    {
+      "en": "I completely agree with you.",
+      "ko": "당신 말에 전적으로 동의해요.",
+      "tip": "상대방의 의견에 강하게 찬성할 때 씁니다."
+    },
+    {
+      "en": "I think so too.",
+      "ko": "저도 그렇게 생각해요.",
+      "tip": "가볍게 동의를 표할 때 사용합니다."
+    },
+    {
+      "en": "I'm not sure about that.",
+      "ko": "그건 잘 모르겠네요.",
+      "tip": "확신이 없거나 부드럽게 반대할 때 씁니다."
+    },
+    {
+      "en": "I politely disagree.",
+      "ko": "정중히 반대합니다.",
+      "tip": "예의를 갖춰 의견이 다름을 말할 때 사용합니다."
+    },
+    {
+      "en": "Maybe another time.",
+      "ko": "다음에 기회 되면 할게요.",
+      "tip": "제안을 부드럽게 거절할 때 씁니다."
+    },
+    {
+      "en": "I'd love to, but I have plans.",
+      "ko": "정말 그러고 싶지만, 선약이 있어요.",
+      "tip": "초대를 정중히 거절할 때 사용합니다."
+    },
+    {
+      "en": "Thank you for the invitation.",
+      "ko": "초대해 주셔서 감사합니다.",
+      "tip": "초대에 대한 감사를 전할 때 씁니다."
+    },
+    {
+      "en": "Let's keep in touch.",
+      "ko": "계속 연락하고 지내요.",
+      "tip": "헤어질 때 연락을 유지하자고 할 때 사용합니다."
+    },
+    {
+      "en": "Do you have Instagram?",
+      "ko": "인스타그램 하시나요?",
+      "tip": "SNS 계정을 물어보며 친해지고 싶을 때 씁니다."
+    },
+    {
+      "en": "Can I get your phone number?",
+      "ko": "전화번호 좀 받을 수 있을까요?",
+      "tip": "연락처를 교환하고 싶을 때 묻습니다."
+    },
+    {
+      "en": "It was nice talking to you.",
+      "ko": "대화 즐거웠습니다.",
+      "tip": "대화를 마치고 헤어질 때 하는 인사입니다."
+    },
+    {
+      "en": "Have a safe trip back home.",
+      "ko": "집에 조심히 돌아가세요.",
+      "tip": "상대방의 안전한 귀가를 기원할 때 씁니다."
+    },
+    {
+      "en": "Enjoy the rest of your day.",
+      "ko": "남은 하루 즐겁게 보내세요.",
+      "tip": "헤어질 때 건네는 덕담입니다."
+    },
+    {
+      "en": "Take care.",
+      "ko": "잘 지내세요.",
+      "tip": "작별 인사로 흔히 쓰이는 표현입니다."
+    },
+    {
+      "en": "Goodbye, and thank you for everything.",
+      "ko": "안녕히 계세요, 여러 가지로 감사했습니다.",
+      "tip": "도움을 준 사람과 작별할 때 사용합니다."
+    },
+    {
+      "en": "Cheers!",
+      "ko": "건배!",
+      "tip": "술잔을 부딪치며 축하할 때 씁니다."
+    },
+    {
+      "en": "Bless you!",
+      "ko": "블레스 유! (감기 조심하세요)",
+      "tip": "누군가 재채기를 했을 때 건네는 관용적 인사입니다."
+    },
+    {
+      "en": "Congratulations!",
+      "ko": "축하합니다!",
+      "tip": "축하할 일이 있을 때 사용합니다."
+    },
+    {
+      "en": "Happy birthday!",
+      "ko": "생일 축하해요!",
+      "tip": "생일을 맞은 사람에게 하는 인사입니다."
+    },
+    {
+      "en": "Merry Christmas!",
+      "ko": "메리 크리스마스!",
+      "tip": "크리스마스 시즌에 하는 인사입니다."
+    },
+    {
+      "en": "Happy New Year!",
+      "ko": "새해 복 많이 받으세요!",
+      "tip": "새해를 맞이하여 하는 인사입니다."
+    },
+    {
+      "en": "Good luck!",
+      "ko": "행운을 빌어요!",
+      "tip": "상대방의 앞날에 행운을 기원할 때 씁니다."
+    },
+    {
+      "en": "Have fun!",
+      "ko": "재밌게 보내세요!",
+      "tip": "상대방이 즐거운 시간을 보내길 바랄 때 사용합니다."
+    },
+    {
+      "en": "Bon appetit!",
+      "ko": "맛있게 드세요!",
+      "tip": "식사를 시작하기 전에 건네는 말입니다."
+    },
+    {
+      "en": "Welcome to our city.",
+      "ko": "우리 도시에 오신 것을 환영합니다.",
+      "tip": "방문객을 환영할 때 쓰는 표현입니다."
+    },
+    {
+      "en": "Make yourself at home.",
+      "ko": "편하게 계세요.",
+      "tip": "손님을 맞이하여 편안하게 해주려 할 때 씁니다."
+    },
+    {
+      "en": "Please have a seat.",
+      "ko": "자리에 앉으세요.",
+      "tip": "자리를 권할 때 사용합니다."
+    },
+    {
+      "en": "After you.",
+      "ko": "먼저 가세요.",
+      "tip": "문이나 길에서 양보할 때 씁니다."
+    },
+    {
+      "en": "Mind your head.",
+      "ko": "머리 조심하세요.",
+      "tip": "천장이 낮거나 부딪힐 위험이 있을 때 경고합니다."
+    },
+    {
+      "en": "Watch out!",
+      "ko": "조심해요!",
+      "tip": "위험한 상황을 급히 알릴 때 사용합니다."
+    },
+    {
+      "en": "I'm looking forward to it.",
+      "ko": "정말 기대됩니다.",
+      "tip": "앞으로 있을 일에 대한 기대감을 표현할 때 씁니다."
+    },
+    {
+      "en": "Could you do me a favor?",
+      "ko": "부탁 하나 들어주시겠어요?",
+      "tip": "상대방에게 정중하게 부탁을 시작할 때 사용합니다."
+    },
+    {
+      "en": "I'm not used to this.",
+      "ko": "이게 익숙하지 않아서요.",
+      "tip": "새로운 문화나 상황에 낯설 때 양해를 구하며 씁니다."
+    },
+    {
+      "en": "What do you recommend?",
+      "ko": "어떤 걸 추천하시나요?",
+      "tip": "현지인의 추천을 받고 싶을 때 묻습니다."
+    },
+    {
+      "en": "It was a pleasure meeting you.",
+      "ko": "만나서 정말 반가웠습니다.",
+      "tip": "처음 만난 사람과 헤어질 때 정중하게 인사합니다."
     }
   ],
   "cruise": [
@@ -3252,6 +7697,506 @@
       "en": "Where is the customer service desk?",
       "ko": "고객 서비스 데스크가 어디인가요?",
       "tip": "도움이 필요할 때 안내 데스크를 찾습니다."
+    },
+    {
+      "en": "I'd like to check in for the cruise.",
+      "ko": "크루즈 체크인을 하고 싶어요.",
+      "tip": "터미널에서 탑승 수속을 시작할 때 씁니다."
+    },
+    {
+      "en": "Where is the baggage drop-off?",
+      "ko": "수하물 맡기는 곳이 어디인가요?",
+      "tip": "큰 짐을 배로 보내기 위해 위탁 장소를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Here are my cruise documents and passport.",
+      "ko": "제 크루즈 서류와 여권입니다.",
+      "tip": "체크인 시 필요한 서류를 제출할 때 사용합니다."
+    },
+    {
+      "en": "What time does boarding begin?",
+      "ko": "탑승은 몇 시에 시작하나요?",
+      "tip": "배에 오르는 시간을 확인할 때 묻습니다."
+    },
+    {
+      "en": "Where can I get my cruise card?",
+      "ko": "크루즈 카드는 어디서 받나요?",
+      "tip": "선내 신분증 겸 결제 수단인 카드를 찾을 때 씁니다."
+    },
+    {
+      "en": "Is there a priority boarding line?",
+      "ko": "우선 탑승 줄이 따로 있나요?",
+      "tip": "VIP나 특정 등급을 위한 빠른 줄을 찾을 때 사용합니다."
+    },
+    {
+      "en": "How do I find my stateroom?",
+      "ko": "제 객실은 어떻게 찾나요?",
+      "tip": "선실(캐빈) 위치를 물어볼 때 묻습니다."
+    },
+    {
+      "en": "My cabin is on deck seven.",
+      "ko": "제 객실은 7층 데크에 있어요.",
+      "tip": "자신의 객실 층수를 말할 때 씁니다."
+    },
+    {
+      "en": "Is my luggage delivered to my room?",
+      "ko": "제 짐은 객실로 배달되나요?",
+      "tip": "위탁 수하물 배송 여부를 확인할 때 사용합니다."
+    },
+    {
+      "en": "The key card is not opening the door.",
+      "ko": "카드키로 문이 안 열려요.",
+      "tip": "객실 문이 열리지 않을 때 도움을 청하며 씁니다."
+    },
+    {
+      "en": "Could you send someone to fix the air conditioning?",
+      "ko": "에어컨을 고치러 사람 좀 보내주시겠어요?",
+      "tip": "객실 냉방기 고장을 수리 요청할 때 묻습니다."
+    },
+    {
+      "en": "Where is the muster station for the safety drill?",
+      "ko": "안전 훈련을 위한 집합 장소가 어디인가요?",
+      "tip": "비상 대피 훈련 장소를 찾을 때 씁니다."
+    },
+    {
+      "en": "Is attendance at the muster drill mandatory?",
+      "ko": "안전 훈련 참석은 의무인가요?",
+      "tip": "훈련 필수 참석 여부를 확인할 때 사용합니다."
+    },
+    {
+      "en": "How do I put on this life jacket?",
+      "ko": "이 구명조끼는 어떻게 입나요?",
+      "tip": "구명조끼 착용법을 물어볼 때 묻습니다."
+    },
+    {
+      "en": "I feel a bit seasick.",
+      "ko": "뱃멀미가 좀 나네요.",
+      "tip": "멀미 증상을 호소할 때 씁니다."
+    },
+    {
+      "en": "Do you have any medication for motion sickness?",
+      "ko": "멀미약 있나요?",
+      "tip": "멀미약을 요청할 때 사용합니다."
+    },
+    {
+      "en": "I'd like to book a shore excursion.",
+      "ko": "기항지 관광을 예약하고 싶어요.",
+      "tip": "배에서 내려서 하는 투어를 예약할 때 묻습니다."
+    },
+    {
+      "en": "When is the all-aboard time?",
+      "ko": "승선 마감 시간이 언제인가요?",
+      "tip": "기항지에서 배로 돌아와야 하는 한계 시간을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Do I need a visa for this port of call?",
+      "ko": "이 기항지에서는 비자가 필요한가요?",
+      "tip": "특정 국가 항구 정박 시 비자 필요 여부를 확인할 때 묻습니다."
+    },
+    {
+      "en": "Where is the gangway located?",
+      "ko": "승하선용 출입구(갱웨이)가 어디에 있나요?",
+      "tip": "배에서 내리거나 탈 때 출입구를 찾으며 씁니다."
+    },
+    {
+      "en": "Can I get a map of the port?",
+      "ko": "항구 지도를 얻을 수 있을까요?",
+      "tip": "기항지 지도를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Are there shuttle buses to the city center?",
+      "ko": "시내로 가는 셔틀버스가 있나요?",
+      "tip": "항구에서 시내로 가는 교통편을 물어볼 때 묻습니다."
+    },
+    {
+      "en": "What time is the first seating for dinner?",
+      "ko": "저녁 식사 1부 시간은 몇 시인가요?",
+      "tip": "정찬 식당의 첫 번째 식사 시간을 확인할 때 씁니다."
+    },
+    {
+      "en": "We have anytime dining.",
+      "ko": "저희는 자유 식사(애니타임 다이닝)입니다.",
+      "tip": "정해진 시간 없이 식사하는 옵션임을 알릴 때 사용합니다."
+    },
+    {
+      "en": "I'd like to make a reservation for the specialty restaurant.",
+      "ko": "스페셜티 레스토랑(유료 식당)을 예약하고 싶어요.",
+      "tip": "유료 특별 식당을 예약할 때 묻습니다."
+    },
+    {
+      "en": "Is there a dress code for tonight's dinner?",
+      "ko": "오늘 저녁 식사에 복장 규정이 있나요?",
+      "tip": "정찬 식당의 드레스 코드를 확인할 때 씁니다."
+    },
+    {
+      "en": "Is tonight a formal night?",
+      "ko": "오늘 밤이 포멀 나이트(정장 입는 날)인가요?",
+      "tip": "정장을 입어야 하는 날인지 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can we get a table by the window?",
+      "ko": "창가 자리로 주실 수 있나요?",
+      "tip": "식당에서 창가 좌석을 요청할 때 묻습니다."
+    },
+    {
+      "en": "Are drinks included in the cruise fare?",
+      "ko": "음료는 크루즈 요금에 포함되어 있나요?",
+      "tip": "음료 무료 제공 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "I'd like to purchase a beverage package.",
+      "ko": "음료 패키지를 구매하고 싶어요.",
+      "tip": "음료/주류 무제한 패키지를 살 때 사용합니다."
+    },
+    {
+      "en": "Does this package include alcoholic drinks?",
+      "ko": "이 패키지에 주류도 포함되나요?",
+      "tip": "패키지에 알코올 포함 여부를 물어볼 때 묻습니다."
+    },
+    {
+      "en": "Where is the buffet restaurant?",
+      "ko": "뷔페 식당이 어디인가요?",
+      "tip": "자유롭게 식사할 수 있는 뷔페 위치를 찾을 때 씁니다."
+    },
+    {
+      "en": "Is room service available 24 hours?",
+      "ko": "룸서비스는 24시간 이용 가능한가요?",
+      "tip": "룸서비스 이용 시간을 확인할 때 사용합니다."
+    },
+    {
+      "en": "Is there a charge for room service delivery?",
+      "ko": "룸서비스 배달료가 있나요?",
+      "tip": "룸서비스 유료 여부를 물어볼 때 묻습니다."
+    },
+    {
+      "en": "What time does the casino open?",
+      "ko": "카지노는 몇 시에 여나요?",
+      "tip": "선내 카지노 영업시간을 확인할 때 씁니다."
+    },
+    {
+      "en": "Where is the main theater?",
+      "ko": "메인 극장이 어디인가요?",
+      "tip": "공연을 하는 대극장 위치를 찾을 때 사용합니다."
+    },
+    {
+      "en": "Do I need to reserve seats for the evening show?",
+      "ko": "저녁 공연 좌석을 예약해야 하나요?",
+      "tip": "공연 예약 필수 여부를 물어볼 때 묻습니다."
+    },
+    {
+      "en": "Is there a kids' club on board?",
+      "ko": "배 안에 키즈 클럽이 있나요?",
+      "tip": "어린이 전용 시설 유무를 확인할 때 씁니다."
+    },
+    {
+      "en": "What activities are scheduled for today?",
+      "ko": "오늘 어떤 활동들이 예정되어 있나요?",
+      "tip": "선내 프로그램 일정을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Can I get a copy of the daily newsletter?",
+      "ko": "일일 선상 신문 한 부 받을 수 있을까요?",
+      "tip": "매일 배달되는 프로그램 안내지를 요청할 때 묻습니다."
+    },
+    {
+      "en": "Where are the swimming pools and hot tubs?",
+      "ko": "수영장과 온수풀(자쿠지)은 어디에 있나요?",
+      "tip": "수영 시설 위치를 찾을 때 씁니다."
+    },
+    {
+      "en": "Are pool towels provided?",
+      "ko": "수영장 수건이 제공되나요?",
+      "tip": "수건 대여 여부를 확인할 때 사용합니다."
+    },
+    {
+      "en": "Is the fitness center open now?",
+      "ko": "지금 피트니스 센터가 열려 있나요?",
+      "tip": "헬스장 운영 여부를 물어볼 때 묻습니다."
+    },
+    {
+      "en": "I'd like to book a massage at the spa.",
+      "ko": "스파에서 마사지를 예약하고 싶어요.",
+      "tip": "선내 스파 서비스를 예약할 때 씁니다."
+    },
+    {
+      "en": "Is there a running track on the top deck?",
+      "ko": "최상층 데크에 조깅 트랙이 있나요?",
+      "tip": "야외 달리기 트랙 유무를 확인할 때 사용합니다."
+    },
+    {
+      "en": "How do I connect to the ship's Wi-Fi?",
+      "ko": "배의 와이파이에 어떻게 연결하나요?",
+      "tip": "선내 인터넷 연결 방법을 물어볼 때 묻습니다."
+    },
+    {
+      "en": "How much is the internet package for the week?",
+      "ko": "일주일 인터넷 패키지는 얼마인가요?",
+      "tip": "인터넷 요금제를 확인할 때 씁니다."
+    },
+    {
+      "en": "The internet connection is very slow.",
+      "ko": "인터넷 연결이 너무 느려요.",
+      "tip": "선내 와이파이 속도 불만을 말할 때 사용합니다."
+    },
+    {
+      "en": "Where is the guest services desk?",
+      "ko": "고객 서비스 데스크가 어디인가요?",
+      "tip": "안내 데스크(리셉션) 위치를 찾을 때 묻습니다."
+    },
+    {
+      "en": "I have a question about my onboard account.",
+      "ko": "제 선내 결제 계정에 대해 질문이 있어요.",
+      "tip": "선내 사용 내역에 대해 문의할 때 씁니다."
+    },
+    {
+      "en": "Can I pay my gratuities in advance?",
+      "ko": "선상 팁(봉사료)을 미리 지불할 수 있나요?",
+      "tip": "팁 선결제 가능 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Are tips automatically added to the bill?",
+      "ko": "팁이 청구서에 자동으로 추가되나요?",
+      "tip": "자동 팁 부과 여부를 확인할 때 묻습니다."
+    },
+    {
+      "en": "I'd like to dispute a charge on my statement.",
+      "ko": "제 명세서에 있는 청구 금액에 이의를 제기하고 싶어요.",
+      "tip": "잘못된 결제 내역 수정을 요구할 때 씁니다."
+    },
+    {
+      "en": "Where can I exchange currency on the ship?",
+      "ko": "배 안 어디서 환전할 수 있나요?",
+      "tip": "선내 환전소 위치를 찾을 때 사용합니다."
+    },
+    {
+      "en": "Is there a medical center on board?",
+      "ko": "배 안에 의무실이 있나요?",
+      "tip": "선내 병원 유무를 확인할 때 묻습니다."
+    },
+    {
+      "en": "What are the clinic hours?",
+      "ko": "의무실 진료 시간이 어떻게 되나요?",
+      "tip": "의무실 운영 시간을 물어볼 때 씁니다."
+    },
+    {
+      "en": "I need to see the ship's doctor.",
+      "ko": "선의(선상 의사)의 진료를 받아야 해요.",
+      "tip": "의사 진찰을 요청할 때 사용합니다."
+    },
+    {
+      "en": "Where is the duty-free shop?",
+      "ko": "면세점이 어디인가요?",
+      "tip": "선내 면세점 위치를 찾을 때 묻습니다."
+    },
+    {
+      "en": "Are the shops open while we are in port?",
+      "ko": "항구에 정박해 있는 동안에도 상점들이 문을 여나요?",
+      "tip": "기항지 정박 중 상점 운영 여부를 확인할 때 씁니다."
+    },
+    {
+      "en": "Can I buy toiletries on the ship?",
+      "ko": "배에서 세면도구를 살 수 있나요?",
+      "tip": "칫솔, 치약 등 구매 가능 여부를 물어볼 때 사용합니다."
+    },
+    {
+      "en": "Is there a laundry service available?",
+      "ko": "세탁 서비스가 있나요?",
+      "tip": "세탁 의뢰가 가능한지 물어볼 때 묻습니다."
+    },
+    {
+      "en": "Do you have self-service laundry rooms?",
+      "ko": "셀프 세탁실이 있나요?",
+      "tip": "코인 세탁실 유무를 확인할 때 씁니다."
+    },
+    {
+      "en": "How much does it cost to wash a bag of laundry?",
+      "ko": "세탁물 한 봉지를 빠는 데 얼마인가요?",
+      "tip": "세탁 서비스 요금을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "I'd like to order breakfast to my cabin tomorrow.",
+      "ko": "내일 아침 식사를 객실로 주문하고 싶어요.",
+      "tip": "조식 룸서비스를 예약할 때 묻습니다."
+    },
+    {
+      "en": "Please leave the breakfast outside my door.",
+      "ko": "아침 식사는 문 밖에 두고 가주세요.",
+      "tip": "비대면 룸서비스 배달을 요청할 때 씁니다."
+    },
+    {
+      "en": "Can I request extra pillows and blankets?",
+      "ko": "베개와 담요를 추가로 요청할 수 있나요?",
+      "tip": "추가 침구를 요구할 때 사용합니다."
+    },
+    {
+      "en": "My cabin steward is very helpful.",
+      "ko": "제 객실 담당 승무원이 정말 친절해요.",
+      "tip": "룸메이드(스튜어드)를 칭찬할 때 씁니다."
+    },
+    {
+      "en": "The toilet in my bathroom is clogged.",
+      "ko": "화장실 변기가 막혔어요.",
+      "tip": "배관 문제를 알리고 수리를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Is there a safe in the room?",
+      "ko": "객실에 금고가 있나요?",
+      "tip": "귀중품 보관용 금고 유무를 확인할 때 묻습니다."
+    },
+    {
+      "en": "How do I operate the room safe?",
+      "ko": "객실 금고는 어떻게 작동하나요?",
+      "tip": "금고 사용법을 물어볼 때 씁니다."
+    },
+    {
+      "en": "I locked my valuables in the safe and forgot the code.",
+      "ko": "귀중품을 금고에 넣고 잠갔는데 비밀번호를 잊어버렸어요.",
+      "tip": "금고 비밀번호 분실 시 도움을 청할 때 사용합니다."
+    },
+    {
+      "en": "What time is the captain's welcome reception?",
+      "ko": "선장 주최 환영 리셉션은 몇 시인가요?",
+      "tip": "선장 환영 파티 시간을 확인할 때 묻습니다."
+    },
+    {
+      "en": "Where is the photo gallery?",
+      "ko": "사진 갤러리가 어디인가요?",
+      "tip": "배에서 찍힌 사진을 확인/구매하는 곳을 찾을 때 씁니다."
+    },
+    {
+      "en": "I'd like to buy the photos taken at dinner.",
+      "ko": "저녁 식사 때 찍은 사진을 사고 싶어요.",
+      "tip": "기념사진 구매를 요청할 때 사용합니다."
+    },
+    {
+      "en": "Are there any art auctions during the cruise?",
+      "ko": "크루즈 기간 동안 미술품 경매가 있나요?",
+      "tip": "선내 미술품 경매 일정을 물어볼 때 묻습니다."
+    },
+    {
+      "en": "Where is the designated smoking area?",
+      "ko": "지정된 흡연 구역이 어디인가요?",
+      "tip": "흡연 가능한 장소를 찾을 때 씁니다."
+    },
+    {
+      "en": "Is smoking allowed on the balcony?",
+      "ko": "발코니에서 흡연이 허용되나요?",
+      "tip": "객실 발코니 흡연 규정을 확인할 때 사용합니다."
+    },
+    {
+      "en": "What time is the disembarkation briefing?",
+      "ko": "하선 설명회는 몇 시인가요?",
+      "tip": "여행 마지막 날 하선 절차 안내 시간을 물어볼 때 묻습니다."
+    },
+    {
+      "en": "Do I need to leave my luggage outside the door tonight?",
+      "ko": "오늘 밤에 짐을 문 밖에 내놓아야 하나요?",
+      "tip": "하선 전날 수하물 수거 규정을 확인할 때 씁니다."
+    },
+    {
+      "en": "What color are my luggage tags?",
+      "ko": "제 수하물 태그는 무슨 색인가요?",
+      "tip": "하선 그룹을 결정하는 태그 색상을 물어볼 때 사용합니다."
+    },
+    {
+      "en": "What time is my group scheduled to disembark?",
+      "ko": "제 그룹은 몇 시에 하선할 예정인가요?",
+      "tip": "자신의 하선 시간을 확인할 때 묻습니다."
+    },
+    {
+      "en": "Can I do self-assist disembarkation?",
+      "ko": "셀프 하선(직접 짐 들고 내리기)을 할 수 있나요?",
+      "tip": "위탁 없이 짐을 직접 들고 빨리 내리고 싶을 때 씁니다."
+    },
+    {
+      "en": "I will carry my own bags off the ship.",
+      "ko": "제 짐은 제가 직접 들고 배에서 내릴게요.",
+      "tip": "셀프 하선 의사를 명확히 밝힐 때 사용합니다."
+    },
+    {
+      "en": "Where is the meeting point for my shore excursion?",
+      "ko": "제 기항지 관광 모임 장소가 어디인가요?",
+      "tip": "투어 집합 장소를 찾을 때 묻습니다."
+    },
+    {
+      "en": "The excursion was canceled due to bad weather.",
+      "ko": "악천후로 인해 관광이 취소되었어요.",
+      "tip": "투어 취소 상황을 알리거나 확인할 때 씁니다."
+    },
+    {
+      "en": "Can I get a refund for the canceled tour?",
+      "ko": "취소된 투어에 대해 환불받을 수 있나요?",
+      "tip": "취소된 기항지 관광 환불을 요구할 때 사용합니다."
+    },
+    {
+      "en": "Is the tender boat running to the shore?",
+      "ko": "육지로 가는 텐더보트(연락선)가 운행 중인가요?",
+      "tip": "항구에 정박하지 못해 작은 배로 이동할 때 운행 여부를 묻습니다."
+    },
+    {
+      "en": "How often do the tender boats depart?",
+      "ko": "텐더보트는 얼마나 자주 출발하나요?",
+      "tip": "연락선 배차 간격을 확인할 때 씁니다."
+    },
+    {
+      "en": "The sea is very rough today.",
+      "ko": "오늘 파도가 아주 거치네요.",
+      "tip": "해상 날씨가 좋지 않아 배가 흔들릴 때 하는 말입니다."
+    },
+    {
+      "en": "I love the ocean view from my balcony.",
+      "ko": "제 발코니에서 보는 바다 전망이 너무 좋아요.",
+      "tip": "객실 뷰에 대한 만족감을 표현할 때 사용합니다."
+    },
+    {
+      "en": "Let's go up to the observation deck.",
+      "ko": "전망 데크로 올라가 봐요.",
+      "tip": "경치를 보기 위해 위층으로 가자고 제안할 때 씁니다."
+    },
+    {
+      "en": "Where is the aft of the ship?",
+      "ko": "배의 선미(뒤쪽)가 어디인가요?",
+      "tip": "배의 뒤편 방향을 찾을 때 묻습니다."
+    },
+    {
+      "en": "The bow is at the front of the ship.",
+      "ko": "선수(뱃머리)는 배의 앞쪽에 있어요.",
+      "tip": "배의 앞부분 위치를 설명하거나 확인할 때 사용합니다."
+    },
+    {
+      "en": "Is there an adults-only pool area?",
+      "ko": "성인 전용 수영장 구역이 있나요?",
+      "tip": "조용한 성인 전용 풀장을 찾을 때 묻습니다."
+    },
+    {
+      "en": "Can I rent a cabana by the pool?",
+      "ko": "수영장 옆 카바나를 대여할 수 있나요?",
+      "tip": "수영장 방갈로/카바나 대여를 문의할 때 씁니다."
+    },
+    {
+      "en": "What time does the nightclub close?",
+      "ko": "나이트클럽은 몇 시에 닫나요?",
+      "tip": "선내 클럽 영업 종료 시간을 확인할 때 사용합니다."
+    },
+    {
+      "en": "Are there any trivia games today?",
+      "ko": "오늘 퀴즈 게임이 있나요?",
+      "tip": "선내 오락 프로그램 중 퀴즈쇼 유무를 물어볼 때 묻습니다."
+    },
+    {
+      "en": "I'd like to participate in the karaoke night.",
+      "ko": "가라오케(노래방) 나이트에 참가하고 싶어요.",
+      "기": "노래 부르기 행사에 참여 의사를 밝힐 때 씁니다."
+    },
+    {
+      "en": "This has been a wonderful cruise vacation.",
+      "ko": "정말 멋진 크루즈 휴가였어요.",
+      "tip": "여행을 마치며 만족감을 표현할 때 사용합니다."
+    },
+    {
+      "en": "Where is the cruise terminal?",
+      "ko": "크루즈 터미널이 어디인가요?",
+      "tip": "크루즈 탑승장을 찾을 때 묻습니다."
     }
   ]
 }

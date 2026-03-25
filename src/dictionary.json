@@ -1787,8 +1787,8 @@
     "word": "change",
     "phonetic": "[tʃeɪndʒ]",
     "meanings": [
-      "1. 바꾸다",
-      "2. 잔돈"
+      "1. 잔돈",
+      "2. 변화"
     ]
   },
   "won": {
@@ -1809,8 +1809,8 @@
     "word": "charge",
     "phonetic": "[tʃɑːrdʒ]",
     "meanings": [
-      "1. 청구하다",
-      "2. 충전하다"
+      "1. 충전하다",
+      "2. 요금을 청구하다"
     ]
   },
   "commission": {
@@ -3265,8 +3265,7 @@
     "word": "paper",
     "phonetic": "[ˈpeɪpər]",
     "meanings": [
-      "1. 종이",
-      "2. 휴지 (toilet paper)"
+      "1. 종이"
     ]
   },
   "hangers": {
@@ -3935,9 +3934,9 @@
   },
   "decaf": {
     "word": "decaf",
-    "phonetic": "[díːkæf]",
+    "phonetic": "[ˈdiːkæf]",
     "meanings": [
-      "디카페인"
+      "1. 디카페인 커피"
     ]
   },
   "latte": {
@@ -5018,5 +5017,4628 @@
     "meanings": [
       "온라인으로"
     ]
+  },
+  "cappuccino": {
+    "word": "cappuccino",
+    "phonetic": "[ˌkæpʊˈtʃiːnoʊ]",
+    "meanings": [
+      "1. 카푸치노"
+    ]
+  },
+  "soy": {
+    "word": "soy",
+    "phonetic": "[sɔɪ]",
+    "meanings": [
+      "1. 콩",
+      "2. 간장"
+    ]
+  },
+  "carrot": {
+    "word": "carrot",
+    "phonetic": "[ˈkærət]",
+    "meanings": [
+      "1. 당근"
+    ]
+  },
+  "cake": {
+    "word": "cake",
+    "phonetic": "[keɪk]",
+    "meanings": [
+      "1. 케이크"
+    ]
+  },
+  "warmed": {
+    "word": "warmed",
+    "phonetic": "[wɔːrmd]",
+    "meanings": [
+      "1. 데워진"
+    ]
+  },
+  "customers": {
+    "word": "customers",
+    "phonetic": "[ˈkʌstəmərz]",
+    "meanings": [
+      "1. 고객들"
+    ]
+  },
+  "carrier": {
+    "word": "carrier",
+    "phonetic": "[ˈkæriər]",
+    "meanings": [
+      "1. 캐리어",
+      "2. 운반인"
+    ]
+  },
+  "cup": {
+    "word": "cup",
+    "phonetic": "[kʌp]",
+    "meanings": [
+      "1. 컵"
+    ]
+  },
+  "taken": {
+    "word": "taken",
+    "phonetic": "[ˈteɪkən]",
+    "meanings": [
+      "1. 차지된",
+      "2. 사용 중인"
+    ]
+  },
+  "anywhere": {
+    "word": "anywhere",
+    "phonetic": "[ˈeniwer]",
+    "meanings": [
+      "1. 어디든"
+    ]
+  },
+  "vegan": {
+    "word": "vegan",
+    "phonetic": "[ˈviːɡən]",
+    "meanings": [
+      "1. 비건",
+      "2. 완전 채식주의자"
+    ]
+  },
+  "black": {
+    "word": "black",
+    "phonetic": "[blæk]",
+    "meanings": [
+      "1. 검은색",
+      "2. 블랙 커피"
+    ]
+  },
+  "caramel": {
+    "word": "caramel",
+    "phonetic": "[ˈkærəməl]",
+    "meanings": [
+      "1. 카라멜"
+    ]
+  },
+  "macchiato": {
+    "word": "macchiato",
+    "phonetic": "[ˌmɑːkiˈɑːtoʊ]",
+    "meanings": [
+      "1. 마끼아또"
+    ]
+  },
+  "pump": {
+    "word": "pump",
+    "phonetic": "[pʌmp]",
+    "meanings": [
+      "1. 펌프"
+    ]
+  },
+  "vanilla": {
+    "word": "vanilla",
+    "phonetic": "[vəˈnɪlə]",
+    "meanings": [
+      "1. 바닐라"
+    ]
+  },
+  "sweet": {
+    "word": "sweet",
+    "phonetic": "[swiːt]",
+    "meanings": [
+      "1. 달콤한"
+    ]
+  },
+  "tea": {
+    "word": "tea",
+    "phonetic": "[tiː]",
+    "meanings": [
+      "1. 차"
+    ]
+  },
+  "green": {
+    "word": "green",
+    "phonetic": "[ɡriːn]",
+    "meanings": [
+      "1. 초록색",
+      "2. 녹차"
+    ]
+  },
+  "smoothie": {
+    "word": "smoothie",
+    "phonetic": "[ˈsmuːði]",
+    "meanings": [
+      "1. 스무디"
+    ]
+  },
+  "flavors": {
+    "word": "flavors",
+    "phonetic": "[ˈfleɪvərz]",
+    "meanings": [
+      "1. 맛들"
+    ]
+  },
+  "strawberry": {
+    "word": "strawberry",
+    "phonetic": "[ˈstrɔːberi]",
+    "meanings": [
+      "1. 딸기"
+    ]
+  },
+  "bagel": {
+    "word": "bagel",
+    "phonetic": "[ˈbeɪɡl]",
+    "meanings": [
+      "1. 베이글"
+    ]
+  },
+  "cheese": {
+    "word": "cheese",
+    "phonetic": "[tʃiːz]",
+    "meanings": [
+      "1. 치즈"
+    ]
+  },
+  "toast": {
+    "word": "toast",
+    "phonetic": "[toʊst]",
+    "meanings": [
+      "1. 토스트",
+      "2. 굽다"
+    ]
+  },
+  "croissant": {
+    "word": "croissant",
+    "phonetic": "[krwɑːˈsɑ̃ː]",
+    "meanings": [
+      "1. 크루아상"
+    ]
+  },
+  "muffins": {
+    "word": "muffins",
+    "phonetic": "[ˈmʌfɪnz]",
+    "meanings": [
+      "1. 머핀들"
+    ]
+  },
+  "blueberry": {
+    "word": "blueberry",
+    "phonetic": "[ˈbluːberi]",
+    "meanings": [
+      "1. 블루베리"
+    ]
+  },
+  "sandwich": {
+    "word": "sandwich",
+    "phonetic": "[ˈsændwɪtʃ]",
+    "meanings": [
+      "1. 샌드위치"
+    ]
+  },
+  "sandwiches": {
+    "word": "sandwiches",
+    "phonetic": "[ˈsændwɪtʃɪz]",
+    "meanings": [
+      "1. 샌드위치들"
+    ]
+  },
+  "turkey": {
+    "word": "turkey",
+    "phonetic": "[ˈtɜːrki]",
+    "meanings": [
+      "1. 칠면조"
+    ]
+  },
+  "salad": {
+    "word": "salad",
+    "phonetic": "[ˈsæləd]",
+    "meanings": [
+      "1. 샐러드"
+    ]
+  },
+  "comes": {
+    "word": "comes",
+    "phonetic": "[kʌmz]",
+    "meanings": [
+      "1. 오다",
+      "2. 나오다"
+    ]
+  },
+  "sugar": {
+    "word": "sugar",
+    "phonetic": "[ˈʃʊɡər]",
+    "meanings": [
+      "1. 설탕"
+    ]
+  },
+  "artificial": {
+    "word": "artificial",
+    "phonetic": "[ˌɑːrtɪˈfɪʃl]",
+    "meanings": [
+      "1. 인공의"
+    ]
+  },
+  "sweeteners": {
+    "word": "sweeteners",
+    "phonetic": "[ˈswiːtnərz]",
+    "meanings": [
+      "1. 감미료들"
+    ]
+  },
+  "trash": {
+    "word": "trash",
+    "phonetic": "[træʃ]",
+    "meanings": [
+      "1. 쓰레기"
+    ]
+  },
+  "wipe": {
+    "word": "wipe",
+    "phonetic": "[waɪp]",
+    "meanings": [
+      "1. 닦다"
+    ]
+  },
+  "outlet": {
+    "word": "outlet",
+    "phonetic": "[ˈaʊtlet]",
+    "meanings": [
+      "1. 콘센트"
+    ]
+  },
+  "charger": {
+    "word": "charger",
+    "phonetic": "[ˈtʃɑːrdʒər]",
+    "meanings": [
+      "1. 충전기"
+    ]
+  },
+  "okay": {
+    "word": "okay",
+    "phonetic": "[oʊˈkeɪ]",
+    "meanings": [
+      "1. 괜찮은"
+    ]
+  },
+  "student": {
+    "word": "student",
+    "phonetic": "[ˈstuːdnt]",
+    "meanings": [
+      "1. 학생"
+    ]
+  },
+  "everything": {
+    "word": "everything",
+    "phonetic": "[ˈevriθɪŋ]",
+    "meanings": [
+      "1. 모든 것"
+    ]
+  },
+  "tip": {
+    "word": "tip",
+    "phonetic": "[tɪp]",
+    "meanings": [
+      "1. 팁",
+      "2. 끝"
+    ]
+  },
+  "hotter": {
+    "word": "hotter",
+    "phonetic": "[ˈhɑːtər]",
+    "meanings": [
+      "1. 더 뜨거운"
+    ]
+  },
+  "remake": {
+    "word": "remake",
+    "phonetic": "[ˌriːˈmeɪk]",
+    "meanings": [
+      "1. 다시 만들다"
+    ]
+  },
+  "dropped": {
+    "word": "dropped",
+    "phonetic": "[drɑːpt]",
+    "meanings": [
+      "1. 떨어뜨린"
+    ]
+  },
+  "drink": {
+    "word": "drink",
+    "phonetic": "[drɪŋk]",
+    "meanings": [
+      "1. 음료",
+      "2. 마시다"
+    ]
+  },
+  "mop": {
+    "word": "mop",
+    "phonetic": "[mɑːp]",
+    "meanings": [
+      "1. 대걸레"
+    ]
+  },
+  "mess": {
+    "word": "mess",
+    "phonetic": "[mes]",
+    "meanings": [
+      "1. 엉망진창"
+    ]
+  },
+  "problem": {
+    "word": "problem",
+    "phonetic": "[ˈprɑːbləm]",
+    "meanings": [
+      "1. 문제"
+    ]
+  },
+  "really": {
+    "word": "really",
+    "phonetic": "[ˈriːəli]",
+    "meanings": [
+      "1. 정말로"
+    ]
+  },
+  "atmosphere": {
+    "word": "atmosphere",
+    "phonetic": "[ˈætməsfɪr]",
+    "meanings": [
+      "1. 분위기"
+    ]
+  },
+  "favorite": {
+    "word": "favorite",
+    "phonetic": "[ˈfeɪvərɪt]",
+    "meanings": [
+      "1. 가장 좋아하는"
+    ]
+  },
+  "robbed": {
+    "en": "robbed",
+    "ko": "강도를 당한",
+    "type": "adjective"
+  },
+  "stole": {
+    "en": "stole",
+    "ko": "훔쳤다 (steal의 과거형)",
+    "type": "verb"
+  },
+  "missing": {
+    "en": "missing",
+    "ko": "없어진, 실종된",
+    "type": "adjective"
+  },
+  "emergency": {
+    "en": "emergency",
+    "ko": "비상 사태, 응급 상황",
+    "type": "noun"
+  },
+  "bleeding": {
+    "en": "bleeding",
+    "ko": "출혈",
+    "type": "noun"
+  },
+  "heavily": {
+    "en": "heavily",
+    "ko": "심하게, 몹시",
+    "type": "adverb"
+  },
+  "unconscious": {
+    "en": "unconscious",
+    "ko": "의식을 잃은",
+    "type": "adjective"
+  },
+  "breathing": {
+    "en": "breathing",
+    "ko": "호흡",
+    "type": "noun"
+  },
+  "severe": {
+    "en": "severe",
+    "ko": "심각한, 극심한",
+    "type": "adjective"
+  },
+  "allergy": {
+    "en": "allergy",
+    "ko": "알레르기",
+    "type": "noun"
+  },
+  "medication": {
+    "en": "medication",
+    "ko": "약물, 약",
+    "type": "noun"
+  },
+  "broke": {
+    "en": "broke",
+    "ko": "부러뜨렸다 (break의 과거형)",
+    "type": "verb"
+  },
+  "dizzy": {
+    "en": "dizzy",
+    "ko": "어지러운",
+    "type": "adjective"
+  },
+  "nauseous": {
+    "en": "nauseous",
+    "ko": "메스꺼운",
+    "type": "adjective"
+  },
+  "chest": {
+    "en": "chest",
+    "ko": "가슴",
+    "type": "noun"
+  },
+  "accident": {
+    "en": "accident",
+    "ko": "사고",
+    "type": "noun"
+  },
+  "building": {
+    "en": "building",
+    "ko": "건물",
+    "type": "noun"
+  },
+  "exit": {
+    "en": "exit",
+    "ko": "출구",
+    "type": "noun"
+  },
+  "evacuate": {
+    "en": "evacuate",
+    "ko": "대피하다",
+    "type": "verb"
+  },
+  "immediately": {
+    "en": "immediately",
+    "ko": "즉시",
+    "type": "adverb"
+  },
+  "smell": {
+    "en": "smell",
+    "ko": "냄새를 맡다",
+    "type": "verb"
+  },
+  "stuck": {
+    "en": "stuck",
+    "ko": "갇힌, 꼼짝 못하는",
+    "type": "adjective"
+  },
+  "look": {
+    "en": "look",
+    "ko": "보이다, 생기다",
+    "type": "verb"
+  },
+  "wearing": {
+    "en": "wearing",
+    "ko": "입고 있는",
+    "type": "adjective"
+  },
+  "shirt": {
+    "en": "shirt",
+    "ko": "셔츠",
+    "type": "noun"
+  },
+  "mugged": {
+    "en": "mugged",
+    "ko": "노상강도를 당한",
+    "type": "adjective"
+  },
+  "following": {
+    "en": "following",
+    "ko": "따라오는",
+    "type": "adjective"
+  },
+  "thief": {
+    "en": "thief",
+    "ko": "도둑",
+    "type": "noun"
+  },
+  "lawyer": {
+    "en": "lawyer",
+    "ko": "변호사",
+    "type": "noun"
+  },
+  "crime": {
+    "en": "crime",
+    "ko": "범죄",
+    "type": "noun"
+  },
+  "whole": {
+    "en": "whole",
+    "ko": "전체의, 모든",
+    "type": "adjective"
+  },
+  "thing": {
+    "en": "thing",
+    "ko": "것, 일",
+    "type": "noun"
+  },
+  "describe": {
+    "en": "describe",
+    "ko": "묘사하다, 설명하다",
+    "type": "verb"
+  },
+  "suspect": {
+    "en": "suspect",
+    "ko": "용의자",
+    "type": "noun"
+  },
+  "ran": {
+    "en": "ran",
+    "ko": "달렸다 (run의 과거형)",
+    "type": "verb"
+  },
+  "calm": {
+    "en": "calm",
+    "ko": "침착한",
+    "type": "adjective"
+  },
+  "move": {
+    "en": "move",
+    "ko": "움직이다",
+    "type": "verb"
+  },
+  "heart": {
+    "en": "heart",
+    "ko": "심장",
+    "type": "noun"
+  },
+  "attack": {
+    "en": "attack",
+    "ko": "발작, 공격",
+    "type": "noun"
+  },
+  "automated": {
+    "en": "automated",
+    "ko": "자동화된",
+    "type": "adjective"
+  },
+  "external": {
+    "en": "external",
+    "ko": "외부의",
+    "type": "adjective"
+  },
+  "defibrillator": {
+    "en": "defibrillator",
+    "ko": "제세동기",
+    "type": "noun"
+  },
+  "burned": {
+    "en": "burned",
+    "ko": "데인, 화상을 입은",
+    "type": "adjective"
+  },
+  "hand": {
+    "en": "hand",
+    "ko": "손",
+    "type": "noun"
+  },
+  "bitten": {
+    "en": "bitten",
+    "ko": "물린",
+    "type": "adjective"
+  },
+  "dog": {
+    "en": "dog",
+    "ko": "개",
+    "type": "noun"
+  },
+  "poisonous": {
+    "en": "poisonous",
+    "ko": "독성이 있는",
+    "type": "adjective"
+  },
+  "labor": {
+    "en": "labor",
+    "ko": "진통, 분만",
+    "type": "noun"
+  },
+  "cancelled": {
+    "en": "cancelled",
+    "ko": "취소된",
+    "type": "adjective"
+  },
+  "interpreter": {
+    "en": "interpreter",
+    "ko": "통역사",
+    "type": "noun"
+  },
+  "saying": {
+    "en": "saying",
+    "ko": "말하는 것",
+    "type": "noun"
+  },
+  "write": {
+    "en": "write",
+    "ko": "쓰다, 적다",
+    "type": "verb"
+  },
+  "painkiller": {
+    "en": "painkiller",
+    "ko": "진통제",
+    "type": "noun"
+  },
+  "high": {
+    "en": "high",
+    "ko": "높은",
+    "type": "adjective"
+  },
+  "poisoning": {
+    "en": "poisoning",
+    "ko": "중독",
+    "type": "noun"
+  },
+  "travel": {
+    "en": "travel",
+    "ko": "여행",
+    "type": "noun"
+  },
+  "trapped": {
+    "en": "trapped",
+    "ko": "갇힌",
+    "type": "adjective"
+  },
+  "bathroom": {
+    "en": "bathroom",
+    "ko": "화장실",
+    "type": "noun"
+  },
+  "overflowing": {
+    "en": "overflowing",
+    "ko": "넘치는",
+    "type": "adjective"
+  },
+  "power": {
+    "en": "power",
+    "ko": "전력, 전기",
+    "type": "noun"
+  },
+  "lenses": {
+    "en": "lenses",
+    "ko": "렌즈들",
+    "type": "noun"
+  },
+  "person": {
+    "en": "person",
+    "ko": "사람",
+    "type": "noun"
+  },
+  "choking": {
+    "en": "choking",
+    "ko": "질식하는, 숨이 막히는",
+    "type": "adjective"
+  },
+  "snake": {
+    "en": "snake",
+    "ko": "뱀",
+    "type": "noun"
+  },
+  "leak": {
+    "en": "leak",
+    "ko": "새는 곳, 누수",
+    "type": "noun"
+  },
+  "ceiling": {
+    "en": "ceiling",
+    "ko": "천장",
+    "type": "noun"
+  },
+  "battery": {
+    "en": "battery",
+    "ko": "배터리",
+    "type": "noun"
+  },
+  "dead": {
+    "en": "dead",
+    "ko": "방전된, 죽은",
+    "type": "adjective"
+  },
+  "jump": {
+    "en": "jump",
+    "ko": "뛰어오르다, 점프",
+    "type": "noun"
+  },
+  "reaction": {
+    "en": "reaction",
+    "ko": "반응",
+    "type": "noun"
+  },
+  "dentist": {
+    "en": "dentist",
+    "ko": "치과 의사",
+    "type": "noun"
+  },
+  "urgently": {
+    "en": "urgently",
+    "ko": "긴급히",
+    "type": "adverb"
+  },
+  "tooth": {
+    "en": "tooth",
+    "ko": "치아, 이빨",
+    "type": "noun"
+  },
+  "hit-and-run": {
+    "en": "hit-and-run",
+    "ko": "뺑소니",
+    "type": "noun"
+  },
+  "block": {
+    "en": "block",
+    "ko": "정지시키다, 막다",
+    "type": "verb"
+  },
+  "bank": {
+    "en": "bank",
+    "ko": "은행",
+    "type": "noun"
+  },
+  "account": {
+    "en": "account",
+    "ko": "계좌",
+    "type": "noun"
+  },
+  "gunshots": {
+    "en": "gunshots",
+    "ko": "총소리",
+    "type": "noun"
+  },
+  "suspicious": {
+    "en": "suspicious",
+    "ko": "수상한, 의심스러운",
+    "type": "adjective"
+  },
+  "package": {
+    "en": "package",
+    "ko": "소포, 꾸러미",
+    "type": "noun"
+  },
+  "appointment": {
+    "en": "appointment",
+    "ko": "예약",
+    "type": "noun"
+  },
+  "consultation": {
+    "en": "consultation",
+    "ko": "상담, 진찰",
+    "type": "noun"
+  },
+  "waiting": {
+    "en": "waiting",
+    "ko": "기다림, 대기",
+    "type": "noun"
+  },
+  "terrible": {
+    "en": "terrible",
+    "ko": "끔찍한, 심한",
+    "type": "adjective"
+  },
+  "headache": {
+    "en": "headache",
+    "ko": "두통",
+    "type": "noun"
+  },
+  "stomachache": {
+    "en": "stomachache",
+    "ko": "복통",
+    "type": "noun"
+  },
+  "sore": {
+    "en": "sore",
+    "ko": "아픈, 따가운",
+    "type": "adjective"
+  },
+  "throat": {
+    "en": "throat",
+    "ko": "목구멍",
+    "type": "noun"
+  },
+  "cough": {
+    "en": "cough",
+    "ko": "기침",
+    "type": "noun"
+  },
+  "chills": {
+    "en": "chills",
+    "ko": "오한",
+    "type": "noun"
+  },
+  "runny": {
+    "en": "runny",
+    "ko": "흐르는",
+    "type": "adjective"
+  },
+  "stuffed": {
+    "en": "stuffed",
+    "ko": "막힌",
+    "type": "adjective"
+  },
+  "vomiting": {
+    "en": "vomiting",
+    "ko": "구토",
+    "type": "noun"
+  },
+  "diarrhea": {
+    "en": "diarrhea",
+    "ko": "설사",
+    "type": "noun"
+  },
+  "sharp": {
+    "en": "sharp",
+    "ko": "날카로운, 찌르는 듯한",
+    "type": "adjective"
+  },
+  "pain": {
+    "en": "pain",
+    "ko": "통증",
+    "type": "noun"
+  },
+  "lower": {
+    "en": "lower",
+    "ko": "아래의",
+    "type": "adjective"
+  },
+  "back": {
+    "en": "back",
+    "ko": "등, 허리",
+    "type": "noun"
+  },
+  "killing": {
+    "en": "killing",
+    "ko": "죽일 듯이 아픈",
+    "type": "adjective"
+  },
+  "sprained": {
+    "en": "sprained",
+    "ko": "삔",
+    "type": "adjective"
+  },
+  "arm": {
+    "en": "arm",
+    "ko": "팔",
+    "type": "noun"
+  },
+  "rash": {
+    "en": "rash",
+    "ko": "발진",
+    "type": "noun"
+  },
+  "skin": {
+    "en": "skin",
+    "ko": "피부",
+    "type": "noun"
+  },
+  "itchy": {
+    "en": "itchy",
+    "ko": "가려운",
+    "type": "adjective"
+  },
+  "swollen": {
+    "en": "swollen",
+    "ko": "부어오른",
+    "type": "adjective"
+  },
+  "toothache": {
+    "en": "toothache",
+    "ko": "치통",
+    "type": "noun"
+  },
+  "earache": {
+    "en": "earache",
+    "ko": "귀통증",
+    "type": "noun"
+  },
+  "sneezing": {
+    "en": "sneezing",
+    "ko": "재채기",
+    "type": "noun"
+  },
+  "weak": {
+    "en": "weak",
+    "ko": "약한, 기운 없는",
+    "type": "adjective"
+  },
+  "tired": {
+    "en": "tired",
+    "ko": "피곤한",
+    "type": "adjective"
+  },
+  "appetite": {
+    "en": "appetite",
+    "ko": "식욕",
+    "type": "noun"
+  },
+  "sleep": {
+    "en": "sleep",
+    "ko": "잠, 수면",
+    "type": "noun"
+  },
+  "press": {
+    "en": "press",
+    "ko": "누르다",
+    "type": "verb"
+  },
+  "worse": {
+    "en": "worse",
+    "ko": "더 나쁜, 악화된",
+    "type": "adjective"
+  },
+  "dull": {
+    "en": "dull",
+    "ko": "둔한",
+    "type": "adjective"
+  },
+  "throbbing": {
+    "en": "throbbing",
+    "ko": "욱신거리는",
+    "type": "adjective"
+  },
+  "ache": {
+    "en": "ache",
+    "ko": "아픔, 통증",
+    "type": "noun"
+  },
+  "symptoms": {
+    "en": "symptoms",
+    "ko": "증상들",
+    "type": "noun"
+  },
+  "allergies": {
+    "en": "allergies",
+    "ko": "알레르기들",
+    "type": "noun"
+  },
+  "currently": {
+    "en": "currently",
+    "ko": "현재",
+    "type": "adverb"
+  },
+  "daily": {
+    "en": "daily",
+    "ko": "매일",
+    "type": "adverb"
+  },
+  "pregnant": {
+    "en": "pregnant",
+    "ko": "임신한",
+    "type": "adjective"
+  },
+  "breastfeeding": {
+    "en": "breastfeeding",
+    "ko": "모유 수유 중인",
+    "type": "adjective"
+  },
+  "history": {
+    "en": "history",
+    "ko": "병력, 역사",
+    "type": "noun"
+  },
+  "asthma": {
+    "en": "asthma",
+    "ko": "천식",
+    "type": "noun"
+  },
+  "diabetes": {
+    "en": "diabetes",
+    "ko": "당뇨병",
+    "type": "noun"
+  },
+  "blood": {
+    "en": "blood",
+    "ko": "피, 혈액",
+    "type": "noun"
+  },
+  "pressure": {
+    "en": "pressure",
+    "ko": "압력, 혈압",
+    "type": "noun"
+  },
+  "mouth": {
+    "en": "mouth",
+    "ko": "입",
+    "type": "noun"
+  },
+  "breath": {
+    "en": "breath",
+    "ko": "숨, 호흡",
+    "type": "noun"
+  },
+  "hold": {
+    "en": "hold",
+    "ko": "참다, 잡다",
+    "type": "verb"
+  },
+  "tests": {
+    "en": "tests",
+    "ko": "검사들",
+    "type": "noun"
+  },
+  "urine": {
+    "en": "urine",
+    "ko": "소변",
+    "type": "noun"
+  },
+  "viral": {
+    "en": "viral",
+    "ko": "바이러스성의",
+    "type": "adjective"
+  },
+  "infection": {
+    "en": "infection",
+    "ko": "감염",
+    "type": "noun"
+  },
+  "common": {
+    "en": "common",
+    "ko": "흔한, 일반적인",
+    "type": "adjective"
+  },
+  "rest": {
+    "en": "rest",
+    "ko": "휴식",
+    "type": "noun"
+  },
+  "plenty": {
+    "en": "plenty",
+    "ko": "충분한, 많은",
+    "type": "adjective"
+  },
+  "fluids": {
+    "en": "fluids",
+    "ko": "수분, 액체",
+    "type": "noun"
+  },
+  "avoid": {
+    "en": "avoid",
+    "ko": "피하다",
+    "type": "verb"
+  },
+  "prescribe": {
+    "en": "prescribe",
+    "ko": "처방하다",
+    "type": "verb"
+  },
+  "antibiotics": {
+    "en": "antibiotics",
+    "ko": "항생제",
+    "type": "noun"
+  },
+  "better": {
+    "en": "better",
+    "ko": "더 나은",
+    "type": "adjective"
+  },
+  "records": {
+    "en": "records",
+    "ko": "기록들",
+    "type": "noun"
+  },
+  "prepare": {
+    "en": "prepare",
+    "ko": "준비하다, 조제하다",
+    "type": "verb"
+  },
+  "ready": {
+    "en": "ready",
+    "ko": "준비된",
+    "type": "adjective"
+  },
+  "over-the-counter": {
+    "en": "over-the-counter",
+    "ko": "처방전 없이 살 수 있는",
+    "type": "adjective"
+  },
+  "band-aids": {
+    "en": "band-aids",
+    "ko": "반창고",
+    "type": "noun"
+  },
+  "antiseptic": {
+    "en": "antiseptic",
+    "ko": "소독제",
+    "type": "noun"
+  },
+  "digestive": {
+    "en": "digestive",
+    "ko": "소화의",
+    "type": "adjective"
+  },
+  "drops": {
+    "en": "drops",
+    "ko": "점안액, 방울",
+    "type": "noun"
+  },
+  "dry": {
+    "en": "dry",
+    "ko": "건조한",
+    "type": "adjective"
+  },
+  "ointment": {
+    "en": "ointment",
+    "ko": "연고",
+    "type": "noun"
+  },
+  "burns": {
+    "en": "burns",
+    "ko": "화상",
+    "type": "noun"
+  },
+  "thermometer": {
+    "en": "thermometer",
+    "ko": "체온계",
+    "type": "noun"
+  },
+  "pill": {
+    "en": "pill",
+    "ko": "알약",
+    "type": "noun"
+  },
+  "meals": {
+    "en": "meals",
+    "ko": "식사",
+    "type": "noun"
+  },
+  "effects": {
+    "en": "effects",
+    "ko": "효과, 영향",
+    "type": "noun"
+  },
+  "drowsy": {
+    "en": "drowsy",
+    "ko": "졸린",
+    "type": "adjective"
+  },
+  "alcohol": {
+    "en": "alcohol",
+    "ko": "알코올, 술",
+    "type": "noun"
+  },
+  "children": {
+    "en": "children",
+    "ko": "아이들",
+    "type": "noun"
+  },
+  "dosage": {
+    "en": "dosage",
+    "ko": "복용량",
+    "type": "noun"
+  },
+  "lens": {
+    "en": "lens",
+    "ko": "렌즈",
+    "type": "noun"
+  },
+  "solution": {
+    "en": "solution",
+    "ko": "용액, 해결책",
+    "type": "noun"
+  },
+  "vitamin": {
+    "en": "vitamin",
+    "ko": "비타민",
+    "type": "noun"
+  },
+  "supplements": {
+    "en": "supplements",
+    "ko": "보충제, 영양제",
+    "type": "noun"
+  },
+  "insect": {
+    "en": "insect",
+    "ko": "곤충, 벌레",
+    "type": "noun"
+  },
+  "repellent": {
+    "en": "repellent",
+    "ko": "기피제, 퇴치제",
+    "type": "noun"
+  },
+  "file": {
+    "en": "file",
+    "ko": "제출하다, (조서를) 작성하다",
+    "type": "verb"
+  },
+  "pickpocketed": {
+    "en": "pickpocketed",
+    "ko": "소매치기 당한",
+    "type": "adjective"
+  },
+  "rental": {
+    "en": "rental",
+    "ko": "임대의, 렌털",
+    "type": "adjective"
+  },
+  "company": {
+    "en": "company",
+    "ko": "회사",
+    "type": "noun"
+  },
+  "copy": {
+    "en": "copy",
+    "ko": "사본, 복사본",
+    "type": "noun"
+  },
+  "realize": {
+    "en": "realize",
+    "ko": "깨닫다, 알아차리다",
+    "type": "verb"
+  },
+  "noticed": {
+    "en": "noticed",
+    "ko": "알아차렸다 (notice의 과거형)",
+    "type": "verb"
+  },
+  "suitcase": {
+    "en": "suitcase",
+    "ko": "여행 가방",
+    "type": "noun"
+  },
+  "distinguishing": {
+    "en": "distinguishing",
+    "ko": "특징적인, 구별되는",
+    "type": "adjective"
+  },
+  "marks": {
+    "en": "marks",
+    "ko": "표시, 자국",
+    "type": "noun"
+  },
+  "ribbon": {
+    "en": "ribbon",
+    "ko": "리본",
+    "type": "noun"
+  },
+  "tied": {
+    "en": "tied",
+    "ko": "묶인",
+    "type": "adjective"
+  },
+  "handle": {
+    "en": "handle",
+    "ko": "손잡이",
+    "type": "noun"
+  },
+  "hoodie": {
+    "en": "hoodie",
+    "ko": "후드티",
+    "type": "noun"
+  },
+  "face": {
+    "en": "face",
+    "ko": "얼굴",
+    "type": "noun"
+  },
+  "owner": {
+    "en": "owner",
+    "ko": "주인, 소유자",
+    "type": "noun"
+  },
+  "cameras": {
+    "en": "cameras",
+    "ko": "카메라들",
+    "type": "noun"
+  },
+  "property": {
+    "en": "property",
+    "ko": "재산, 소유물",
+    "type": "noun"
+  },
+  "identification": {
+    "en": "identification",
+    "ko": "신분증",
+    "type": "noun"
+  },
+  "investigation": {
+    "en": "investigation",
+    "ko": "조사, 수사",
+    "type": "noun"
+  },
+  "chance": {
+    "en": "chance",
+    "ko": "가능성, 기회",
+    "type": "noun"
+  },
+  "translator": {
+    "en": "translator",
+    "ko": "통역사",
+    "type": "noun"
+  },
+  "approached": {
+    "en": "approached",
+    "ko": "접근했다 (approach의 과거형)",
+    "type": "verb"
+  },
+  "behind": {
+    "en": "behind",
+    "ko": "뒤에서",
+    "type": "adverb"
+  },
+  "bumped": {
+    "en": "bumped",
+    "ko": "부딪혔다 (bump의 과거형)",
+    "type": "verb"
+  },
+  "intentionally": {
+    "en": "intentionally",
+    "ko": "고의로, 의도적으로",
+    "type": "adverb"
+  },
+  "pocket": {
+    "en": "pocket",
+    "ko": "주머니",
+    "type": "noun"
+  },
+  "shouted": {
+    "en": "shouted",
+    "ko": "소리쳤다 (shout의 과거형)",
+    "type": "verb"
+  },
+  "backpack": {
+    "en": "backpack",
+    "ko": "배낭",
+    "type": "noun"
+  },
+  "silver": {
+    "en": "silver",
+    "ko": "은색의",
+    "type": "adjective"
+  },
+  "serial": {
+    "en": "serial",
+    "ko": "일련의",
+    "type": "adjective"
+  },
+  "written": {
+    "en": "written",
+    "ko": "적힌, 쓰인",
+    "type": "adjective"
+  },
+  "attached": {
+    "en": "attached",
+    "ko": "부착된",
+    "type": "adjective"
+  },
+  "designer": {
+    "en": "designer",
+    "ko": "명품의, 디자이너의",
+    "type": "adjective"
+  },
+  "sunglasses": {
+    "en": "sunglasses",
+    "ko": "선글라스",
+    "type": "noun"
+  },
+  "case": {
+    "en": "case",
+    "ko": "케이스, 상자",
+    "type": "noun"
+  },
+  "purse": {
+    "en": "purse",
+    "ko": "지갑, 핸드백",
+    "type": "noun"
+  },
+  "staff": {
+    "en": "staff",
+    "ko": "직원",
+    "type": "noun"
+  },
+  "tracked": {
+    "en": "tracked",
+    "ko": "추적했다 (track의 과거형)",
+    "type": "verb"
+  },
+  "location": {
+    "en": "location",
+    "ko": "위치",
+    "type": "noun"
+  },
+  "neighborhood": {
+    "en": "neighborhood",
+    "ko": "동네, 이웃",
+    "type": "noun"
+  },
+  "officer": {
+    "en": "officer",
+    "ko": "경찰관, 장교",
+    "type": "noun"
+  },
+  "leaving": {
+    "en": "leaving",
+    "ko": "떠나는",
+    "type": "adjective"
+  },
+  "country": {
+    "en": "country",
+    "ko": "나라, 국가",
+    "type": "noun"
+  },
+  "email": {
+    "en": "email",
+    "ko": "이메일을 보내다",
+    "type": "verb"
+  },
+  "department": {
+    "en": "department",
+    "ko": "부서",
+    "type": "noun"
+  },
+  "jacket": {
+    "en": "jacket",
+    "ko": "재킷",
+    "type": "noun"
+  },
+  "wedding": {
+    "en": "wedding",
+    "ko": "결혼",
+    "type": "noun"
+  },
+  "ring": {
+    "en": "ring",
+    "ko": "반지",
+    "type": "noun"
+  },
+  "beach": {
+    "en": "beach",
+    "ko": "해변",
+    "type": "noun"
+  },
+  "initials": {
+    "en": "initials",
+    "ko": "이니셜, 머리글자",
+    "type": "noun"
+  },
+  "engraved": {
+    "en": "engraved",
+    "ko": "새겨진",
+    "type": "adjective"
+  },
+  "inside": {
+    "en": "inside",
+    "ko": "안쪽에",
+    "type": "adverb"
+  },
+  "keychain": {
+    "en": "keychain",
+    "ko": "열쇠고리",
+    "type": "noun"
+  },
+  "scam": {
+    "en": "scam",
+    "ko": "사기",
+    "type": "noun"
+  },
+  "bought": {
+    "en": "bought",
+    "ko": "샀다 (buy의 과거형)",
+    "type": "verb"
+  },
+  "fake": {
+    "en": "fake",
+    "ko": "가짜의",
+    "type": "adjective"
+  },
+  "tickets": {
+    "en": "tickets",
+    "ko": "티켓들",
+    "type": "noun"
+  },
+  "vendor": {
+    "en": "vendor",
+    "ko": "노점상, 판매자",
+    "type": "noun"
+  },
+  "paid": {
+    "en": "paid",
+    "ko": "지불했다 (pay의 과거형)",
+    "type": "verb"
+  },
+  "returned": {
+    "en": "returned",
+    "ko": "돌아왔다 (return의 과거형)",
+    "type": "verb"
+  },
+  "overcharged": {
+    "en": "overcharged",
+    "ko": "바가지를 쓴, 과다 청구된",
+    "type": "adjective"
+  },
+  "driver": {
+    "en": "driver",
+    "ko": "운전기사",
+    "type": "noun"
+  },
+  "refused": {
+    "en": "refused",
+    "ko": "거부했다 (refuse의 과거형)",
+    "type": "verb"
+  },
+  "picture": {
+    "en": "picture",
+    "ko": "사진, 그림",
+    "type": "noun"
+  },
+  "photo": {
+    "en": "photo",
+    "ko": "사진",
+    "type": "noun"
+  },
+  "charges": {
+    "en": "charges",
+    "ko": "고발, 기소",
+    "type": "noun"
+  },
+  "things": {
+    "en": "things",
+    "ko": "물건들",
+    "type": "noun"
+  },
+  "unsafe": {
+    "en": "unsafe",
+    "ko": "불안전한, 위험한",
+    "type": "adjective"
+  },
+  "escort": {
+    "en": "escort",
+    "ko": "에스코트하다, 호위하다",
+    "type": "verb"
+  },
+  "companion": {
+    "en": "companion",
+    "ko": "동행자, 동반자",
+    "type": "noun"
+  },
+  "attacked": {
+    "en": "attacked",
+    "ko": "공격받은",
+    "type": "adjective"
+  },
+  "group": {
+    "en": "group",
+    "ko": "무리, 그룹",
+    "type": "noun"
+  },
+  "teenagers": {
+    "en": "teenagers",
+    "ko": "10대들",
+    "type": "noun"
+  },
+  "threatened": {
+    "en": "threatened",
+    "ko": "위협했다 (threaten의 과거형)",
+    "type": "verb"
+  },
+  "knife": {
+    "en": "knife",
+    "ko": "칼",
+    "type": "noun"
+  },
+  "demanded": {
+    "en": "demanded",
+    "ko": "요구했다 (demand의 과거형)",
+    "type": "verb"
+  },
+  "phones": {
+    "en": "phones",
+    "ko": "휴대폰들",
+    "type": "noun"
+  },
+  "handed": {
+    "en": "handed",
+    "ko": "건네주었다 (hand의 과거형)",
+    "type": "verb"
+  },
+  "physically": {
+    "en": "physically",
+    "ko": "신체적으로",
+    "type": "adverb"
+  },
+  "unharmed": {
+    "en": "unharmed",
+    "ko": "다치지 않은",
+    "type": "adjective"
+  },
+  "shocked": {
+    "en": "shocked",
+    "ko": "충격받은",
+    "type": "adjective"
+  },
+  "attention": {
+    "en": "attention",
+    "ko": "주의, 치료",
+    "type": "noun"
+  },
+  "sign": {
+    "en": "sign",
+    "ko": "서명하다",
+    "type": "verb"
+  },
+  "bottom": {
+    "en": "bottom",
+    "ko": "바닥, 하단",
+    "type": "noun"
+  },
+  "page": {
+    "en": "page",
+    "ko": "페이지",
+    "type": "noun"
+  },
+  "statement": {
+    "en": "statement",
+    "ko": "진술서, 성명",
+    "type": "noun"
+  },
+  "carefully": {
+    "en": "carefully",
+    "ko": "주의 깊게",
+    "type": "adverb"
+  },
+  "signing": {
+    "en": "signing",
+    "ko": "서명하는 것",
+    "type": "noun"
+  },
+  "correct": {
+    "en": "correct",
+    "ko": "맞는, 정확한",
+    "type": "adjective"
+  },
+  "add": {
+    "en": "add",
+    "ko": "추가하다",
+    "type": "verb"
+  },
+  "detail": {
+    "en": "detail",
+    "ko": "세부 사항",
+    "type": "noun"
+  },
+  "scar": {
+    "en": "scar",
+    "ko": "흉터",
+    "type": "noun"
+  },
+  "cheek": {
+    "en": "cheek",
+    "ko": "뺨",
+    "type": "noun"
+  },
+  "baseball": {
+    "en": "baseball",
+    "ko": "야구",
+    "type": "noun"
+  },
+  "cap": {
+    "en": "cap",
+    "ko": "모자",
+    "type": "noun"
+  },
+  "dark": {
+    "en": "dark",
+    "ko": "어두운, 짙은",
+    "type": "adjective"
+  },
+  "blue": {
+    "en": "blue",
+    "ko": "파란색",
+    "type": "noun"
+  },
+  "sedan": {
+    "en": "sedan",
+    "ko": "세단 (승용차)",
+    "type": "noun"
+  },
+  "assistance": {
+    "en": "assistance",
+    "ko": "도움, 지원",
+    "type": "noun"
+  },
+  "appreciate": {
+    "en": "appreciate",
+    "ko": "감사하다",
+    "type": "verb"
+  },
+  "quick": {
+    "en": "quick",
+    "ko": "빠른",
+    "type": "adjective"
+  },
+  "response": {
+    "en": "response",
+    "ko": "반응, 대처",
+    "type": "noun"
+  },
+  "hope": {
+    "en": "hope",
+    "ko": "바라다, 희망하다",
+    "type": "verb"
+  },
+  "culprit": {
+    "en": "culprit",
+    "ko": "범인",
+    "type": "noun"
+  },
+  "headed": {
+    "en": "headed",
+    "ko": "향하는",
+    "type": "adjective"
+  },
+  "blocks": {
+    "en": "blocks",
+    "ko": "블록들",
+    "type": "noun"
+  },
+  "intersection": {
+    "en": "intersection",
+    "ko": "교차로",
+    "type": "noun"
+  },
+  "traffic": {
+    "en": "traffic",
+    "ko": "교통",
+    "type": "noun"
+  },
+  "across": {
+    "en": "across",
+    "ko": "건너편에, 가로질러",
+    "type": "preposition"
+  },
+  "post": {
+    "en": "post",
+    "ko": "우편",
+    "type": "noun"
+  },
+  "tall": {
+    "en": "tall",
+    "ko": "키가 큰, 높은",
+    "type": "adjective"
+  },
+  "between": {
+    "en": "between",
+    "ko": "사이에",
+    "type": "preposition"
+  },
+  "miss": {
+    "en": "miss",
+    "ko": "놓치다",
+    "type": "verb"
+  },
+  "within": {
+    "en": "within",
+    "ko": "이내에",
+    "type": "preposition"
+  },
+  "walking": {
+    "en": "walking",
+    "ko": "걷는, 도보",
+    "type": "noun"
+  },
+  "distance": {
+    "en": "distance",
+    "ko": "거리",
+    "type": "noun"
+  },
+  "takes": {
+    "en": "takes",
+    "ko": "걸리다 (시간이)",
+    "type": "verb"
+  },
+  "ten": {
+    "en": "ten",
+    "ko": "10",
+    "type": "number"
+  },
+  "foot": {
+    "en": "foot",
+    "ko": "발, 도보",
+    "type": "noun"
+  },
+  "road": {
+    "en": "road",
+    "ko": "길, 도로",
+    "type": "noun"
+  },
+  "corner": {
+    "en": "corner",
+    "ko": "모퉁이",
+    "type": "noun"
+  },
+  "avenue": {
+    "en": "avenue",
+    "ko": "거리, 가",
+    "type": "noun"
+  },
+  "bridge": {
+    "en": "bridge",
+    "ko": "다리",
+    "type": "noun"
+  },
+  "tunnel": {
+    "en": "tunnel",
+    "ko": "터널",
+    "type": "noun"
+  },
+  "opposite": {
+    "en": "opposite",
+    "ko": "맞은편의",
+    "type": "preposition"
+  },
+  "direction": {
+    "en": "direction",
+    "ko": "방향",
+    "type": "noun"
+  },
+  "library": {
+    "en": "library",
+    "ko": "도서관",
+    "type": "noun"
+  },
+  "mile": {
+    "en": "mile",
+    "ko": "마일 (거리 단위)",
+    "type": "noun"
+  },
+  "signs": {
+    "en": "signs",
+    "ko": "표지판들",
+    "type": "noun"
+  },
+  "five": {
+    "en": "five",
+    "ko": "5",
+    "type": "number"
+  },
+  "stairs": {
+    "en": "stairs",
+    "ko": "계단",
+    "type": "noun"
+  },
+  "second": {
+    "en": "second",
+    "ko": "두 번째, 2초",
+    "type": "adjective"
+  },
+  "stand": {
+    "en": "stand",
+    "ko": "승강장, 서다",
+    "type": "noun"
+  },
+  "fifteen": {
+    "en": "fifteen",
+    "ko": "15",
+    "type": "number"
+  },
+  "exact": {
+    "en": "exact",
+    "ko": "정확한",
+    "type": "adjective"
+  },
+  "lot": {
+    "en": "lot",
+    "ko": "많음, 주차장",
+    "type": "noun"
+  },
+  "fastest": {
+    "en": "fastest",
+    "ko": "가장 빠른",
+    "type": "adjective"
+  },
+  "route": {
+    "en": "route",
+    "ko": "경로, 길",
+    "type": "noun"
+  },
+  "towed": {
+    "en": "towed",
+    "ko": "견인된",
+    "type": "adjective"
+  },
+  "safely": {
+    "en": "safely",
+    "ko": "안전하게",
+    "type": "adverb"
+  },
+  "helpful": {
+    "en": "helpful",
+    "ko": "도움이 되는",
+    "type": "adjective"
+  },
+  "kim": {
+    "en": "Kim",
+    "ko": "킴 (이름)",
+    "type": "noun"
+  },
+  "wake-up": {
+    "en": "wake-up",
+    "ko": "기상, 모닝콜",
+    "type": "noun"
+  },
+  "conditioner": {
+    "en": "conditioner",
+    "ko": "린스, 컨디셔너",
+    "type": "noun"
+  },
+  "pm": {
+    "en": "PM",
+    "ko": "오후",
+    "type": "noun"
+  },
+  "dish": {
+    "en": "dish",
+    "ko": "요리, 접시",
+    "type": "noun"
+  },
+  "nut": {
+    "en": "nut",
+    "ko": "견과류",
+    "type": "noun"
+  },
+  "plates": {
+    "en": "plates",
+    "ko": "접시들",
+    "type": "noun"
+  },
+  "four": {
+    "en": "four",
+    "ko": "4",
+    "type": "number"
+  },
+  "minutes": {
+    "en": "minutes",
+    "ko": "분",
+    "type": "noun"
+  },
+  "done": {
+    "en": "done",
+    "ko": "완료된",
+    "type": "adjective"
+  },
+  "less": {
+    "en": "less",
+    "ko": "더 적은",
+    "type": "adjective"
+  },
+  "contain": {
+    "en": "contain",
+    "ko": "포함하다",
+    "type": "verb"
+  },
+  "glass": {
+    "en": "glass",
+    "ko": "유리잔",
+    "type": "noun"
+  },
+  "red": {
+    "en": "red",
+    "ko": "빨간색",
+    "type": "noun"
+  },
+  "we'd": {
+    "en": "we'd",
+    "ko": "우리는 ~할 것이다 (we would/had)",
+    "type": "pronoun"
+  },
+  "to-go": {
+    "en": "to-go",
+    "ko": "포장용의",
+    "type": "adjective"
+  },
+  "espresso": {
+    "en": "espresso",
+    "ko": "에스프레소",
+    "type": "noun"
+  },
+  "what's": {
+    "en": "what's",
+    "ko": "무엇이 ~인가 (what is)",
+    "type": "pronoun"
+  },
+  "tables": {
+    "en": "tables",
+    "ko": "테이블들",
+    "type": "noun"
+  },
+  "gluten-free": {
+    "en": "gluten-free",
+    "ko": "글루텐 프리의",
+    "type": "adjective"
+  },
+  "pizza": {
+    "en": "pizza",
+    "ko": "피자",
+    "type": "noun"
+  },
+  "eggs": {
+    "en": "eggs",
+    "ko": "계란들",
+    "type": "noun"
+  },
+  "sunny-side": {
+    "en": "sunny-side",
+    "ko": "한쪽만 익힌 (계란 프라이)",
+    "type": "adjective"
+  },
+  "baby": {
+    "en": "baby",
+    "ko": "아기",
+    "type": "noun"
+  },
+  "serve": {
+    "en": "serve",
+    "ko": "제공하다, 서빙하다",
+    "type": "verb"
+  },
+  "tokyo": {
+    "en": "Tokyo",
+    "ko": "도쿄",
+    "type": "noun"
+  },
+  "address": {
+    "en": "address",
+    "ko": "주소",
+    "type": "noun"
+  },
+  "drivers": {
+    "en": "drivers",
+    "ko": "운전자들",
+    "type": "noun"
+  },
+  "different": {
+    "en": "different",
+    "ko": "다른",
+    "type": "adjective"
+  },
+  "color": {
+    "en": "color",
+    "ko": "색깔",
+    "type": "noun"
+  },
+  "fitting": {
+    "en": "fitting",
+    "ko": "피팅, 입어보는",
+    "type": "adjective"
+  },
+  "sale": {
+    "en": "sale",
+    "ko": "할인, 판매",
+    "type": "noun"
+  },
+  "muffin": {
+    "en": "muffin",
+    "ko": "머핀",
+    "type": "noun"
+  },
+  "straws": {
+    "en": "straws",
+    "ko": "빨대들",
+    "type": "noun"
+  },
+  "stirrer": {
+    "en": "stirrer",
+    "ko": "젓개, 스틱",
+    "type": "noun"
+  },
+  "near": {
+    "en": "near",
+    "ko": "가까운, 근처에",
+    "type": "preposition"
+  },
+  "cafe": {
+    "en": "cafe",
+    "ko": "카페",
+    "type": "noun"
+  },
+  "i've": {
+    "en": "I've",
+    "ko": "나는 ~했다 (I have)",
+    "type": "pronoun"
+  },
+  "leg": {
+    "en": "leg",
+    "ko": "다리",
+    "type": "noun"
+  },
+  "breathe": {
+    "en": "breathe",
+    "ko": "숨쉬다",
+    "type": "verb"
+  },
+  "kids'": {
+    "en": "kids'",
+    "ko": "아이들의",
+    "type": "noun"
+  },
+  "saw": {
+    "en": "saw",
+    "ko": "보았다 (see의 과거형)",
+    "type": "verb"
+  },
+  "having": {
+    "en": "having",
+    "ko": "가지는 것, 하고 있는",
+    "type": "verb"
+  },
+  "cpr": {
+    "en": "CPR",
+    "ko": "심폐소생술",
+    "type": "noun"
+  },
+  "something": {
+    "en": "something",
+    "ko": "무언가",
+    "type": "pronoun"
+  },
+  "you're": {
+    "en": "you're",
+    "ko": "당신은 ~이다 (you are)",
+    "type": "pronoun"
+  },
+  "went": {
+    "en": "went",
+    "ko": "갔다 (go의 과거형)",
+    "type": "verb"
+  },
+  "there's": {
+    "en": "there's",
+    "ko": "~이 있다 (there is)",
+    "type": "pronoun"
+  },
+  "keys": {
+    "en": "keys",
+    "ko": "열쇠들",
+    "type": "noun"
+  },
+  "epipen": {
+    "en": "EpiPen",
+    "ko": "에피펜 (알레르기 응급 주사기)",
+    "type": "noun"
+  },
+  "trying": {
+    "en": "trying",
+    "ko": "시도하는, 노력하는",
+    "type": "verb"
+  },
+  "hear": {
+    "en": "hear",
+    "ko": "듣다",
+    "type": "verb"
+  },
+  "hurt": {
+    "en": "hurt",
+    "ko": "다치다, 아프다",
+    "type": "verb"
+  },
+  "band-aid": {
+    "en": "Band-Aid",
+    "ko": "반창고",
+    "type": "noun"
+  },
+  "dr": {
+    "en": "Dr.",
+    "ko": "의사 (Doctor)",
+    "type": "noun"
+  },
+  "smith": {
+    "en": "Smith",
+    "ko": "스미스 (이름)",
+    "type": "noun"
+  },
+  "foreign": {
+    "en": "foreign",
+    "ko": "외국의",
+    "type": "adjective"
+  },
+  "health": {
+    "en": "health",
+    "ko": "건강",
+    "type": "noun"
+  },
+  "seems": {
+    "en": "seems",
+    "ko": "~인 것 같다",
+    "type": "verb"
+  },
+  "today": {
+    "en": "today",
+    "ko": "오늘",
+    "type": "noun"
+  },
+  "badly": {
+    "en": "badly",
+    "ko": "심하게, 나쁘게",
+    "type": "adverb"
+  },
+  "feeling": {
+    "en": "feeling",
+    "ko": "느낌, 기분",
+    "type": "noun"
+  },
+  "morning": {
+    "en": "morning",
+    "ko": "아침",
+    "type": "noun"
+  },
+  "nose": {
+    "en": "nose",
+    "ko": "코",
+    "type": "noun"
+  },
+  "eyes": {
+    "en": "eyes",
+    "ko": "눈",
+    "type": "noun"
+  },
+  "loss": {
+    "en": "loss",
+    "ko": "상실, 잃음",
+    "type": "noun"
+  },
+  "getting": {
+    "en": "getting",
+    "ko": "얻는, ~하게 되는",
+    "type": "verb"
+  },
+  "ago": {
+    "en": "ago",
+    "ko": "전에",
+    "type": "adverb"
+  },
+  "took": {
+    "en": "took",
+    "ko": "가져갔다, 취했다 (take의 과거형)",
+    "type": "verb"
+  },
+  "yesterday": {
+    "en": "yesterday",
+    "ko": "어제",
+    "type": "noun"
+  },
+  "medications": {
+    "en": "medications",
+    "ko": "약물, 투약",
+    "type": "noun"
+  },
+  "known": {
+    "en": "known",
+    "ko": "알려진",
+    "type": "adjective"
+  },
+  "taking": {
+    "en": "taking",
+    "ko": "가져가는, 복용하는",
+    "type": "verb"
+  },
+  "months": {
+    "en": "months",
+    "ko": "달, 개월",
+    "type": "noun"
+  },
+  "ah": {
+    "en": "ah",
+    "ko": "아 (감탄사)",
+    "type": "interjection"
+  },
+  "deep": {
+    "en": "deep",
+    "ko": "깊은",
+    "type": "adjective"
+  },
+  "x-ray": {
+    "en": "X-ray",
+    "ko": "엑스레이",
+    "type": "noun"
+  },
+  "looks": {
+    "en": "looks",
+    "ko": "보인다",
+    "type": "verb"
+  },
+  "going": {
+    "en": "going",
+    "ko": "가는 중인",
+    "type": "verb"
+  },
+  "doesn't": {
+    "en": "doesn't",
+    "ko": "~하지 않다 (does not)",
+    "type": "verb"
+  },
+  "times": {
+    "en": "times",
+    "ko": "시간들, 번, 배",
+    "type": "noun"
+  },
+  "thirty": {
+    "en": "thirty",
+    "ko": "30",
+    "type": "number"
+  },
+  "ten-year-old": {
+    "en": "ten-year-old",
+    "ko": "10살의",
+    "type": "adjective"
+  },
+  "c": {
+    "en": "C",
+    "ko": "C (알파벳)",
+    "type": "noun"
+  },
+  "remember": {
+    "en": "remember",
+    "ko": "기억하다",
+    "type": "verb"
+  },
+  "gone": {
+    "en": "gone",
+    "ko": "사라진, 떠난",
+    "type": "adjective"
+  },
+  "id": {
+    "en": "ID",
+    "ko": "신분증",
+    "type": "noun"
+  },
+  "hundred": {
+    "en": "hundred",
+    "ko": "100",
+    "type": "number"
+  },
+  "samsonite": {
+    "en": "Samsonite",
+    "ko": "샘소나이트 (브랜드명)",
+    "type": "noun"
+  },
+  "towards": {
+    "en": "towards",
+    "ko": "~을 향하여",
+    "type": "preposition"
+  },
+  "else": {
+    "en": "else",
+    "ko": "다른",
+    "type": "adjective"
+  },
+  "seen": {
+    "en": "seen",
+    "ko": "보여진 (see의 과거분사)",
+    "type": "verb"
+  },
+  "reach": {
+    "en": "reach",
+    "ko": "도달하다",
+    "type": "verb"
+  },
+  "grand": {
+    "en": "grand",
+    "ko": "웅장한, 그랜드",
+    "type": "adjective"
+  },
+  "plaza": {
+    "en": "plaza",
+    "ko": "광장, 플라자",
+    "type": "noun"
+  },
+  "already": {
+    "en": "already",
+    "ko": "이미",
+    "type": "adverb"
+  },
+  "canceled": {
+    "en": "canceled",
+    "ko": "취소된",
+    "type": "adjective"
+  },
+  "provide": {
+    "en": "provide",
+    "ko": "제공하다",
+    "type": "verb"
+  },
+  "men": {
+    "en": "men",
+    "ko": "남자들",
+    "type": "noun"
+  },
+  "felt": {
+    "en": "felt",
+    "ko": "느꼈다 (feel의 과거형)",
+    "type": "verb"
+  },
+  "someone's": {
+    "en": "someone's",
+    "ko": "누군가의",
+    "type": "pronoun"
+  },
+  "came": {
+    "en": "came",
+    "ko": "왔다 (come의 과거형)",
+    "type": "verb"
+  },
+  "macbook": {
+    "en": "MacBook",
+    "ko": "맥북",
+    "type": "noun"
+  },
+  "pro": {
+    "en": "Pro",
+    "ko": "프로",
+    "type": "noun"
+  },
+  "camera": {
+    "en": "camera",
+    "ko": "카메라",
+    "type": "noun"
+  },
+  "asked": {
+    "en": "asked",
+    "ko": "물었다 (ask의 과거형)",
+    "type": "verb"
+  },
+  "using": {
+    "en": "using",
+    "ko": "사용하는",
+    "type": "verb"
+  },
+  "gps": {
+    "en": "GPS",
+    "ko": "GPS",
+    "type": "noun"
+  },
+  "shows": {
+    "en": "shows",
+    "ko": "보여주다",
+    "type": "verb"
+  },
+  "brown": {
+    "en": "brown",
+    "ko": "갈색",
+    "type": "noun"
+  },
+  "somewhere": {
+    "en": "somewhere",
+    "ko": "어딘가에",
+    "type": "adverb"
+  },
+  "told": {
+    "en": "told",
+    "ko": "말했다 (tell의 과거형)",
+    "type": "verb"
+  },
+  "read": {
+    "en": "read",
+    "ko": "읽다",
+    "type": "verb"
+  },
+  "yes": {
+    "en": "yes",
+    "ko": "네",
+    "type": "interjection"
+  },
+  "couldn't": {
+    "en": "couldn't",
+    "ko": "~할 수 없었다 (could not)",
+    "type": "verb"
+  },
+  "landmark": {
+    "en": "landmark",
+    "ko": "랜드마크, 주요 지형지물",
+    "type": "noun"
+  },
+  "past": {
+    "en": "past",
+    "ko": "지나서, 과거의",
+    "type": "preposition"
+  },
+  "supermarket": {
+    "en": "supermarket",
+    "ko": "슈퍼마켓",
+    "type": "noun"
+  },
+  "cross": {
+    "en": "cross",
+    "ko": "건너다",
+    "type": "verb"
+  },
+  "directions": {
+    "en": "directions",
+    "ko": "길 안내, 방향",
+    "type": "noun"
+  },
+  "you've": {
+    "en": "you've",
+    "ko": "당신은 ~했다 (you have)",
+    "type": "pronoun"
+  },
+  "flash": {
+    "en": "flash",
+    "ko": "플래시, 번쩍임",
+    "type": "noun"
+  },
+  "famous": {
+    "en": "famous",
+    "ko": "유명한",
+    "type": "adjective"
+  },
+  "attraction": {
+    "en": "attraction",
+    "ko": "명소, 매력",
+    "type": "noun"
+  },
+  "support": {
+    "en": "support",
+    "ko": "지원하다",
+    "type": "verb"
+  },
+  "5g": {
+    "en": "5G",
+    "ko": "5G",
+    "type": "noun"
+  },
+  "remaining": {
+    "en": "remaining",
+    "ko": "남아있는",
+    "type": "adjective"
+  },
+  "micro": {
+    "en": "micro",
+    "ko": "마이크로",
+    "type": "adjective"
+  },
+  "documents": {
+    "en": "documents",
+    "ko": "문서들",
+    "type": "noun"
+  },
+  "overseas": {
+    "en": "overseas",
+    "ko": "해외의",
+    "type": "adjective"
+  },
+  "forgot": {
+    "en": "forgot",
+    "ko": "잊었다 (forget의 과거형)",
+    "type": "verb"
+  },
+  "pin": {
+    "en": "PIN",
+    "ko": "비밀번호 (PIN)",
+    "type": "noun"
+  },
+  "south": {
+    "en": "south",
+    "ko": "남쪽",
+    "type": "noun"
+  },
+  "korea": {
+    "en": "Korea",
+    "ko": "한국",
+    "type": "noun"
+  },
+  "later": {
+    "en": "later",
+    "ko": "나중에",
+    "type": "adverb"
+  },
+  "casino": {
+    "en": "casino",
+    "ko": "카지노",
+    "type": "noun"
+  },
+  "laundry": {
+    "en": "laundry",
+    "ko": "세탁",
+    "type": "noun"
+  },
+  "schedule": {
+    "en": "schedule",
+    "ko": "일정",
+    "type": "noun"
+  },
+  "today's": {
+    "en": "today's",
+    "ko": "오늘의",
+    "type": "noun"
+  },
+  "activities": {
+    "en": "activities",
+    "ko": "활동들",
+    "type": "noun"
+  },
+  "customer": {
+    "en": "customer",
+    "ko": "고객",
+    "type": "noun"
+  },
+  "draw": {
+    "en": "draw",
+    "ko": "그리다",
+    "type": "verb"
+  },
+  "admission": {
+    "en": "admission",
+    "ko": "입장, 입장료",
+    "type": "noun"
+  },
+  "adults": {
+    "en": "adults",
+    "ko": "어른들",
+    "type": "noun"
+  },
+  "tours": {
+    "en": "tours",
+    "ko": "투어들, 여행",
+    "type": "noun"
+  },
+  "photography": {
+    "en": "photography",
+    "ko": "사진 촬영",
+    "type": "noun"
+  },
+  "spot": {
+    "en": "spot",
+    "ko": "장소, 지점",
+    "type": "noun"
+  },
+  "photos": {
+    "en": "photos",
+    "ko": "사진들",
+    "type": "noun"
+  },
+  "advance": {
+    "en": "advance",
+    "ko": "사전, 미리",
+    "type": "noun"
+  },
+  "restrooms": {
+    "en": "restrooms",
+    "ko": "화장실들",
+    "type": "noun"
+  },
+  "postcards": {
+    "en": "postcards",
+    "ko": "엽서들",
+    "type": "noun"
+  },
+  "touch": {
+    "en": "touch",
+    "ko": "만지다",
+    "type": "verb"
+  },
+  "exhibits": {
+    "en": "exhibits",
+    "ko": "전시물들",
+    "type": "noun"
+  },
+  "locker": {
+    "en": "locker",
+    "ko": "사물함",
+    "type": "noun"
+  },
+  "observation": {
+    "en": "observation",
+    "ko": "관찰, 관측",
+    "type": "noun"
+  },
+  "deck": {
+    "en": "deck",
+    "ko": "갑판, 데크",
+    "type": "noun"
+  },
+  "amazing": {
+    "en": "amazing",
+    "ko": "놀라운, 멋진",
+    "type": "adjective"
+  },
+  "roof": {
+    "en": "roof",
+    "ko": "지붕, 옥상",
+    "type": "noun"
+  },
+  "called": {
+    "en": "called",
+    "ko": "불리는",
+    "type": "verb"
+  },
+  "castle": {
+    "en": "castle",
+    "ko": "성",
+    "type": "noun"
+  },
+  "built": {
+    "en": "built",
+    "ko": "지어진",
+    "type": "verb"
+  },
+  "painted": {
+    "en": "painted",
+    "ko": "그려진, 칠해진",
+    "type": "verb"
+  },
+  "masterpiece": {
+    "en": "masterpiece",
+    "ko": "걸작, 명작",
+    "type": "noun"
+  },
+  "ferry": {
+    "en": "ferry",
+    "ko": "페리, 여객선",
+    "type": "noun"
+  },
+  "voice": {
+    "en": "voice",
+    "ko": "목소리",
+    "type": "noun"
+  },
+  "smoking": {
+    "en": "smoking",
+    "ko": "흡연",
+    "type": "noun"
+  },
+  "valid": {
+    "en": "valid",
+    "ko": "유효한",
+    "type": "adjective"
+  },
+  "brochure": {
+    "en": "brochure",
+    "ko": "안내 책자, 브로셔",
+    "type": "noun"
+  },
+  "square": {
+    "en": "square",
+    "ko": "광장, 정사각형",
+    "type": "noun"
+  },
+  "opening": {
+    "en": "opening",
+    "ko": "개장, 시작",
+    "type": "noun"
+  },
+  "hours": {
+    "en": "hours",
+    "ko": "시간들, 영업시간",
+    "type": "noun"
+  },
+  "mondays": {
+    "en": "Mondays",
+    "ko": "월요일마다",
+    "type": "noun"
+  },
+  "closed": {
+    "en": "closed",
+    "ko": "닫힌, 휴무인",
+    "type": "adjective"
+  },
+  "holidays": {
+    "en": "holidays",
+    "ko": "휴일들, 공휴일",
+    "type": "noun"
+  },
+  "senior": {
+    "en": "senior",
+    "ko": "고령자, 선임",
+    "type": "noun"
+  },
+  "citizen": {
+    "en": "citizen",
+    "ko": "시민",
+    "type": "noun"
+  },
+  "temple": {
+    "en": "temple",
+    "ko": "사원, 절",
+    "type": "noun"
+  },
+  "cover": {
+    "en": "cover",
+    "ko": "가리다, 덮다",
+    "type": "verb"
+  },
+  "shoulders": {
+    "en": "shoulders",
+    "ko": "어깨",
+    "type": "noun"
+  },
+  "tripod": {
+    "en": "tripod",
+    "ko": "삼각대",
+    "type": "noun"
+  },
+  "drones": {
+    "en": "drones",
+    "ko": "드론들",
+    "type": "noun"
+  },
+  "strictly": {
+    "en": "strictly",
+    "ko": "엄격히",
+    "type": "adverb"
+  },
+  "prohibited": {
+    "en": "prohibited",
+    "ko": "금지된",
+    "type": "adjective"
+  },
+  "slippery": {
+    "en": "slippery",
+    "ko": "미끄러운",
+    "type": "adjective"
+  },
+  "lean": {
+    "en": "lean",
+    "ko": "기대다",
+    "type": "verb"
+  },
+  "fall": {
+    "en": "fall",
+    "ko": "떨어지다, 가을",
+    "type": "verb"
+  },
+  "twenty": {
+    "en": "twenty",
+    "ko": "20",
+    "type": "number"
+  },
+  "let's": {
+    "en": "let's",
+    "ko": "~하자 (let us)",
+    "type": "verb"
+  },
+  "o'clock": {
+    "en": "o'clock",
+    "ko": "시 (정각)",
+    "type": "adverb"
+  },
+  "sun": {
+    "en": "sun",
+    "ko": "태양, 해",
+    "type": "noun"
+  },
+  "fountain": {
+    "en": "fountain",
+    "ko": "분수",
+    "type": "noun"
+  },
+  "starts": {
+    "en": "starts",
+    "ko": "시작하다",
+    "type": "verb"
+  },
+  "eight": {
+    "en": "eight",
+    "ko": "8",
+    "type": "number"
+  },
+  "parade": {
+    "en": "parade",
+    "ko": "퍼레이드, 행진",
+    "type": "noun"
+  },
+  "feed": {
+    "en": "feed",
+    "ko": "먹이를 주다",
+    "type": "verb"
+  },
+  "animals": {
+    "en": "animals",
+    "ko": "동물들",
+    "type": "noun"
+  },
+  "pigeons": {
+    "en": "pigeons",
+    "ko": "비둘기들",
+    "type": "noun"
+  },
+  "roller": {
+    "en": "roller",
+    "ko": "롤러",
+    "type": "noun"
+  },
+  "coaster": {
+    "en": "coaster",
+    "ko": "코스터",
+    "type": "noun"
+  },
+  "aid": {
+    "en": "aid",
+    "ko": "도움, 처치",
+    "type": "noun"
+  },
+  "stamp": {
+    "en": "stamp",
+    "ko": "스탬프, 우표",
+    "type": "noun"
+  },
+  "collect": {
+    "en": "collect",
+    "ko": "수집하다",
+    "type": "verb"
+  },
+  "magnets": {
+    "en": "magnets",
+    "ko": "자석들",
+    "type": "noun"
+  },
+  "every": {
+    "en": "every",
+    "ko": "모든, 매~",
+    "type": "adjective"
+  },
+  "moving": {
+    "en": "moving",
+    "ko": "움직이는",
+    "type": "adjective"
+  },
+  "fast": {
+    "en": "fast",
+    "ko": "빠른, 빨리",
+    "type": "adjective"
+  },
+  "we've": {
+    "en": "we've",
+    "ko": "우리는 ~했다 (we have)",
+    "type": "pronoun"
+  },
+  "worth": {
+    "en": "worth",
+    "ko": "~의 가치가 있는",
+    "type": "adjective"
+  },
+  "glad": {
+    "en": "glad",
+    "ko": "기쁜",
+    "type": "adjective"
+  },
+  "breathtaking": {
+    "en": "breathtaking",
+    "ko": "숨이 멎을 듯한",
+    "type": "adjective"
+  },
+  "selfie": {
+    "en": "selfie",
+    "ko": "셀카",
+    "type": "noun"
+  },
+  "record": {
+    "en": "record",
+    "ko": "녹음하다, 기록하다",
+    "type": "verb"
+  },
+  "videos": {
+    "en": "videos",
+    "ko": "동영상들",
+    "type": "noun"
+  },
+  "join": {
+    "en": "join",
+    "ko": "합류하다, 가입하다",
+    "type": "verb"
+  },
+  "halfway": {
+    "en": "halfway",
+    "ko": "중간에, 도중에",
+    "type": "adverb"
+  },
+  "fast-track": {
+    "en": "fast-track",
+    "ko": "빠른 입장, 패스트트랙",
+    "type": "noun"
+  },
+  "lane": {
+    "en": "lane",
+    "ko": "차선, 줄",
+    "type": "noun"
+  },
+  "hire": {
+    "en": "hire",
+    "ko": "고용하다, 빌리다",
+    "type": "verb"
+  },
+  "private": {
+    "en": "private",
+    "ko": "개인적인, 사적인",
+    "type": "adjective"
+  },
+  "tourists": {
+    "en": "tourists",
+    "ko": "관광객들",
+    "type": "noun"
+  },
+  "data-only": {
+    "en": "data-only",
+    "ko": "데이터 전용",
+    "type": "adjective"
+  },
+  "network": {
+    "en": "network",
+    "ko": "네트워크, 통신망",
+    "type": "noun"
+  },
+  "coverage": {
+    "en": "coverage",
+    "ko": "수신 범위, 보급 범위",
+    "type": "noun"
+  },
+  "compatible": {
+    "en": "compatible",
+    "ko": "호환되는",
+    "type": "adjective"
+  },
+  "nano": {
+    "en": "nano",
+    "ko": "나노 (크기 단위)",
+    "type": "noun"
+  },
+  "cut": {
+    "en": "cut",
+    "ko": "자르다",
+    "type": "verb"
+  },
+  "fit": {
+    "en": "fit",
+    "ko": "맞다, 적합하다",
+    "type": "verb"
+  },
+  "calls": {
+    "en": "calls",
+    "ko": "통화, 전화",
+    "type": "noun"
+  },
+  "talk": {
+    "en": "talk",
+    "ko": "말하다, 통화",
+    "type": "verb"
+  },
+  "text": {
+    "en": "text",
+    "ko": "문자, 텍스트",
+    "type": "noun"
+  },
+  "messages": {
+    "en": "messages",
+    "ko": "메시지들",
+    "type": "noun"
+  },
+  "validity": {
+    "en": "validity",
+    "ko": "유효함, 타당성",
+    "type": "noun"
+  },
+  "period": {
+    "en": "period",
+    "ko": "기간, 시기",
+    "type": "noun"
+  },
+  "voucher": {
+    "en": "voucher",
+    "ko": "바우처, 상품권",
+    "type": "noun"
+  },
+  "happens": {
+    "en": "happens",
+    "ko": "일어나다, 발생하다",
+    "type": "verb"
+  },
+  "high-speed": {
+    "en": "high-speed",
+    "ko": "고속의",
+    "type": "adjective"
+  },
+  "throttled": {
+    "en": "throttled",
+    "ko": "제한된, 조절된",
+    "type": "adjective"
+  },
+  "gigabytes": {
+    "en": "gigabytes",
+    "ko": "기가바이트",
+    "type": "noun"
+  },
+  "iphone": {
+    "en": "iPhone",
+    "ko": "아이폰",
+    "type": "noun"
+  },
+  "qr": {
+    "en": "QR",
+    "ko": "큐알",
+    "type": "noun"
+  },
+  "accidentally": {
+    "en": "accidentally",
+    "ko": "실수로, 우연히",
+    "type": "adverb"
+  },
+  "deleted": {
+    "en": "deleted",
+    "ko": "삭제된",
+    "type": "adjective"
+  },
+  "profile": {
+    "en": "profile",
+    "ko": "프로필",
+    "type": "noun"
+  },
+  "restart": {
+    "en": "restart",
+    "ko": "재시작하다",
+    "type": "verb"
+  },
+  "activation": {
+    "en": "activation",
+    "ko": "활성화, 개통",
+    "type": "noun"
+  },
+  "says": {
+    "en": "says",
+    "ko": "말하다, 쓰여 있다",
+    "type": "verb"
+  },
+  "screen": {
+    "en": "screen",
+    "ko": "화면, 스크린",
+    "type": "noun"
+  },
+  "3g": {
+    "en": "3G",
+    "ko": "3세대 이동통신",
+    "type": "noun"
+  },
+  "4g": {
+    "en": "4G",
+    "ko": "4세대 이동통신",
+    "type": "noun"
+  },
+  "why": {
+    "en": "why",
+    "ko": "왜",
+    "type": "adverb"
+  },
+  "outage": {
+    "en": "outage",
+    "ko": "정전, 단전, 통신 장애",
+    "type": "noun"
+  },
+  "'invalid": {
+    "en": "invalid",
+    "ko": "유효하지 않은",
+    "type": "adjective"
+  },
+  "sim'": {
+    "en": "SIM",
+    "ko": "유심",
+    "type": "noun"
+  },
+  "replacement": {
+    "en": "replacement",
+    "ko": "교체, 대체",
+    "type": "noun"
+  },
+  "registration": {
+    "en": "registration",
+    "ko": "등록",
+    "type": "noun"
+  },
+  "activated": {
+    "en": "activated",
+    "ko": "활성화된, 개통된",
+    "type": "adjective"
+  },
+  "status": {
+    "en": "status",
+    "ko": "상태",
+    "type": "noun"
+  },
+  "apn": {
+    "en": "APN",
+    "ko": "액세스 포인트 이름",
+    "type": "noun"
+  },
+  "settings": {
+    "en": "settings",
+    "ko": "설정",
+    "type": "noun"
+  },
+  "manually": {
+    "en": "manually",
+    "ko": "수동으로",
+    "type": "adverb"
+  },
+  "type": {
+    "en": "type",
+    "ko": "입력하다, 치다",
+    "type": "verb"
+  },
+  "cannot": {
+    "en": "cannot",
+    "ko": "할 수 없다",
+    "type": "verb"
+  },
+  "receiving": {
+    "en": "receiving",
+    "ko": "받는 중인",
+    "type": "verb"
+  },
+  "roaming": {
+    "en": "roaming",
+    "ko": "로밍",
+    "type": "noun"
+  },
+  "portable": {
+    "en": "portable",
+    "ko": "휴대용의",
+    "type": "adjective"
+  },
+  "router": {
+    "en": "router",
+    "ko": "라우터, 공유기",
+    "type": "noun"
+  },
+  "devices": {
+    "en": "devices",
+    "ko": "기기들, 장치들",
+    "type": "noun"
+  },
+  "turning": {
+    "en": "turning",
+    "ko": "돌리는, 켜는",
+    "type": "verb"
+  },
+  "keeps": {
+    "en": "keeps",
+    "ko": "계속하다",
+    "type": "verb"
+  },
+  "disconnecting": {
+    "en": "disconnecting",
+    "ko": "연결이 끊어지는",
+    "type": "verb"
+  },
+  "hotspot": {
+    "en": "hotspot",
+    "ko": "핫스팟",
+    "type": "noun"
+  },
+  "select": {
+    "en": "select",
+    "ko": "선택하다",
+    "type": "verb"
+  },
+  "unlock": {
+    "en": "unlock",
+    "ko": "잠금을 풀다",
+    "type": "verb"
+  },
+  "united": {
+    "en": "united",
+    "ko": "연합된, 통합된",
+    "type": "adjective"
+  },
+  "states": {
+    "en": "states",
+    "ko": "주들, 국가들",
+    "type": "noun"
+  },
+  "message": {
+    "en": "message",
+    "ko": "메시지",
+    "type": "noun"
+  },
+  "whatsapp": {
+    "en": "WhatsApp",
+    "ko": "왓츠앱",
+    "type": "noun"
+  },
+  "social": {
+    "en": "social",
+    "ko": "소셜, 사회적인",
+    "type": "adjective"
+  },
+  "media": {
+    "en": "media",
+    "ko": "미디어, 매체",
+    "type": "noun"
+  },
+  "allowance": {
+    "en": "allowance",
+    "ko": "허용량, 수당",
+    "type": "noun"
+  },
+  "tethering": {
+    "en": "tethering",
+    "ko": "테더링",
+    "type": "noun"
+  },
+  "via": {
+    "en": "via",
+    "ko": "~을 통하여",
+    "type": "preposition"
+  },
+  "personal": {
+    "en": "personal",
+    "ko": "개인적인",
+    "type": "adjective"
+  },
+  "insert": {
+    "en": "insert",
+    "ko": "삽입하다, 넣다",
+    "type": "verb"
+  },
+  "paperclip": {
+    "en": "paperclip",
+    "ko": "종이 클립",
+    "type": "noun"
+  },
+  "dying": {
+    "en": "dying",
+    "ko": "죽어가는, 닳아가는",
+    "type": "adjective"
+  },
+  "minute": {
+    "en": "minute",
+    "ko": "분, 잠깐",
+    "type": "noun"
+  },
+  "mobile": {
+    "en": "mobile",
+    "ko": "모바일, 휴대용의",
+    "type": "adjective"
+  },
+  "universal": {
+    "en": "universal",
+    "ko": "보편적인, 만능의",
+    "type": "adjective"
+  },
+  "english-speaking": {
+    "en": "English-speaking",
+    "ko": "영어를 하는",
+    "type": "adjective"
+  },
+  "operator": {
+    "en": "operator",
+    "ko": "교환원, 운영자",
+    "type": "noun"
+  },
+  "spam": {
+    "en": "spam",
+    "ko": "스팸",
+    "type": "noun"
+  },
+  "voicemail": {
+    "en": "voicemail",
+    "ko": "음성 사서함",
+    "type": "noun"
+  },
+  "disable": {
+    "en": "disable",
+    "ko": "비활성화하다",
+    "type": "verb"
+  },
+  "subscription": {
+    "en": "subscription",
+    "ko": "구독, 가입",
+    "type": "noun"
+  },
+  "unused": {
+    "en": "unused",
+    "ko": "사용되지 않은",
+    "type": "adjective"
+  },
+  "advertised": {
+    "en": "advertised",
+    "ko": "광고된",
+    "type": "adjective"
+  },
+  "load": {
+    "en": "load",
+    "ko": "불러오다, 로드하다",
+    "type": "verb"
+  },
+  "web": {
+    "en": "web",
+    "ko": "웹",
+    "type": "noun"
+  },
+  "pages": {
+    "en": "pages",
+    "ko": "페이지들",
+    "type": "noun"
+  },
+  "maps": {
+    "en": "maps",
+    "ko": "지도들",
+    "type": "noun"
+  },
+  "loading": {
+    "en": "loading",
+    "ko": "로딩 중인",
+    "type": "verb"
+  },
+  "connection": {
+    "en": "connection",
+    "ko": "연결",
+    "type": "noun"
+  },
+  "weeks": {
+    "en": "weeks",
+    "ko": "주들",
+    "type": "noun"
+  },
+  "entered": {
+    "en": "entered",
+    "ko": "입력된, 들어간",
+    "type": "verb"
+  },
+  "puk": {
+    "en": "PUK",
+    "ko": "퍼스널 언락 키",
+    "type": "noun"
+  },
+  "scratch": {
+    "en": "scratch",
+    "ko": "긁다",
+    "type": "verb"
+  },
+  "reveal": {
+    "en": "reveal",
+    "ko": "드러내다, 밝히다",
+    "type": "verb"
+  },
+  "expires": {
+    "en": "expires",
+    "ko": "만료되다",
+    "type": "verb"
+  },
+  "setting": {
+    "en": "setting",
+    "ko": "설정",
+    "type": "noun"
+  },
+  "euros": {
+    "en": "euros",
+    "ko": "유로 (유럽 연합 통화)",
+    "type": "noun"
+  },
+  "coins": {
+    "en": "coins",
+    "ko": "동전들",
+    "type": "noun"
+  },
+  "hundred-dollar": {
+    "en": "hundred-dollar",
+    "ko": "100달러짜리의",
+    "type": "adjective"
+  },
+  "twenty-dollar": {
+    "en": "twenty-dollar",
+    "ko": "20달러짜리의",
+    "type": "adjective"
+  },
+  "tens": {
+    "en": "tens",
+    "ko": "10단위 (10달러짜리 지폐들)",
+    "type": "noun"
+  },
+  "blocked": {
+    "en": "blocked",
+    "ko": "막힌, 정지된",
+    "type": "adjective"
+  },
+  "withdrawal": {
+    "en": "withdrawal",
+    "ko": "인출, 출금",
+    "type": "noun"
+  },
+  "traveler's": {
+    "en": "traveler's",
+    "ko": "여행자의",
+    "type": "adjective"
+  },
+  "unauthorized": {
+    "en": "unauthorized",
+    "ko": "승인되지 않은",
+    "type": "adjective"
+  },
+  "transactions": {
+    "en": "transactions",
+    "ko": "거래들",
+    "type": "noun"
+  },
+  "purchase": {
+    "en": "purchase",
+    "ko": "구매, 결제",
+    "type": "noun"
+  },
+  "reverse": {
+    "en": "reverse",
+    "ko": "취소하다, 되돌리다",
+    "type": "verb"
+  },
+  "accounts": {
+    "en": "accounts",
+    "ko": "계좌들",
+    "type": "noun"
+  },
+  "non-residents": {
+    "en": "non-residents",
+    "ko": "비거주자들",
+    "type": "noun"
+  },
+  "minimum": {
+    "en": "minimum",
+    "ko": "최소의",
+    "type": "adjective"
+  },
+  "balance": {
+    "en": "balance",
+    "ko": "잔고, 잔액",
+    "type": "noun"
+  },
+  "requirement": {
+    "en": "requirement",
+    "ko": "요구사항, 조건",
+    "type": "noun"
+  },
+  "wire": {
+    "en": "wire",
+    "ko": "전신, 송금",
+    "type": "noun"
+  },
+  "swift": {
+    "en": "SWIFT",
+    "ko": "스위프트 (국제은행간통신협정)",
+    "type": "noun"
+  },
+  "routing": {
+    "en": "routing",
+    "ko": "라우팅, 경로 지정",
+    "type": "noun"
+  },
+  "overdrawn": {
+    "en": "overdrawn",
+    "ko": "초과 인출된",
+    "type": "adjective"
+  },
+  "savings": {
+    "en": "savings",
+    "ko": "예금, 저축",
+    "type": "noun"
+  },
+  "poor": {
+    "en": "poor",
+    "ko": "가난한, 형편없는",
+    "type": "adjective"
+  },
+  "leftover": {
+    "en": "leftover",
+    "ko": "남은",
+    "type": "adjective"
+  },
+  "torn": {
+    "en": "torn",
+    "ko": "찢어진",
+    "type": "adjective"
+  },
+  "banknote": {
+    "en": "banknote",
+    "ko": "지폐",
+    "type": "noun"
+  },
+  "payments": {
+    "en": "payments",
+    "ko": "결제들, 지불",
+    "type": "noun"
+  },
+  "transaction": {
+    "en": "transaction",
+    "ko": "거래",
+    "type": "noun"
+  },
+  "inserting": {
+    "en": "inserting",
+    "ko": "삽입하는 것",
+    "type": "noun"
+  },
+  "chip": {
+    "en": "chip",
+    "ko": "칩",
+    "type": "noun"
+  },
+  "swipe": {
+    "en": "swipe",
+    "ko": "긁다",
+    "type": "verb"
+  },
+  "reader": {
+    "en": "reader",
+    "ko": "단말기, 리더기",
+    "type": "noun"
+  },
+  "enter": {
+    "en": "enter",
+    "ko": "입력하다, 들어가다",
+    "type": "verb"
+  },
+  "button": {
+    "en": "button",
+    "ko": "버튼",
+    "type": "noun"
+  },
+  "surcharge": {
+    "en": "surcharge",
+    "ko": "추가 요금, 수수료",
+    "type": "noun"
+  },
+  "dynamic": {
+    "en": "dynamic",
+    "ko": "동적인",
+    "type": "adjective"
+  },
+  "conversion": {
+    "en": "conversion",
+    "ko": "변환, 환전",
+    "type": "noun"
+  },
+  "appeared": {
+    "en": "appeared",
+    "ko": "나타났다",
+    "type": "verb"
+  },
+  "update": {
+    "en": "update",
+    "ko": "갱신하다, 업데이트하다",
+    "type": "verb"
+  },
+  "billing": {
+    "en": "billing",
+    "ko": "청구",
+    "type": "noun"
+  },
+  "month": {
+    "en": "month",
+    "ko": "달, 월",
+    "type": "noun"
+  },
+  "abroad": {
+    "en": "abroad",
+    "ko": "해외에, 해외로",
+    "type": "adverb"
+  },
+  "activate": {
+    "en": "activate",
+    "ko": "활성화하다",
+    "type": "verb"
+  },
+  "maximum": {
+    "en": "maximum",
+    "ko": "최대의",
+    "type": "adjective"
+  },
+  "contactless": {
+    "en": "contactless",
+    "ko": "비접촉식의",
+    "type": "adjective"
+  },
+  "apply": {
+    "en": "apply",
+    "ko": "신청하다, 적용하다",
+    "type": "verb"
+  },
+  "loan": {
+    "en": "loan",
+    "ko": "대출",
+    "type": "noun"
+  },
+  "current": {
+    "en": "current",
+    "ko": "현재의",
+    "type": "adjective"
+  },
+  "mortgage": {
+    "en": "mortgage",
+    "ko": "주택 담보 대출",
+    "type": "noun"
+  },
+  "cashier's": {
+    "en": "cashier's",
+    "ko": "출납원의",
+    "type": "adjective"
+  },
+  "certify": {
+    "en": "certify",
+    "ko": "증명하다, 보증하다",
+    "type": "verb"
+  },
+  "bounced": {
+    "en": "bounced",
+    "ko": "부도난, 반송된",
+    "type": "adjective"
+  },
+  "payment": {
+    "en": "payment",
+    "ko": "지불, 결제",
+    "type": "noun"
+  },
+  "banking": {
+    "en": "banking",
+    "ko": "은행 업무",
+    "type": "noun"
+  },
+  "national": {
+    "en": "national",
+    "ko": "국가의, 전국적인",
+    "type": "adjective"
+  },
+  "holiday": {
+    "en": "holiday",
+    "ko": "휴일, 명절",
+    "type": "noun"
+  },
+  "manager": {
+    "en": "manager",
+    "ko": "매니저, 지점장",
+    "type": "noun"
+  },
+  "teller": {
+    "en": "teller",
+    "ko": "은행원, 창구 직원",
+    "type": "noun"
+  },
+  "financial": {
+    "en": "financial",
+    "ko": "금융의, 재정적인",
+    "type": "adjective"
+  },
+  "advisor": {
+    "en": "advisor",
+    "ko": "고문, 상담사",
+    "type": "noun"
+  },
+  "needs": {
+    "en": "needs",
+    "ko": "필요하다",
+    "type": "verb"
+  },
+  "receive": {
+    "en": "receive",
+    "ko": "받다",
+    "type": "verb"
+  },
+  "notes": {
+    "en": "notes",
+    "ko": "지폐들, 메모들",
+    "type": "noun"
+  },
+  "buying": {
+    "en": "buying",
+    "ko": "사는 것, 매입",
+    "type": "noun"
+  },
+  "funds": {
+    "en": "funds",
+    "ko": "자금",
+    "type": "noun"
+  },
+  "bank's": {
+    "en": "bank's",
+    "ko": "은행의",
+    "type": "noun"
+  },
+  "checks": {
+    "en": "checks",
+    "ko": "수표들",
+    "type": "noun"
+  },
+  "afternoon": {
+    "en": "afternoon",
+    "ko": "오후",
+    "type": "noun"
+  },
+  "evening": {
+    "en": "evening",
+    "ko": "저녁",
+    "type": "noun"
+  },
+  "how's": {
+    "en": "how's",
+    "ko": "어떻게 (how is)",
+    "type": "adverb"
+  },
+  "doing": {
+    "en": "doing",
+    "ko": "하고 있는, 지내는",
+    "type": "verb"
+  },
+  "thanks": {
+    "en": "thanks",
+    "ko": "고마워",
+    "type": "noun"
+  },
+  "bad": {
+    "en": "bad",
+    "ko": "나쁜",
+    "type": "adjective"
+  },
+  "vacation": {
+    "en": "vacation",
+    "ko": "휴가, 방학",
+    "type": "noun"
+  },
+  "lived": {
+    "en": "lived",
+    "ko": "살았다",
+    "type": "verb"
+  },
+  "living": {
+    "en": "living",
+    "ko": "생활, 생계",
+    "type": "noun"
+  },
+  "weather": {
+    "en": "weather",
+    "ko": "날씨",
+    "type": "noun"
+  },
+  "lovely": {
+    "en": "lovely",
+    "ko": "사랑스러운, 아주 좋은",
+    "type": "adjective"
+  },
+  "chilly": {
+    "en": "chilly",
+    "ko": "쌀쌀한",
+    "type": "adjective"
+  },
+  "outside": {
+    "en": "outside",
+    "ko": "밖에, 바깥에",
+    "type": "adverb"
+  },
+  "rain": {
+    "en": "rain",
+    "ko": "비, 비가 오다",
+    "type": "noun"
+  },
+  "outfit": {
+    "en": "outfit",
+    "ko": "옷차림, 복장",
+    "type": "noun"
+  },
+  "beautiful": {
+    "en": "beautiful",
+    "ko": "아름다운",
+    "type": "adjective"
+  },
+  "enjoying": {
+    "en": "enjoying",
+    "ko": "즐기고 있는",
+    "type": "verb"
+  },
+  "that's": {
+    "en": "that's",
+    "ko": "그것은 ~이다 (that is)",
+    "type": "pronoun"
+  },
+  "mention": {
+    "en": "mention",
+    "ko": "언급하다",
+    "type": "verb"
+  },
+  "pleasure": {
+    "en": "pleasure",
+    "ko": "기쁨, 즐거움",
+    "type": "noun"
+  },
+  "bother": {
+    "en": "bother",
+    "ko": "괴롭히다, 귀찮게 하다",
+    "type": "verb"
+  },
+  "question": {
+    "en": "question",
+    "ko": "질문",
+    "type": "noun"
+  },
+  "apologize": {
+    "en": "apologize",
+    "ko": "사과하다",
+    "type": "verb"
+  },
+  "alright": {
+    "en": "alright",
+    "ko": "괜찮은, 좋은",
+    "type": "adjective"
+  },
+  "worries": {
+    "en": "worries",
+    "ko": "걱정들",
+    "type": "noun"
+  },
+  "pronounce": {
+    "en": "pronounce",
+    "ko": "발음하다",
+    "type": "verb"
+  },
+  "translation": {
+    "en": "translation",
+    "ko": "번역",
+    "type": "noun"
+  },
+  "app": {
+    "en": "app",
+    "ko": "앱, 애플리케이션",
+    "type": "noun"
+  },
+  "customary": {
+    "en": "customary",
+    "ko": "관례적인, 습관적인",
+    "type": "adjective"
+  },
+  "eat": {
+    "en": "eat",
+    "ko": "먹다",
+    "type": "verb"
+  },
+  "proper": {
+    "en": "proper",
+    "ko": "적절한, 올바른",
+    "type": "adjective"
+  },
+  "greeting": {
+    "en": "greeting",
+    "ko": "인사",
+    "type": "noun"
+  },
+  "bow": {
+    "en": "bow",
+    "ko": "절하다, 고개를 숙이다",
+    "type": "verb"
+  },
+  "shake": {
+    "en": "shake",
+    "ko": "흔들다",
+    "type": "verb"
+  },
+  "hands": {
+    "en": "hands",
+    "ko": "손들 (악수)",
+    "type": "noun"
+  },
+  "cultural": {
+    "en": "cultural",
+    "ko": "문화적인",
+    "type": "adjective"
+  },
+  "taboos": {
+    "en": "taboos",
+    "ko": "금기들",
+    "type": "noun"
+  },
+  "polite": {
+    "en": "polite",
+    "ko": "예의 바른",
+    "type": "adjective"
+  },
+  "slurp": {
+    "en": "slurp",
+    "ko": "소리 내어 먹다",
+    "type": "verb"
+  },
+  "noodles": {
+    "en": "noodles",
+    "ko": "국수, 면",
+    "type": "noun"
+  },
+  "rude": {
+    "en": "rude",
+    "ko": "무례한",
+    "type": "adjective"
+  },
+  "forgive": {
+    "en": "forgive",
+    "ko": "용서하다",
+    "type": "verb"
+  },
+  "ignorance": {
+    "en": "ignorance",
+    "ko": "무지, 모름",
+    "type": "noun"
+  },
+  "interesting": {
+    "en": "interesting",
+    "ko": "흥미로운",
+    "type": "adjective"
+  },
+  "usually": {
+    "en": "usually",
+    "ko": "보통, 대개",
+    "type": "adverb"
+  },
+  "elders": {
+    "en": "elders",
+    "ko": "어른들, 연장자들",
+    "type": "noun"
+  },
+  "coincidence": {
+    "en": "coincidence",
+    "ko": "우연의 일치",
+    "type": "noun"
+  },
+  "happy": {
+    "en": "happy",
+    "ko": "행복한, 기쁜",
+    "type": "adjective"
+  },
+  "sounds": {
+    "en": "sounds",
+    "ko": "소리가 나다, ~처럼 들리다",
+    "type": "verb"
+  },
+  "fun": {
+    "en": "fun",
+    "ko": "재미, 즐거움",
+    "type": "noun"
+  },
+  "confused": {
+    "en": "confused",
+    "ko": "혼란스러운",
+    "type": "adjective"
+  },
+  "surprised": {
+    "en": "surprised",
+    "ko": "놀란",
+    "type": "adjective"
+  },
+  "unbelievable": {
+    "en": "unbelievable",
+    "ko": "믿을 수 없는",
+    "type": "adjective"
+  },
+  "completely": {
+    "en": "completely",
+    "ko": "완전히",
+    "type": "adverb"
+  },
+  "agree": {
+    "en": "agree",
+    "ko": "동의하다",
+    "type": "verb"
+  },
+  "sure": {
+    "en": "sure",
+    "ko": "확신하는, 물론",
+    "type": "adjective"
+  },
+  "politely": {
+    "en": "politely",
+    "ko": "정중하게",
+    "type": "adverb"
+  },
+  "disagree": {
+    "en": "disagree",
+    "ko": "동의하지 않다",
+    "type": "verb"
+  },
+  "maybe": {
+    "en": "maybe",
+    "ko": "아마도",
+    "type": "adverb"
+  },
+  "plans": {
+    "en": "plans",
+    "ko": "계획들, 선약",
+    "type": "noun"
+  },
+  "invitation": {
+    "en": "invitation",
+    "ko": "초대",
+    "type": "noun"
+  },
+  "instagram": {
+    "en": "Instagram",
+    "ko": "인스타그램",
+    "type": "noun"
+  },
+  "talking": {
+    "en": "talking",
+    "ko": "이야기하는 것",
+    "type": "noun"
+  },
+  "care": {
+    "en": "care",
+    "ko": "돌봄, 주의",
+    "type": "noun"
+  },
+  "goodbye": {
+    "en": "goodbye",
+    "ko": "안녕, 작별",
+    "type": "noun"
+  },
+  "cheers": {
+    "en": "cheers",
+    "ko": "건배, 고마워요",
+    "type": "noun"
+  },
+  "bless": {
+    "en": "bless",
+    "ko": "축복하다",
+    "type": "verb"
+  },
+  "congratulations": {
+    "en": "congratulations",
+    "ko": "축하합니다",
+    "type": "noun"
+  },
+  "birthday": {
+    "en": "birthday",
+    "ko": "생일",
+    "type": "noun"
+  },
+  "merry": {
+    "en": "merry",
+    "ko": "즐거운",
+    "type": "adjective"
+  },
+  "christmas": {
+    "en": "Christmas",
+    "ko": "크리스마스",
+    "type": "noun"
+  },
+  "luck": {
+    "en": "luck",
+    "ko": "행운",
+    "type": "noun"
+  },
+  "bon": {
+    "en": "bon",
+    "ko": "좋은 (프랑스어)",
+    "type": "adjective"
+  },
+  "appetit": {
+    "en": "appetit",
+    "ko": "식욕 (프랑스어)",
+    "type": "noun"
+  },
+  "yourself": {
+    "en": "yourself",
+    "ko": "너 자신",
+    "type": "pronoun"
+  },
+  "forward": {
+    "en": "forward",
+    "ko": "앞으로",
+    "type": "adverb"
+  },
+  "favor": {
+    "en": "favor",
+    "ko": "호의, 부탁",
+    "type": "noun"
+  },
+  "used": {
+    "en": "used",
+    "ko": "익숙한, 사용된",
+    "type": "adjective"
+  },
+  "cruise": {
+    "en": "cruise",
+    "ko": "크루즈, 유람선",
+    "type": "noun"
+  },
+  "drop-off": {
+    "en": "drop-off",
+    "ko": "하차, 맡기는 곳",
+    "type": "noun"
+  },
+  "stateroom": {
+    "en": "stateroom",
+    "ko": "특실, 객실",
+    "type": "noun"
+  },
+  "seven": {
+    "en": "seven",
+    "ko": "7, 일곱",
+    "type": "noun"
+  },
+  "delivered": {
+    "en": "delivered",
+    "ko": "배달된",
+    "type": "adjective"
+  },
+  "fix": {
+    "en": "fix",
+    "ko": "고치다, 수리하다",
+    "type": "verb"
+  },
+  "muster": {
+    "en": "muster",
+    "ko": "소집, 점호",
+    "type": "noun"
+  },
+  "attendance": {
+    "en": "attendance",
+    "ko": "출석, 참석",
+    "type": "noun"
+  },
+  "mandatory": {
+    "en": "mandatory",
+    "ko": "의무적인, 필수의",
+    "type": "adjective"
+  },
+  "all-aboard": {
+    "en": "all-aboard",
+    "ko": "전원 승선",
+    "type": "noun"
+  },
+  "visa": {
+    "en": "visa",
+    "ko": "비자, 사증",
+    "type": "noun"
+  },
+  "gangway": {
+    "en": "gangway",
+    "ko": "승하선용 통로",
+    "type": "noun"
+  },
+  "located": {
+    "en": "located",
+    "ko": "위치한",
+    "type": "adjective"
+  },
+  "seating": {
+    "en": "seating",
+    "ko": "좌석 배정, 식사 시간대",
+    "type": "noun"
+  },
+  "dinner": {
+    "en": "dinner",
+    "ko": "저녁 식사",
+    "type": "noun"
+  },
+  "anytime": {
+    "en": "anytime",
+    "ko": "언제든지",
+    "type": "adverb"
+  },
+  "tonight's": {
+    "en": "tonight's",
+    "ko": "오늘 밤의",
+    "type": "adjective"
+  },
+  "formal": {
+    "en": "formal",
+    "ko": "격식을 차린, 정장의",
+    "type": "adjective"
+  },
+  "beverage": {
+    "en": "beverage",
+    "ko": "음료",
+    "type": "noun"
+  },
+  "alcoholic": {
+    "en": "alcoholic",
+    "ko": "알코올의, 술의",
+    "type": "adjective"
+  },
+  "theater": {
+    "en": "theater",
+    "ko": "극장",
+    "type": "noun"
+  },
+  "reserve": {
+    "en": "reserve",
+    "ko": "예약하다",
+    "type": "verb"
+  },
+  "club": {
+    "en": "club",
+    "ko": "클럽, 동호회",
+    "type": "noun"
+  },
+  "scheduled": {
+    "en": "scheduled",
+    "ko": "예정된",
+    "type": "adjective"
+  },
+  "newsletter": {
+    "en": "newsletter",
+    "ko": "소식지, 회보",
+    "type": "noun"
+  },
+  "pools": {
+    "en": "pools",
+    "ko": "수영장들",
+    "type": "noun"
+  },
+  "tubs": {
+    "en": "tubs",
+    "ko": "욕조들",
+    "type": "noun"
+  },
+  "provided": {
+    "en": "provided",
+    "ko": "제공된",
+    "type": "adjective"
+  },
+  "fitness": {
+    "en": "fitness",
+    "ko": "건강, 피트니스",
+    "type": "noun"
+  },
+  "running": {
+    "en": "running",
+    "ko": "달리기",
+    "type": "noun"
+  },
+  "track": {
+    "en": "track",
+    "ko": "트랙, 길",
+    "type": "noun"
+  },
+  "ship's": {
+    "en": "ship's",
+    "ko": "배의",
+    "type": "noun"
+  },
+  "guest": {
+    "en": "guest",
+    "ko": "손님, 투숙객",
+    "type": "noun"
+  },
+  "services": {
+    "en": "services",
+    "ko": "서비스들",
+    "type": "noun"
+  },
+  "onboard": {
+    "en": "onboard",
+    "ko": "선내의, 탑승한",
+    "type": "adjective"
+  },
+  "gratuities": {
+    "en": "gratuities",
+    "ko": "팁, 봉사료",
+    "type": "noun"
+  },
+  "tips": {
+    "en": "tips",
+    "ko": "팁들",
+    "type": "noun"
+  },
+  "automatically": {
+    "en": "automatically",
+    "ko": "자동으로",
+    "type": "adverb"
+  },
+  "added": {
+    "en": "added",
+    "ko": "추가된",
+    "type": "adjective"
+  },
+  "dispute": {
+    "en": "dispute",
+    "ko": "이의를 제기하다, 분쟁",
+    "type": "verb"
+  },
+  "ship": {
+    "en": "ship",
+    "ko": "배, 선박",
+    "type": "noun"
+  },
+  "clinic": {
+    "en": "clinic",
+    "ko": "진료소, 의무실",
+    "type": "noun"
+  },
+  "duty-free": {
+    "en": "duty-free",
+    "ko": "면세의",
+    "type": "adjective"
+  },
+  "shops": {
+    "en": "shops",
+    "ko": "상점들",
+    "type": "noun"
+  },
+  "toiletries": {
+    "en": "toiletries",
+    "ko": "세면도구",
+    "type": "noun"
+  },
+  "self-service": {
+    "en": "self-service",
+    "ko": "셀프 서비스",
+    "type": "noun"
+  },
+  "request": {
+    "en": "request",
+    "ko": "요청하다",
+    "type": "verb"
+  },
+  "pillows": {
+    "en": "pillows",
+    "ko": "베개들",
+    "type": "noun"
+  },
+  "blankets": {
+    "en": "blankets",
+    "ko": "담요들",
+    "type": "noun"
+  },
+  "steward": {
+    "en": "steward",
+    "ko": "승무원, 객실 담당자",
+    "type": "noun"
+  },
+  "operate": {
+    "en": "operate",
+    "ko": "작동하다, 조작하다",
+    "type": "verb"
+  },
+  "valuables": {
+    "en": "valuables",
+    "ko": "귀중품",
+    "type": "noun"
+  },
+  "captain's": {
+    "en": "captain's",
+    "ko": "선장의",
+    "type": "noun"
+  },
+  "reception": {
+    "en": "reception",
+    "ko": "환영회, 리셉션",
+    "type": "noun"
+  },
+  "gallery": {
+    "en": "gallery",
+    "ko": "갤러리, 화랑",
+    "type": "noun"
+  },
+  "art": {
+    "en": "art",
+    "ko": "예술, 미술",
+    "type": "noun"
+  },
+  "auctions": {
+    "en": "auctions",
+    "ko": "경매들",
+    "type": "noun"
+  },
+  "designated": {
+    "en": "designated",
+    "ko": "지정된",
+    "type": "adjective"
+  },
+  "balcony": {
+    "en": "balcony",
+    "ko": "발코니",
+    "type": "noun"
+  },
+  "disembarkation": {
+    "en": "disembarkation",
+    "ko": "하선, 상륙",
+    "type": "noun"
+  },
+  "briefing": {
+    "en": "briefing",
+    "ko": "브리핑, 설명회",
+    "type": "noun"
+  },
+  "tags": {
+    "en": "tags",
+    "ko": "태그들, 꼬리표들",
+    "type": "noun"
+  },
+  "disembark": {
+    "en": "disembark",
+    "ko": "하선하다, 내리다",
+    "type": "verb"
+  },
+  "self-assist": {
+    "en": "self-assist",
+    "ko": "셀프 어시스트 (직접 짐 들고 내리기)",
+    "type": "noun"
+  },
+  "carry": {
+    "en": "carry",
+    "ko": "나르다, 들고 가다",
+    "type": "verb"
+  },
+  "due": {
+    "en": "due",
+    "ko": "~때문에, 기한이 된",
+    "type": "adjective"
+  },
+  "tender": {
+    "en": "tender",
+    "ko": "텐더보트, 연락선",
+    "type": "noun"
+  },
+  "boat": {
+    "en": "boat",
+    "ko": "보트, 배",
+    "type": "noun"
+  },
+  "boats": {
+    "en": "boats",
+    "ko": "보트들",
+    "type": "noun"
+  },
+  "depart": {
+    "en": "depart",
+    "ko": "출발하다",
+    "type": "verb"
+  },
+  "sea": {
+    "en": "sea",
+    "ko": "바다",
+    "type": "noun"
+  },
+  "rough": {
+    "en": "rough",
+    "ko": "거친, 파도가 심한",
+    "type": "adjective"
+  },
+  "ocean": {
+    "en": "ocean",
+    "ko": "대양, 바다",
+    "type": "noun"
+  },
+  "aft": {
+    "en": "aft",
+    "ko": "선미, 배의 뒤쪽",
+    "type": "noun"
+  },
+  "adults-only": {
+    "en": "adults-only",
+    "ko": "성인 전용의",
+    "type": "adjective"
+  },
+  "cabana": {
+    "en": "cabana",
+    "ko": "카바나, 방갈로",
+    "type": "noun"
+  },
+  "nightclub": {
+    "en": "nightclub",
+    "ko": "나이트클럽",
+    "type": "noun"
+  },
+  "trivia": {
+    "en": "trivia",
+    "ko": "상식 퀴즈",
+    "type": "noun"
+  },
+  "games": {
+    "en": "games",
+    "ko": "게임들",
+    "type": "noun"
+  },
+  "participate": {
+    "en": "participate",
+    "ko": "참여하다",
+    "type": "verb"
+  },
+  "karaoke": {
+    "en": "karaoke",
+    "ko": "가라오케, 노래방",
+    "type": "noun"
+  },
+  "wonderful": {
+    "en": "wonderful",
+    "ko": "멋진, 훌륭한",
+    "type": "adjective"
   }
 }

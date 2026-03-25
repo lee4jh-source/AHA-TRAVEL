@@ -143,34 +143,41 @@ const HomeTab = ({ navigateToLearning }: { navigateToLearning: (category: string
     </section>
 
     <div className="grid grid-cols-2 gap-4">
-      <GridItem icon={<PlaneLanding size={32} />} title="1_공항&비행기" onClick={() => navigateToLearning('airport')} />
-      <GridItem icon={<Hotel size={32} />} title="2_호텔" onClick={() => navigateToLearning('hotel')} />
-      <GridItem icon={<Utensils size={32} />} title="3_식당" onClick={() => navigateToLearning('dining')} />
-      <GridItem icon={<Train size={32} />} title="4_대중교통" onClick={() => navigateToLearning('transit')} />
-      <GridItem icon={<ShoppingBag size={32} />} title="5_쇼핑" onClick={() => navigateToLearning('shopping')} />
-      <GridItem icon={<Coffee size={32} />} title="6_카페" onClick={() => navigateToLearning('cafe')} />
-      <GridItem icon={<TriangleAlert size={32} className="text-[#a93100]" />} title="7_위급상황&도움요청" onClick={() => navigateToLearning('emergency')} />
-      <GridItem icon={<Stethoscope size={32} />} title="8_병원&약국" onClick={() => navigateToLearning('hospital')} />
-      <GridItem icon={<Shield size={32} />} title="9_경찰서_분실신고" onClick={() => navigateToLearning('police')} />
-      <GridItem icon={<MapPin size={32} />} title="10_길찾기&길묻기" onClick={() => navigateToLearning('navigation')} />
-      <GridItem icon={<Camera size={32} />} title="11_관광지" onClick={() => navigateToLearning('sightseeing')} />
-      <GridItem icon={<Smartphone size={32} />} title="12_유심&통신" onClick={() => navigateToLearning('sim')} />
-      <GridItem icon={<Landmark size={32} />} title="13_환전&은행" onClick={() => navigateToLearning('bank')} />
-      <GridItem icon={<Languages size={32} />} title="14_인사&소통&문화" onClick={() => navigateToLearning('communication')} />
-      <GridItem icon={<Ship size={32} />} title="15_크루즈여행" onClick={() => navigateToLearning('cruise')} />
+      <GridItem icon={<PlaneLanding size={28} />} title="1_공항&비행기" colorClass="text-sky-500" bgClass="bg-sky-50" onClick={() => navigateToLearning('airport')} />
+      <GridItem icon={<Hotel size={28} />} title="2_호텔" colorClass="text-amber-500" bgClass="bg-amber-50" onClick={() => navigateToLearning('hotel')} />
+      <GridItem icon={<Utensils size={28} />} title="3_식당" colorClass="text-emerald-500" bgClass="bg-emerald-50" onClick={() => navigateToLearning('dining')} />
+      <GridItem icon={<Train size={28} />} title="4_대중교통" colorClass="text-indigo-500" bgClass="bg-indigo-50" onClick={() => navigateToLearning('transit')} />
+      <GridItem icon={<ShoppingBag size={28} />} title="5_쇼핑" colorClass="text-rose-500" bgClass="bg-rose-50" onClick={() => navigateToLearning('shopping')} />
+      <GridItem icon={<Coffee size={28} />} title="6_카페" colorClass="text-orange-500" bgClass="bg-orange-50" onClick={() => navigateToLearning('cafe')} />
+      <GridItem icon={<TriangleAlert size={28} />} title="7_위급상황&도움요청" colorClass="text-red-500" bgClass="bg-red-50" onClick={() => navigateToLearning('emergency')} />
+      <GridItem icon={<Stethoscope size={28} />} title="8_병원&약국" colorClass="text-teal-500" bgClass="bg-teal-50" onClick={() => navigateToLearning('hospital')} />
+      <GridItem icon={<Shield size={28} />} title="9_경찰서_분실신고" colorClass="text-blue-600" bgClass="bg-blue-50" onClick={() => navigateToLearning('police')} />
+      <GridItem icon={<MapPin size={28} />} title="10_길찾기&길묻기" colorClass="text-slate-600" bgClass="bg-slate-100" onClick={() => navigateToLearning('navigation')} />
+      <GridItem icon={<Camera size={28} />} title="11_관광지" colorClass="text-violet-500" bgClass="bg-violet-50" onClick={() => navigateToLearning('sightseeing')} />
+      <GridItem icon={<Smartphone size={28} />} title="12_유심&통신" colorClass="text-cyan-500" bgClass="bg-cyan-50" onClick={() => navigateToLearning('sim')} />
+      <GridItem icon={<Landmark size={28} />} title="13_환전&은행" colorClass="text-lime-600" bgClass="bg-lime-50" onClick={() => navigateToLearning('bank')} />
+      <GridItem icon={<Languages size={28} />} title="14_인사&소통&문화" colorClass="text-fuchsia-500" bgClass="bg-fuchsia-50" onClick={() => navigateToLearning('communication')} />
+      <GridItem icon={<Ship size={28} />} title="15_크루즈여행" colorClass="text-cyan-700" bgClass="bg-cyan-50" onClick={() => navigateToLearning('cruise')} />
     </div>
   </main>
 );
 
-const GridItem = ({ icon, title, onClick }: { icon: React.ReactNode, title: string, onClick?: () => void }) => (
-  <div 
-    onClick={onClick}
-    className="bg-[#ffffff] p-4 rounded-3xl flex flex-col items-center justify-center text-center aspect-square transition-all hover:bg-[#f3f3f3] shadow-sm cursor-pointer active:scale-95"
-  >
-    <div className="text-[#041627] mb-2">{icon}</div>
-    <span className="text-[#041627] font-semibold text-[0.9rem] leading-tight break-keep">{title}</span>
-  </div>
-);
+const GridItem = ({ icon, title, colorClass, bgClass, onClick }: { icon: React.ReactNode, title: string, colorClass: string, bgClass: string, onClick?: () => void }) => {
+  const parts = title.split('_');
+  const displayTitle = parts.length > 1 ? parts.slice(1).join(' ').replace(/_/g, '/') : title;
+  
+  return (
+    <div 
+      onClick={onClick}
+      className="bg-white p-5 rounded-[1.5rem] flex flex-col items-center justify-center text-center aspect-square transition-all hover:-translate-y-1 hover:shadow-md shadow-sm cursor-pointer active:scale-95 border border-slate-100 group"
+    >
+      <div className={`w-16 h-16 rounded-2xl flex items-center justify-center mb-4 transition-transform group-hover:scale-110 ${bgClass} ${colorClass}`}>
+        {icon}
+      </div>
+      <span className="text-[#041627] font-bold text-[0.95rem] leading-tight break-keep">{displayTitle}</span>
+    </div>
+  );
+};
 
 const SpeakingModal = ({ queue, onClose }: { queue: any[], onClose: () => void }) => {
   const [idx, setIdx] = useState(0);
@@ -354,9 +361,9 @@ const SpeakingModal = ({ queue, onClose }: { queue: any[], onClose: () => void }
         <div className="flex flex-col items-center justify-center w-full mt-6 min-h-[3rem]">
           {score === null ? (
             <p className="text-[#74777d] font-medium">마이크 버튼을 클릭하세요.</p>
-          ) : (
+          ) : idx < queue.length - 1 && (
             <button onClick={handleNext} className="w-full py-3 bg-[#041627] text-white font-bold rounded-xl hover:bg-[#1a2b3c] transition-colors">
-              {idx < queue.length - 1 ? '다음 문장' : '완료'}
+              다음 문장
             </button>
           )}
         </div>
@@ -610,7 +617,7 @@ const LearningTab = ({ category, setRecentSentences }: { category: string, setRe
             <span className="text-[#041627] font-bold text-sm">전체 동작</span>
           </div>
           <span className="text-[#a93100] font-bold text-[0.75rem] tracking-widest uppercase bg-[#ffdbd0] px-3 py-1 rounded-full shadow-sm w-fit">
-            {data.title}
+            {data.title.replace(/^\d+_/, '').replace(/_/g, '/')}
           </span>
         </div>
         <div className="flex gap-2">

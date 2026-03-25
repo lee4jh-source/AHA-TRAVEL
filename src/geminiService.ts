@@ -5,17 +5,23 @@ export const fetchWordDefinition = async (word: string): Promise<{ word: string,
   try {
     // Clean the word to match dictionary keys (lowercase, remove punctuation except hyphens and apostrophes)
     const cleanWord = word.toLowerCase().replace(/[^a-z0-9-']/g, '');
-    const def = (dictionaryData as any)[cleanWord];
+    let def = (dictionaryData as any)[cleanWord];
     
-    if (def) {
-      return def;
+    if (!def) {
+      // Fallback: try finding a key that includes the word or vice versa if exact match fails
+      const keys = Object.keys(dictionaryData);
+      const partialMatch = keys.find(k => k === cleanWord || cleanWord.startsWith(k) || k.startsWith(cleanWord));
+      if (partialMatch) {
+        def = (dictionaryData as any)[partialMatch];
+      }
     }
-    
-    // Fallback: try finding a key that includes the word or vice versa if exact match fails
-    const keys = Object.keys(dictionaryData);
-    const partialMatch = keys.find(k => k === cleanWord || cleanWord.startsWith(k) || k.startsWith(cleanWord));
-    if (partialMatch) {
-      return (dictionaryData as any)[partialMatch];
+
+    if (def) {
+      return {
+        word: def.word || def.en || cleanWord,
+        phonetic: def.phonetic || '',
+        meanings: def.meanings || (def.ko ? [def.ko] : [])
+      };
     }
 
     return null;
