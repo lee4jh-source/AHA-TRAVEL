@@ -1,0 +1,5022 @@
+{
+  "where": {
+    "word": "where",
+    "phonetic": "[wer]",
+    "meanings": [
+      "1. 어디에, 어디로",
+      "2. 곳, 장소"
+    ]
+  },
+  "is": {
+    "word": "is",
+    "phonetic": "[ɪz]",
+    "meanings": [
+      "1. ~이다",
+      "2. 있다"
+    ]
+  },
+  "the": {
+    "word": "the",
+    "phonetic": "[ðə]",
+    "meanings": [
+      "1. 그 (특정한 사람이나 사물을 가리킬 때)"
+    ]
+  },
+  "check-in": {
+    "word": "check-in",
+    "phonetic": "[ˈtʃek ɪn]",
+    "meanings": [
+      "1. 탑승 수속",
+      "2. 체크인"
+    ]
+  },
+  "counter": {
+    "word": "counter",
+    "phonetic": "[ˈkaʊntər]",
+    "meanings": [
+      "1. 계산대, 카운터",
+      "2. 반대의"
+    ]
+  },
+  "i": {
+    "word": "I",
+    "phonetic": "[aɪ]",
+    "meanings": [
+      "1. 나는, 내가"
+    ]
+  },
+  "have": {
+    "word": "have",
+    "phonetic": "[hæv]",
+    "meanings": [
+      "1. 가지다, 소유하다",
+      "2. 먹다, 마시다"
+    ]
+  },
+  "a": {
+    "word": "a",
+    "phonetic": "[ə]",
+    "meanings": [
+      "1. 하나의, 어떤"
+    ]
+  },
+  "connecting": {
+    "word": "connecting",
+    "phonetic": "[kəˈnektɪŋ]",
+    "meanings": [
+      "1. 연결하는",
+      "2. 환승하는"
+    ]
+  },
+  "flight": {
+    "word": "flight",
+    "phonetic": "[flaɪt]",
+    "meanings": [
+      "1. 비행, 항공편",
+      "2. 비행기"
+    ]
+  },
+  "baggage": {
+    "word": "baggage",
+    "phonetic": "[ˈbæɡɪdʒ]",
+    "meanings": [
+      "1. 수하물, 짐"
+    ]
+  },
+  "claim": {
+    "word": "claim",
+    "phonetic": "[kleɪm]",
+    "meanings": [
+      "1. 요구하다, 청구하다",
+      "2. (수하물) 찾는 곳"
+    ]
+  },
+  "this": {
+    "word": "this",
+    "phonetic": "[ðɪs]",
+    "meanings": [
+      "1. 이것",
+      "2. 이"
+    ]
+  },
+  "to": {
+    "word": "to",
+    "phonetic": "[tu]",
+    "meanings": [
+      "1. ~로, ~쪽으로",
+      "2. ~에게"
+    ]
+  },
+  "new": {
+    "word": "new",
+    "phonetic": "[nuː]",
+    "meanings": [
+      "1. 새로운, 새"
+    ]
+  },
+  "york": {
+    "word": "york",
+    "phonetic": "[jɔːrk]",
+    "meanings": [
+      "1. 요크 (지명)"
+    ]
+  },
+  "can": {
+    "word": "can",
+    "phonetic": "[kæn]",
+    "meanings": [
+      "1. ~할 수 있다",
+      "2. 깡통"
+    ]
+  },
+  "take": {
+    "word": "take",
+    "phonetic": "[teɪk]",
+    "meanings": [
+      "1. 받다",
+      "2. 가져가다"
+    ]
+  },
+  "on": {
+    "word": "on",
+    "phonetic": "[ɑːn]",
+    "meanings": [
+      "1. ~위에",
+      "2. ~에"
+    ]
+  },
+  "plane": {
+    "word": "plane",
+    "phonetic": "[pleɪn]",
+    "meanings": [
+      "1. 비행기",
+      "2. 평면"
+    ]
+  },
+  "departure": {
+    "word": "departure",
+    "phonetic": "[dɪˈpɑːrtʃər]",
+    "meanings": [
+      "1. 출발, 떠남"
+    ]
+  },
+  "gate": {
+    "word": "gate",
+    "phonetic": "[ɡeɪt]",
+    "meanings": [
+      "1. 문, 정문",
+      "2. 탑승구"
+    ]
+  },
+  "my": {
+    "word": "my",
+    "phonetic": "[maɪ]",
+    "meanings": [
+      "1. 나의"
+    ]
+  },
+  "delayed": {
+    "word": "delayed",
+    "phonetic": "[dɪˈleɪd]",
+    "meanings": [
+      "1. 지연된, 연착된"
+    ]
+  },
+  "missed": {
+    "word": "missed",
+    "phonetic": "[mɪst]",
+    "meanings": [
+      "1. 놓친",
+      "2. 그리운"
+    ]
+  },
+  "get": {
+    "word": "get",
+    "phonetic": "[ɡet]",
+    "meanings": [
+      "1. 얻다, 구하다",
+      "2. 도착하다"
+    ]
+  },
+  "luggage": {
+    "word": "luggage",
+    "phonetic": "[ˈlʌɡɪdʒ]",
+    "meanings": [
+      "1. 수하물, 짐"
+    ]
+  },
+  "cart": {
+    "word": "cart",
+    "phonetic": "[kɑːrt]",
+    "meanings": [
+      "1. 카트, 수레"
+    ]
+  },
+  "nothing": {
+    "word": "nothing",
+    "phonetic": "[ˈnʌθɪŋ]",
+    "meanings": [
+      "1. 아무것도 ~아니다"
+    ]
+  },
+  "declare": {
+    "word": "declare",
+    "phonetic": "[dɪˈkler]",
+    "meanings": [
+      "1. 선언하다",
+      "2. (세관에) 신고하다"
+    ]
+  },
+  "please": {
+    "word": "please",
+    "phonetic": "[pliːz]",
+    "meanings": [
+      "1. 제발, 부디",
+      "2. 기쁘게 하다"
+    ]
+  },
+  "reservation": {
+    "word": "reservation",
+    "phonetic": "[ˌrezərˈveɪʃn]",
+    "meanings": [
+      "1. 예약"
+    ]
+  },
+  "under": {
+    "word": "under",
+    "phonetic": "[ˈʌndər]",
+    "meanings": [
+      "1. ~아래에",
+      "2. ~의 이름으로"
+    ]
+  },
+  "name": {
+    "word": "name",
+    "phonetic": "[neɪm]",
+    "meanings": [
+      "1. 이름",
+      "2. 지명하다"
+    ]
+  },
+  "could": {
+    "word": "could",
+    "phonetic": "[kʊd]",
+    "meanings": [
+      "1. ~할 수 있었다",
+      "2. ~해 주시겠어요? (정중한 요청)"
+    ]
+  },
+  "late": {
+    "word": "late",
+    "phonetic": "[leɪt]",
+    "meanings": [
+      "1. 늦은",
+      "2. 늦게"
+    ]
+  },
+  "check-out": {
+    "word": "check-out",
+    "phonetic": "[ˈtʃek aʊt]",
+    "meanings": [
+      "1. 체크아웃, 퇴실"
+    ]
+  },
+  "wi-fi": {
+    "word": "wi-fi",
+    "phonetic": "[ˈwaɪ faɪ]",
+    "meanings": [
+      "1. 와이파이, 무선 인터넷"
+    ]
+  },
+  "isn't": {
+    "word": "isn't",
+    "phonetic": "[ˈɪznt]",
+    "meanings": [
+      "1. is not의 축약형"
+    ]
+  },
+  "working": {
+    "word": "working",
+    "phonetic": "[ˈwɜːrkɪŋ]",
+    "meanings": [
+      "1. 일하는",
+      "2. 작동하는"
+    ]
+  },
+  "bring": {
+    "word": "bring",
+    "phonetic": "[brɪŋ]",
+    "meanings": [
+      "1. 가져오다"
+    ]
+  },
+  "some": {
+    "word": "some",
+    "phonetic": "[sʌm]",
+    "meanings": [
+      "1. 약간의",
+      "2. 몇몇의"
+    ]
+  },
+  "extra": {
+    "word": "extra",
+    "phonetic": "[ˈekstrə]",
+    "meanings": [
+      "1. 추가의, 여분의"
+    ]
+  },
+  "towels": {
+    "word": "towels",
+    "phonetic": "[ˈtaʊəlz]",
+    "meanings": [
+      "1. 수건들"
+    ]
+  },
+  "breakfast": {
+    "word": "breakfast",
+    "phonetic": "[ˈbrekfəst]",
+    "meanings": [
+      "1. 아침 식사"
+    ]
+  },
+  "area": {
+    "word": "area",
+    "phonetic": "[ˈeriə]",
+    "meanings": [
+      "1. 지역, 구역"
+    ]
+  },
+  "make": {
+    "word": "make",
+    "phonetic": "[meɪk]",
+    "meanings": [
+      "1. 만들다",
+      "2. ~하게 하다"
+    ]
+  },
+  "up": {
+    "word": "up",
+    "phonetic": "[ʌp]",
+    "meanings": [
+      "1. 위로"
+    ]
+  },
+  "room": {
+    "word": "room",
+    "phonetic": "[ruːm]",
+    "meanings": [
+      "1. 방, 객실",
+      "2. 공간"
+    ]
+  },
+  "lost": {
+    "word": "lost",
+    "phonetic": "[lɔːst]",
+    "meanings": [
+      "1. 잃어버린",
+      "2. 길을 잃은"
+    ]
+  },
+  "key": {
+    "word": "key",
+    "phonetic": "[kiː]",
+    "meanings": [
+      "1. 열쇠",
+      "2. 핵심"
+    ]
+  },
+  "you": {
+    "word": "you",
+    "phonetic": "[ju]",
+    "meanings": [
+      "1. 너",
+      "2. 당신"
+    ]
+  },
+  "keep": {
+    "word": "keep",
+    "phonetic": "[kiːp]",
+    "meanings": [
+      "1. 유지하다",
+      "2. 보관하다"
+    ]
+  },
+  "table": {
+    "word": "table",
+    "phonetic": "[ˈteɪbl]",
+    "meanings": [
+      "1. 탁자, 식탁",
+      "2. 표"
+    ]
+  },
+  "for": {
+    "word": "for",
+    "phonetic": "[fɔːr]",
+    "meanings": [
+      "1. ~을 위해",
+      "2. ~에 대해"
+    ]
+  },
+  "two": {
+    "word": "two",
+    "phonetic": "[tuː]",
+    "meanings": [
+      "1. 둘, 2"
+    ]
+  },
+  "see": {
+    "word": "see",
+    "phonetic": "[siː]",
+    "meanings": [
+      "1. 보다",
+      "2. 알다, 이해하다"
+    ]
+  },
+  "menu": {
+    "word": "menu",
+    "phonetic": "[ˈmenjuː]",
+    "meanings": [
+      "1. 메뉴, 식단"
+    ]
+  },
+  "what": {
+    "word": "what",
+    "phonetic": "[wʌt]",
+    "meanings": [
+      "1. 무엇",
+      "2. 무슨"
+    ]
+  },
+  "do": {
+    "word": "do",
+    "phonetic": "[duː]",
+    "meanings": [
+      "1. 하다"
+    ]
+  },
+  "recommend": {
+    "word": "recommend",
+    "phonetic": "[ˌrekəˈmend]",
+    "meanings": [
+      "1. 추천하다"
+    ]
+  },
+  "order": {
+    "word": "order",
+    "phonetic": "[ˈɔːrdər]",
+    "meanings": [
+      "1. 주문하다",
+      "2. 명령하다",
+      "3. 순서"
+    ]
+  },
+  "no": {
+    "word": "no",
+    "phonetic": "[noʊ]",
+    "meanings": [
+      "1. 아니오",
+      "2. 없는"
+    ]
+  },
+  "cilantro": {
+    "word": "cilantro",
+    "phonetic": "[sɪˈlæntroʊ]",
+    "meanings": [
+      "1. 고수 (허브)"
+    ]
+  },
+  "water": {
+    "word": "water",
+    "phonetic": "[ˈwɔːtər]",
+    "meanings": [
+      "1. 물"
+    ]
+  },
+  "not": {
+    "word": "not",
+    "phonetic": "[nɑːt]",
+    "meanings": [
+      "1. 아니다, 않다"
+    ]
+  },
+  "ordered": {
+    "word": "ordered",
+    "phonetic": "[ˈɔːrdərd]",
+    "meanings": [
+      "1. 주문한",
+      "2. 정돈된"
+    ]
+  },
+  "we": {
+    "word": "we",
+    "phonetic": "[wi]",
+    "meanings": [
+      "1. 우리는, 우리가"
+    ]
+  },
+  "bill": {
+    "word": "bill",
+    "phonetic": "[bɪl]",
+    "meanings": [
+      "1. 청구서",
+      "2. 계산서"
+    ]
+  },
+  "credit": {
+    "word": "credit",
+    "phonetic": "[ˈkredɪt]",
+    "meanings": [
+      "1. 신용"
+    ]
+  },
+  "cards": {
+    "word": "cards",
+    "phonetic": "[kɑːrdz]",
+    "meanings": [
+      "1. 카드들"
+    ]
+  },
+  "go": {
+    "word": "go",
+    "phonetic": "[ɡoʊ]",
+    "meanings": [
+      "1. 가다",
+      "2. (포장해서) 가져가다"
+    ]
+  },
+  "which": {
+    "word": "which",
+    "phonetic": "[wɪtʃ]",
+    "meanings": [
+      "1. 어느 것",
+      "2. 어떤"
+    ]
+  },
+  "platform": {
+    "word": "platform",
+    "phonetic": "[ˈplætfɔːrm]",
+    "meanings": [
+      "1. 승강장, 플랫폼"
+    ]
+  },
+  "one": {
+    "word": "one",
+    "phonetic": "[wʌn]",
+    "meanings": [
+      "1. 하나",
+      "2. 한"
+    ]
+  },
+  "ticket": {
+    "word": "ticket",
+    "phonetic": "[ˈtɪkɪt]",
+    "meanings": [
+      "1. 표, 티켓"
+    ]
+  },
+  "london": {
+    "word": "london",
+    "phonetic": "[ˈlʌndən]",
+    "meanings": [
+      "1. 런던"
+    ]
+  },
+  "does": {
+    "word": "does",
+    "phonetic": "[dʌz]",
+    "meanings": [
+      "1. do의 3인칭 단수형"
+    ]
+  },
+  "bus": {
+    "word": "bus",
+    "phonetic": "[bʌs]",
+    "meanings": [
+      "1. 버스"
+    ]
+  },
+  "airport": {
+    "word": "airport",
+    "phonetic": "[ˈerpɔːrt]",
+    "meanings": [
+      "1. 공항"
+    ]
+  },
+  "how": {
+    "word": "how",
+    "phonetic": "[haʊ]",
+    "meanings": [
+      "1. 어떻게",
+      "2. 얼마나"
+    ]
+  },
+  "much": {
+    "word": "much",
+    "phonetic": "[mʌtʃ]",
+    "meanings": [
+      "1. 많은",
+      "2. 얼마 (how much)"
+    ]
+  },
+  "fare": {
+    "word": "fare",
+    "phonetic": "[fer]",
+    "meanings": [
+      "1. 요금, 운임"
+    ]
+  },
+  "nearest": {
+    "word": "nearest",
+    "phonetic": "[ˈnɪrɪst]",
+    "meanings": [
+      "1. 가장 가까운"
+    ]
+  },
+  "subway": {
+    "word": "subway",
+    "phonetic": "[ˈsʌbweɪ]",
+    "meanings": [
+      "1. 지하철"
+    ]
+  },
+  "station": {
+    "word": "station",
+    "phonetic": "[ˈsteɪʃn]",
+    "meanings": [
+      "1. 역",
+      "2. 정거장"
+    ]
+  },
+  "next": {
+    "word": "next",
+    "phonetic": "[nekst]",
+    "meanings": [
+      "1. 다음의",
+      "2. 옆의"
+    ]
+  },
+  "stop": {
+    "word": "stop",
+    "phonetic": "[stɑːp]",
+    "meanings": [
+      "1. 멈추다",
+      "2. 정류장"
+    ]
+  },
+  "train": {
+    "word": "train",
+    "phonetic": "[treɪn]",
+    "meanings": [
+      "1. 기차",
+      "2. 훈련하다"
+    ]
+  },
+  "buy": {
+    "word": "buy",
+    "phonetic": "[baɪ]",
+    "meanings": [
+      "1. 사다",
+      "2. 구매하다"
+    ]
+  },
+  "transit": {
+    "word": "transit",
+    "phonetic": "[ˈtrænzɪt]",
+    "meanings": [
+      "1. 수송, 환승",
+      "2. 대중교통"
+    ]
+  },
+  "card": {
+    "word": "card",
+    "phonetic": "[kɑːrd]",
+    "meanings": [
+      "1. 카드"
+    ]
+  },
+  "recharge": {
+    "word": "recharge",
+    "phonetic": "[ˌriːˈtʃɑːrdʒ]",
+    "meanings": [
+      "1. 충전하다"
+    ]
+  },
+  "here": {
+    "word": "here",
+    "phonetic": "[hɪr]",
+    "meanings": [
+      "1. 여기에",
+      "2. 이곳에"
+    ]
+  },
+  "let": {
+    "word": "let",
+    "phonetic": "[let]",
+    "meanings": [
+      "1. ~하게 하다",
+      "2. 허락하다"
+    ]
+  },
+  "me": {
+    "word": "me",
+    "phonetic": "[mi]",
+    "meanings": [
+      "1. 나를",
+      "2. 나에게"
+    ]
+  },
+  "off": {
+    "word": "off",
+    "phonetic": "[ɔːf]",
+    "meanings": [
+      "1. 떨어져서",
+      "2. 내리는"
+    ]
+  },
+  "at": {
+    "word": "at",
+    "phonetic": "[æt]",
+    "meanings": [
+      "1. ~에",
+      "2. ~에서"
+    ]
+  },
+  "tax-free": {
+    "word": "tax-free",
+    "phonetic": "[ˌtæks ˈfriː]",
+    "meanings": [
+      "1. 면세의"
+    ]
+  },
+  "in": {
+    "word": "in",
+    "phonetic": "[ɪn]",
+    "meanings": [
+      "1. ~안에"
+    ]
+  },
+  "larger": {
+    "word": "larger",
+    "phonetic": "[ˈlɑːrdʒər]",
+    "meanings": [
+      "1. 더 큰"
+    ]
+  },
+  "size": {
+    "word": "size",
+    "phonetic": "[saɪz]",
+    "meanings": [
+      "1. 크기, 사이즈"
+    ]
+  },
+  "try": {
+    "word": "try",
+    "phonetic": "[traɪ]",
+    "meanings": [
+      "1. 시도하다",
+      "2. 입어보다 (try on)"
+    ]
+  },
+  "i'm": {
+    "word": "I'm",
+    "phonetic": "[aɪm]",
+    "meanings": [
+      "1. I am의 축약형"
+    ]
+  },
+  "just": {
+    "word": "just",
+    "phonetic": "[dʒʌst]",
+    "meanings": [
+      "1. 단지, 그냥",
+      "2. 방금"
+    ]
+  },
+  "looking": {
+    "word": "looking",
+    "phonetic": "[ˈlʊkɪŋ]",
+    "meanings": [
+      "1. 보는 중인",
+      "2. 구경하는"
+    ]
+  },
+  "thank": {
+    "word": "thank",
+    "phonetic": "[θæŋk]",
+    "meanings": [
+      "1. 감사하다"
+    ]
+  },
+  "any": {
+    "word": "any",
+    "phonetic": "[ˈeni]",
+    "meanings": [
+      "1. 어떤",
+      "2. 아무"
+    ]
+  },
+  "discounts": {
+    "word": "discounts",
+    "phonetic": "[ˈdɪskaʊnts]",
+    "meanings": [
+      "1. 할인(들)"
+    ]
+  },
+  "will": {
+    "word": "will",
+    "phonetic": "[wɪl]",
+    "meanings": [
+      "1. ~할 것이다",
+      "2. 의지"
+    ]
+  },
+  "receipt": {
+    "word": "receipt",
+    "phonetic": "[rɪˈsiːt]",
+    "meanings": [
+      "1. 영수증"
+    ]
+  },
+  "accept": {
+    "word": "accept",
+    "phonetic": "[əkˈsept]",
+    "meanings": [
+      "1. 받아들이다",
+      "2. 수락하다"
+    ]
+  },
+  "apple": {
+    "word": "apple",
+    "phonetic": "[ˈæpl]",
+    "meanings": [
+      "1. 사과",
+      "2. 애플 (기업명)"
+    ]
+  },
+  "pay": {
+    "word": "pay",
+    "phonetic": "[peɪ]",
+    "meanings": [
+      "1. 지불하다",
+      "2. 결제하다"
+    ]
+  },
+  "would": {
+    "word": "would",
+    "phonetic": "[wʊd]",
+    "meanings": [
+      "1. ~할 것이다",
+      "2. ~하고 싶다 (would like)"
+    ]
+  },
+  "like": {
+    "word": "like",
+    "phonetic": "[laɪk]",
+    "meanings": [
+      "1. ~처럼",
+      "2. 좋아하다"
+    ]
+  },
+  "return": {
+    "word": "return",
+    "phonetic": "[rɪˈtɜːrn]",
+    "meanings": [
+      "1. 돌아오다",
+      "2. 반품하다"
+    ]
+  },
+  "iced": {
+    "word": "iced",
+    "phonetic": "[aɪst]",
+    "meanings": [
+      "1. 얼음을 넣은",
+      "2. 차가운"
+    ]
+  },
+  "americano": {
+    "word": "americano",
+    "phonetic": "[əˌmerɪˈkɑːnoʊ]",
+    "meanings": [
+      "1. 아메리카노 (커피)"
+    ]
+  },
+  "or": {
+    "word": "or",
+    "phonetic": "[ɔːr]",
+    "meanings": [
+      "1. 또는, 혹은"
+    ]
+  },
+  "shot": {
+    "word": "shot",
+    "phonetic": "[ʃɑːt]",
+    "meanings": [
+      "1. 발사",
+      "2. (커피) 샷"
+    ]
+  },
+  "with": {
+    "word": "with",
+    "phonetic": "[wɪð]",
+    "meanings": [
+      "1. ~와 함께",
+      "2. ~을 가지고"
+    ]
+  },
+  "oat": {
+    "word": "oat",
+    "phonetic": "[oʊt]",
+    "meanings": [
+      "1. 귀리"
+    ]
+  },
+  "milk": {
+    "word": "milk",
+    "phonetic": "[mɪlk]",
+    "meanings": [
+      "1. 우유"
+    ]
+  },
+  "syrup": {
+    "word": "syrup",
+    "phonetic": "[ˈsɪrəp]",
+    "meanings": [
+      "1. 시럽"
+    ]
+  },
+  "your": {
+    "word": "your",
+    "phonetic": "[jʊr]",
+    "meanings": [
+      "1. 너의",
+      "2. 당신의"
+    ]
+  },
+  "best-selling": {
+    "word": "best-selling",
+    "phonetic": "[ˌbest ˈselɪŋ]",
+    "meanings": [
+      "1. 가장 잘 팔리는"
+    ]
+  },
+  "dessert": {
+    "word": "dessert",
+    "phonetic": "[dɪˈzɜːrt]",
+    "meanings": [
+      "1. 디저트, 후식"
+    ]
+  },
+  "restroom": {
+    "word": "restroom",
+    "phonetic": "[ˈrestruːm]",
+    "meanings": [
+      "1. 화장실"
+    ]
+  },
+  "password": {
+    "word": "password",
+    "phonetic": "[ˈpæswɜːrd]",
+    "meanings": [
+      "1. 비밀번호"
+    ]
+  },
+  "heat": {
+    "word": "heat",
+    "phonetic": "[hiːt]",
+    "meanings": [
+      "1. 열",
+      "2. 데우다"
+    ]
+  },
+  "help": {
+    "word": "help",
+    "phonetic": "[help]",
+    "meanings": [
+      "1. 돕다",
+      "2. 도움"
+    ]
+  },
+  "call": {
+    "word": "call",
+    "phonetic": "[kɔːl]",
+    "meanings": [
+      "1. 부르다",
+      "2. 전화하다"
+    ]
+  },
+  "an": {
+    "word": "an",
+    "phonetic": "[ən]",
+    "meanings": [
+      "1. 하나의 (모음 앞)"
+    ]
+  },
+  "ambulance": {
+    "word": "ambulance",
+    "phonetic": "[ˈæmbjələns]",
+    "meanings": [
+      "1. 구급차"
+    ]
+  },
+  "need": {
+    "word": "need",
+    "phonetic": "[niːd]",
+    "meanings": [
+      "1. 필요하다",
+      "2. 필요"
+    ]
+  },
+  "doctor": {
+    "word": "doctor",
+    "phonetic": "[ˈdɑːktər]",
+    "meanings": [
+      "1. 의사"
+    ]
+  },
+  "police": {
+    "word": "police",
+    "phonetic": "[pəˈliːs]",
+    "meanings": [
+      "1. 경찰"
+    ]
+  },
+  "fire": {
+    "word": "fire",
+    "phonetic": "[ˈfaɪər]",
+    "meanings": [
+      "1. 불, 화재",
+      "2. 해고하다"
+    ]
+  },
+  "passport": {
+    "word": "passport",
+    "phonetic": "[ˈpæspɔːrt]",
+    "meanings": [
+      "1. 여권"
+    ]
+  },
+  "wallet": {
+    "word": "wallet",
+    "phonetic": "[ˈwɑːlɪt]",
+    "meanings": [
+      "1. 지갑"
+    ]
+  },
+  "was": {
+    "word": "was",
+    "phonetic": "[wəz]",
+    "meanings": [
+      "1. is/am의 과거형"
+    ]
+  },
+  "stolen": {
+    "word": "stolen",
+    "phonetic": "[ˈstoʊlən]",
+    "meanings": [
+      "1. 도난당한 (steal의 과거분사)"
+    ]
+  },
+  "korean": {
+    "word": "korean",
+    "phonetic": "[kəˈriːən]",
+    "meanings": [
+      "1. 한국의",
+      "2. 한국인, 한국어"
+    ]
+  },
+  "embassy": {
+    "word": "embassy",
+    "phonetic": "[ˈembəsi]",
+    "meanings": [
+      "1. 대사관"
+    ]
+  },
+  "use": {
+    "word": "use",
+    "phonetic": "[juːz]",
+    "meanings": [
+      "1. 사용하다",
+      "2. 쓰다"
+    ]
+  },
+  "phone": {
+    "word": "phone",
+    "phonetic": "[foʊn]",
+    "meanings": [
+      "1. 전화기",
+      "2. 전화하다"
+    ]
+  },
+  "am": {
+    "word": "am",
+    "phonetic": "[æm]",
+    "meanings": [
+      "1. ~이다 (I와 함께 쓰임)"
+    ]
+  },
+  "fever": {
+    "word": "fever",
+    "phonetic": "[ˈfiːvər]",
+    "meanings": [
+      "1. 열",
+      "2. 열병"
+    ]
+  },
+  "stomach": {
+    "word": "stomach",
+    "phonetic": "[ˈstʌmək]",
+    "meanings": [
+      "1. 위, 배"
+    ]
+  },
+  "hurts": {
+    "word": "hurts",
+    "phonetic": "[hɜːrts]",
+    "meanings": [
+      "1. 아프다 (hurt의 3인칭 단수)"
+    ]
+  },
+  "twisted": {
+    "word": "twisted",
+    "phonetic": "[ˈtwɪstɪd]",
+    "meanings": [
+      "1. 삔",
+      "2. 뒤틀린"
+    ]
+  },
+  "ankle": {
+    "word": "ankle",
+    "phonetic": "[ˈæŋkl]",
+    "meanings": [
+      "1. 발목"
+    ]
+  },
+  "allergic": {
+    "word": "allergic",
+    "phonetic": "[əˈlɜːrdʒɪk]",
+    "meanings": [
+      "1. 알레르기가 있는"
+    ]
+  },
+  "penicillin": {
+    "word": "penicillin",
+    "phonetic": "[ˌpenɪˈsɪlɪn]",
+    "meanings": [
+      "1. 페니실린 (항생제)"
+    ]
+  },
+  "medical": {
+    "word": "medical",
+    "phonetic": "[ˈmedɪkl]",
+    "meanings": [
+      "1. 의학의",
+      "2. 의료의"
+    ]
+  },
+  "certificate": {
+    "word": "certificate",
+    "phonetic": "[sərˈtɪfɪkət]",
+    "meanings": [
+      "1. 증명서",
+      "2. 진단서"
+    ]
+  },
+  "painkillers": {
+    "word": "painkillers",
+    "phonetic": "[ˈpeɪnkɪlərz]",
+    "meanings": [
+      "1. 진통제"
+    ]
+  },
+  "medicine": {
+    "word": "medicine",
+    "phonetic": "[ˈmedɪsn]",
+    "meanings": [
+      "1. 약",
+      "2. 의학"
+    ]
+  },
+  "cold": {
+    "word": "cold",
+    "phonetic": "[koʊld]",
+    "meanings": [
+      "1. 추운",
+      "2. 차가운"
+    ]
+  },
+  "prescription": {
+    "word": "prescription",
+    "phonetic": "[prɪˈskrɪpʃn]",
+    "meanings": [
+      "1. 처방전"
+    ]
+  },
+  "many": {
+    "word": "many",
+    "phonetic": "[ˈmeni]",
+    "meanings": [
+      "1. 많은"
+    ]
+  },
+  "pills": {
+    "word": "pills",
+    "phonetic": "[pɪlz]",
+    "meanings": [
+      "1. 알약들"
+    ]
+  },
+  "should": {
+    "word": "should",
+    "phonetic": "[ʃʊd]",
+    "meanings": [
+      "1. ~해야 한다"
+    ]
+  },
+  "sleepy": {
+    "word": "sleepy",
+    "phonetic": "[ˈsliːpi]",
+    "meanings": [
+      "1. 졸린"
+    ]
+  },
+  "want": {
+    "word": "want",
+    "phonetic": "[wɑːnt]",
+    "meanings": [
+      "1. 원하다"
+    ]
+  },
+  "report": {
+    "word": "report",
+    "phonetic": "[rɪˈpɔːrt]",
+    "meanings": [
+      "1. 보고하다, 신고하다",
+      "2. 보고서"
+    ]
+  },
+  "theft": {
+    "word": "theft",
+    "phonetic": "[θeft]",
+    "meanings": [
+      "1. 절도, 도난"
+    ]
+  },
+  "bag": {
+    "word": "bag",
+    "phonetic": "[bæɡ]",
+    "meanings": [
+      "1. 가방"
+    ]
+  },
+  "exactly": {
+    "word": "exactly",
+    "phonetic": "[ɪɡˈzæktli]",
+    "meanings": [
+      "1. 정확히"
+    ]
+  },
+  "did": {
+    "word": "did",
+    "phonetic": "[dɪd]",
+    "meanings": [
+      "1. do의 과거형"
+    ]
+  },
+  "it": {
+    "word": "it",
+    "phonetic": "[ɪt]",
+    "meanings": [
+      "1. 그것"
+    ]
+  },
+  "happen": {
+    "word": "happen",
+    "phonetic": "[ˈhæpən]",
+    "meanings": [
+      "1. 발생하다, 일어나다"
+    ]
+  },
+  "happened": {
+    "word": "happened",
+    "phonetic": "[ˈhæpənd]",
+    "meanings": [
+      "1. 발생했다"
+    ]
+  },
+  "insurance": {
+    "word": "insurance",
+    "phonetic": "[ɪnˈʃʊrəns]",
+    "meanings": [
+      "1. 보험"
+    ]
+  },
+  "find": {
+    "word": "find",
+    "phonetic": "[faɪnd]",
+    "meanings": [
+      "1. 찾다, 발견하다"
+    ]
+  },
+  "there": {
+    "word": "there",
+    "phonetic": "[ðer]",
+    "meanings": [
+      "1. 거기에",
+      "2. (유도부사) ~이 있다"
+    ]
+  },
+  "found": {
+    "word": "found",
+    "phonetic": "[faʊnd]",
+    "meanings": [
+      "1. 찾았다 (find의 과거형)"
+    ]
+  },
+  "office": {
+    "word": "office",
+    "phonetic": "[ˈɔːfɪs]",
+    "meanings": [
+      "1. 사무실",
+      "2. 관공서"
+    ]
+  },
+  "left": {
+    "word": "left",
+    "phonetic": "[left]",
+    "meanings": [
+      "1. 남겨둔",
+      "2. 왼쪽의",
+      "3. 떠났다 (leave의 과거형)"
+    ]
+  },
+  "taxi": {
+    "word": "taxi",
+    "phonetic": "[ˈtæksi]",
+    "meanings": [
+      "1. 택시"
+    ]
+  },
+  "contact": {
+    "word": "contact",
+    "phonetic": "[ˈkɑːntækt]",
+    "meanings": [
+      "1. 연락하다",
+      "2. 접촉"
+    ]
+  },
+  "information": {
+    "word": "information",
+    "phonetic": "[ˌɪnfərˈmeɪʃn]",
+    "meanings": [
+      "1. 정보"
+    ]
+  },
+  "excuse": {
+    "word": "excuse",
+    "phonetic": "[ɪkˈskjuːz]",
+    "meanings": [
+      "1. 용서하다",
+      "2. 변명"
+    ]
+  },
+  "museum": {
+    "word": "museum",
+    "phonetic": "[mjuˈziːəm]",
+    "meanings": [
+      "1. 박물관"
+    ]
+  },
+  "far": {
+    "word": "far",
+    "phonetic": "[fɑːr]",
+    "meanings": [
+      "1. 멀리",
+      "2. 먼"
+    ]
+  },
+  "from": {
+    "word": "from",
+    "phonetic": "[frəm]",
+    "meanings": [
+      "1. ~로부터"
+    ]
+  },
+  "walk": {
+    "word": "walk",
+    "phonetic": "[wɔːk]",
+    "meanings": [
+      "1. 걷다",
+      "2. 산책"
+    ]
+  },
+  "way": {
+    "word": "way",
+    "phonetic": "[weɪ]",
+    "meanings": [
+      "1. 길, 방향",
+      "2. 방법"
+    ]
+  },
+  "downtown": {
+    "word": "downtown",
+    "phonetic": "[ˌdaʊnˈtaʊn]",
+    "meanings": [
+      "1. 시내, 도심"
+    ]
+  },
+  "show": {
+    "word": "show",
+    "phonetic": "[ʃoʊ]",
+    "meanings": [
+      "1. 보여주다",
+      "2. 쇼, 공연"
+    ]
+  },
+  "map": {
+    "word": "map",
+    "phonetic": "[mæp]",
+    "meanings": [
+      "1. 지도"
+    ]
+  },
+  "straight": {
+    "word": "straight",
+    "phonetic": "[streɪt]",
+    "meanings": [
+      "1. 똑바로, 직진하여"
+    ]
+  },
+  "and": {
+    "word": "and",
+    "phonetic": "[ænd]",
+    "meanings": [
+      "1. 그리고",
+      "2. ~와"
+    ]
+  },
+  "turn": {
+    "word": "turn",
+    "phonetic": "[tɜːrn]",
+    "meanings": [
+      "1. 돌다",
+      "2. 차례"
+    ]
+  },
+  "right": {
+    "word": "right",
+    "phonetic": "[raɪt]",
+    "meanings": [
+      "1. 오른쪽의",
+      "2. 옳은"
+    ]
+  },
+  "think": {
+    "word": "think",
+    "phonetic": "[θɪŋk]",
+    "meanings": [
+      "1. 생각하다"
+    ]
+  },
+  "street": {
+    "word": "street",
+    "phonetic": "[striːt]",
+    "meanings": [
+      "1. 거리, 길"
+    ]
+  },
+  "adult": {
+    "word": "adult",
+    "phonetic": "[əˈdʌlt]",
+    "meanings": [
+      "1. 어른, 성인"
+    ]
+  },
+  "entrance": {
+    "word": "entrance",
+    "phonetic": "[ˈentrəns]",
+    "meanings": [
+      "1. 입구",
+      "2. 입장"
+    ]
+  },
+  "fee": {
+    "word": "fee",
+    "phonetic": "[fiː]",
+    "meanings": [
+      "1. 요금",
+      "2. 수수료"
+    ]
+  },
+  "time": {
+    "word": "time",
+    "phonetic": "[taɪm]",
+    "meanings": [
+      "1. 시간"
+    ]
+  },
+  "close": {
+    "word": "close",
+    "phonetic": "[kloʊz]",
+    "meanings": [
+      "1. 닫다",
+      "2. 가까운"
+    ]
+  },
+  "are": {
+    "word": "are",
+    "phonetic": "[ɑːr]",
+    "meanings": [
+      "1. ~이다",
+      "2. 있다 (be동사 복수형)"
+    ]
+  },
+  "allowed": {
+    "word": "allowed",
+    "phonetic": "[əˈlaʊd]",
+    "meanings": [
+      "1. 허용된"
+    ]
+  },
+  "pictures": {
+    "word": "pictures",
+    "phonetic": "[ˈpɪktʃərz]",
+    "meanings": [
+      "1. 사진들",
+      "2. 그림들"
+    ]
+  },
+  "us": {
+    "word": "us",
+    "phonetic": "[əs]",
+    "meanings": [
+      "1. 우리를, 우리에게"
+    ]
+  },
+  "audio": {
+    "word": "audio",
+    "phonetic": "[ˈɔːdioʊ]",
+    "meanings": [
+      "1. 오디오, 음성의"
+    ]
+  },
+  "guide": {
+    "word": "guide",
+    "phonetic": "[ɡaɪd]",
+    "meanings": [
+      "1. 가이드, 안내원",
+      "2. 안내하다"
+    ]
+  },
+  "souvenir": {
+    "word": "souvenir",
+    "phonetic": "[ˌsuːvəˈnɪr]",
+    "meanings": [
+      "1. 기념품"
+    ]
+  },
+  "shop": {
+    "word": "shop",
+    "phonetic": "[ʃɑːp]",
+    "meanings": [
+      "1. 가게, 상점",
+      "2. 쇼핑하다"
+    ]
+  },
+  "guided": {
+    "word": "guided",
+    "phonetic": "[ˈɡaɪdɪd]",
+    "meanings": [
+      "1. 가이드가 동반된"
+    ]
+  },
+  "tour": {
+    "word": "tour",
+    "phonetic": "[tʊr]",
+    "meanings": [
+      "1. 여행",
+      "2. 관광"
+    ]
+  },
+  "available": {
+    "word": "available",
+    "phonetic": "[əˈveɪləbl]",
+    "meanings": [
+      "1. 이용할 수 있는",
+      "2. 빈"
+    ]
+  },
+  "meeting": {
+    "word": "meeting",
+    "phonetic": "[ˈmiːtɪŋ]",
+    "meanings": [
+      "1. 회의",
+      "2. 만남"
+    ]
+  },
+  "point": {
+    "word": "point",
+    "phonetic": "[pɔɪnt]",
+    "meanings": [
+      "1. 점",
+      "2. 장소",
+      "3. 가리키다"
+    ]
+  },
+  "long": {
+    "word": "long",
+    "phonetic": "[lɔːŋ]",
+    "meanings": [
+      "1. 긴",
+      "2. 오래"
+    ]
+  },
+  "prepaid": {
+    "word": "prepaid",
+    "phonetic": "[ˌpriːˈpeɪd]",
+    "meanings": [
+      "1. 선불의"
+    ]
+  },
+  "sim": {
+    "word": "sim",
+    "phonetic": "[sɪm]",
+    "meanings": [
+      "1. 유심 (SIM card)"
+    ]
+  },
+  "include": {
+    "word": "include",
+    "phonetic": "[ɪnˈkluːd]",
+    "meanings": [
+      "1. 포함하다"
+    ]
+  },
+  "unlimited": {
+    "word": "unlimited",
+    "phonetic": "[ʌnˈlɪmɪtɪd]",
+    "meanings": [
+      "1. 무제한의"
+    ]
+  },
+  "data": {
+    "word": "data",
+    "phonetic": "[ˈdeɪtə]",
+    "meanings": [
+      "1. 데이터, 자료"
+    ]
+  },
+  "days": {
+    "word": "days",
+    "phonetic": "[deɪz]",
+    "meanings": [
+      "1. 날들, 일(기간)"
+    ]
+  },
+  "set": {
+    "word": "set",
+    "phonetic": "[set]",
+    "meanings": [
+      "1. 설정하다",
+      "2. 세트"
+    ]
+  },
+  "esim": {
+    "word": "esim",
+    "phonetic": "[iːsɪm]",
+    "meanings": [
+      "1. 이심(eSIM)"
+    ]
+  },
+  "signal": {
+    "word": "signal",
+    "phonetic": "[ˈsɪɡnəl]",
+    "meanings": [
+      "1. 신호"
+    ]
+  },
+  "tray": {
+    "word": "tray",
+    "phonetic": "[treɪ]",
+    "meanings": [
+      "1. 쟁반",
+      "2. 트레이"
+    ]
+  },
+  "ejector": {
+    "word": "ejector",
+    "phonetic": "[ɪˈdʒektər]",
+    "meanings": [
+      "1. 추출기, 핀"
+    ]
+  },
+  "too": {
+    "word": "too",
+    "phonetic": "[tuː]",
+    "meanings": [
+      "1. 너무",
+      "2. 또한"
+    ]
+  },
+  "slow": {
+    "word": "slow",
+    "phonetic": "[sloʊ]",
+    "meanings": [
+      "1. 느린"
+    ]
+  },
+  "top": {
+    "word": "top",
+    "phonetic": "[tɑːp]",
+    "meanings": [
+      "1. 꼭대기",
+      "2. 충전하다 (top up)"
+    ]
+  },
+  "sell": {
+    "word": "sell",
+    "phonetic": "[sel]",
+    "meanings": [
+      "1. 팔다"
+    ]
+  },
+  "international": {
+    "word": "international",
+    "phonetic": "[ˌɪntərˈnæʃnəl]",
+    "meanings": [
+      "1. 국제적인"
+    ]
+  },
+  "calling": {
+    "word": "calling",
+    "phonetic": "[ˈkɔːlɪŋ]",
+    "meanings": [
+      "1. 전화하는"
+    ]
+  },
+  "exchange": {
+    "word": "exchange",
+    "phonetic": "[ɪksˈtʃeɪndʒ]",
+    "meanings": [
+      "1. 환전하다",
+      "2. 교환하다"
+    ]
+  },
+  "money": {
+    "word": "money",
+    "phonetic": "[ˈmʌni]",
+    "meanings": [
+      "1. 돈"
+    ]
+  },
+  "rate": {
+    "word": "rate",
+    "phonetic": "[reɪt]",
+    "meanings": [
+      "1. 요금",
+      "2. 비율"
+    ]
+  },
+  "dollars": {
+    "word": "dollars",
+    "phonetic": "[ˈdɑːlərz]",
+    "meanings": [
+      "1. 달러들"
+    ]
+  },
+  "change": {
+    "word": "change",
+    "phonetic": "[tʃeɪndʒ]",
+    "meanings": [
+      "1. 바꾸다",
+      "2. 잔돈"
+    ]
+  },
+  "won": {
+    "word": "won",
+    "phonetic": "[wʌn]",
+    "meanings": [
+      "1. 원 (한국 화폐)"
+    ]
+  },
+  "yen": {
+    "word": "yen",
+    "phonetic": "[jen]",
+    "meanings": [
+      "1. 엔 (일본 화폐)"
+    ]
+  },
+  "charge": {
+    "word": "charge",
+    "phonetic": "[tʃɑːrdʒ]",
+    "meanings": [
+      "1. 청구하다",
+      "2. 충전하다"
+    ]
+  },
+  "commission": {
+    "word": "commission",
+    "phonetic": "[kəˈmɪʃn]",
+    "meanings": [
+      "1. 수수료",
+      "2. 위원회"
+    ]
+  },
+  "small": {
+    "word": "small",
+    "phonetic": "[smɔːl]",
+    "meanings": [
+      "1. 작은"
+    ]
+  },
+  "bills": {
+    "word": "bills",
+    "phonetic": "[bɪlz]",
+    "meanings": [
+      "1. 지폐들",
+      "2. 청구서들"
+    ]
+  },
+  "withdraw": {
+    "word": "withdraw",
+    "phonetic": "[wɪðˈdrɔː]",
+    "meanings": [
+      "1. 인출하다",
+      "2. 철수하다"
+    ]
+  },
+  "atm": {
+    "word": "atm",
+    "phonetic": "[ˌeɪ tiː ˈem]",
+    "meanings": [
+      "1. 현금 자동 입출금기"
+    ]
+  },
+  "swallowed": {
+    "word": "swallowed",
+    "phonetic": "[ˈswɑːloʊd]",
+    "meanings": [
+      "1. 삼켰다"
+    ]
+  },
+  "declined": {
+    "word": "declined",
+    "phonetic": "[dɪˈklaɪnd]",
+    "meanings": [
+      "1. 거절된"
+    ]
+  },
+  "break": {
+    "word": "break",
+    "phonetic": "[breɪk]",
+    "meanings": [
+      "1. 깨다",
+      "2. (돈을) 바꾸다",
+      "3. 휴식"
+    ]
+  },
+  "into": {
+    "word": "into",
+    "phonetic": "[ˈɪntə]",
+    "meanings": [
+      "1. ~안으로",
+      "2. ~으로 (상태 변화)"
+    ]
+  },
+  "smaller": {
+    "word": "smaller",
+    "phonetic": "[ˈsmɔːlər]",
+    "meanings": [
+      "1. 더 작은"
+    ]
+  },
+  "best": {
+    "word": "best",
+    "phonetic": "[best]",
+    "meanings": [
+      "1. 최고의",
+      "2. 가장 좋은"
+    ]
+  },
+  "offer": {
+    "word": "offer",
+    "phonetic": "[ˈɔːfər]",
+    "meanings": [
+      "1. 제공하다",
+      "2. 제안하다"
+    ]
+  },
+  "hello": {
+    "word": "hello",
+    "phonetic": "[həˈloʊ]",
+    "meanings": [
+      "1. 안녕",
+      "2. 여보세요"
+    ]
+  },
+  "very": {
+    "word": "very",
+    "phonetic": "[ˈveri]",
+    "meanings": [
+      "1. 매우",
+      "2. 아주"
+    ]
+  },
+  "sorry": {
+    "word": "sorry",
+    "phonetic": "[ˈsɔːri]",
+    "meanings": [
+      "1. 미안한",
+      "2. 유감스러운"
+    ]
+  },
+  "nice": {
+    "word": "nice",
+    "phonetic": "[naɪs]",
+    "meanings": [
+      "1. 좋은",
+      "2. 친절한"
+    ]
+  },
+  "meet": {
+    "word": "meet",
+    "phonetic": "[miːt]",
+    "meanings": [
+      "1. 만나다"
+    ]
+  },
+  "speak": {
+    "word": "speak",
+    "phonetic": "[spiːk]",
+    "meanings": [
+      "1. 말하다"
+    ]
+  },
+  "english": {
+    "word": "english",
+    "phonetic": "[ˈɪŋɡlɪʃ]",
+    "meanings": [
+      "1. 영어",
+      "2. 영국의"
+    ]
+  },
+  "slowly": {
+    "word": "slowly",
+    "phonetic": "[ˈsloʊli]",
+    "meanings": [
+      "1. 천천히"
+    ]
+  },
+  "don't": {
+    "word": "don't",
+    "phonetic": "[doʊnt]",
+    "meanings": [
+      "1. do not의 축약형"
+    ]
+  },
+  "understand": {
+    "word": "understand",
+    "phonetic": "[ˌʌndərˈstænd]",
+    "meanings": [
+      "1. 이해하다"
+    ]
+  },
+  "repeat": {
+    "word": "repeat",
+    "phonetic": "[rɪˈpiːt]",
+    "meanings": [
+      "1. 반복하다",
+      "2. 다시 말하다"
+    ]
+  },
+  "that": {
+    "word": "that",
+    "phonetic": "[ðæt]",
+    "meanings": [
+      "1. 저것",
+      "2. 그것"
+    ]
+  },
+  "say": {
+    "word": "say",
+    "phonetic": "[seɪ]",
+    "meanings": [
+      "1. 말하다"
+    ]
+  },
+  "cabin": {
+    "word": "cabin",
+    "phonetic": "[ˈkæbɪn]",
+    "meanings": [
+      "1. 객실",
+      "2. 오두막"
+    ]
+  },
+  "feel": {
+    "word": "feel",
+    "phonetic": "[fiːl]",
+    "meanings": [
+      "1. 느끼다",
+      "2. 기분이 ~하다"
+    ]
+  },
+  "seasick": {
+    "word": "seasick",
+    "phonetic": "[ˈsiːsɪk]",
+    "meanings": [
+      "1. 뱃멀미를 하는"
+    ]
+  },
+  "safety": {
+    "word": "safety",
+    "phonetic": "[ˈseɪfti]",
+    "meanings": [
+      "1. 안전"
+    ]
+  },
+  "drill": {
+    "word": "drill",
+    "phonetic": "[drɪl]",
+    "meanings": [
+      "1. 훈련",
+      "2. 드릴"
+    ]
+  },
+  "food": {
+    "word": "food",
+    "phonetic": "[fuːd]",
+    "meanings": [
+      "1. 음식"
+    ]
+  },
+  "included": {
+    "word": "included",
+    "phonetic": "[ɪnˈkluːdɪd]",
+    "meanings": [
+      "1. 포함된"
+    ]
+  },
+  "price": {
+    "word": "price",
+    "phonetic": "[praɪs]",
+    "meanings": [
+      "1. 가격"
+    ]
+  },
+  "main": {
+    "word": "main",
+    "phonetic": "[meɪn]",
+    "meanings": [
+      "1. 주요한",
+      "2. 메인의"
+    ]
+  },
+  "dining": {
+    "word": "dining",
+    "phonetic": "[ˈdaɪnɪŋ]",
+    "meanings": [
+      "1. 식사"
+    ]
+  },
+  "book": {
+    "word": "book",
+    "phonetic": "[bʊk]",
+    "meanings": [
+      "1. 예약하다",
+      "2. 책"
+    ]
+  },
+  "shore": {
+    "word": "shore",
+    "phonetic": "[ʃɔːr]",
+    "meanings": [
+      "1. 기항지",
+      "2. 해안"
+    ]
+  },
+  "excursion": {
+    "word": "excursion",
+    "phonetic": "[ɪkˈskɜːrʒn]",
+    "meanings": [
+      "1. 짧은 여행",
+      "2. (기항지) 관광"
+    ]
+  },
+  "dress": {
+    "word": "dress",
+    "phonetic": "[dres]",
+    "meanings": [
+      "1. 옷, 드레스",
+      "2. 옷을 입다"
+    ]
+  },
+  "code": {
+    "word": "code",
+    "phonetic": "[koʊd]",
+    "meanings": [
+      "1. 규정",
+      "2. 암호"
+    ]
+  },
+  "tonight": {
+    "word": "tonight",
+    "phonetic": "[təˈnaɪt]",
+    "meanings": [
+      "1. 오늘 밤"
+    ]
+  },
+  "pool": {
+    "word": "pool",
+    "phonetic": "[puːl]",
+    "meanings": [
+      "1. 수영장"
+    ]
+  },
+  "towel": {
+    "word": "towel",
+    "phonetic": "[ˈtaʊəl]",
+    "meanings": [
+      "1. 수건"
+    ]
+  },
+  "motion": {
+    "word": "motion",
+    "phonetic": "[ˈmoʊʃn]",
+    "meanings": [
+      "1. 움직임"
+    ]
+  },
+  "sickness": {
+    "word": "sickness",
+    "phonetic": "[ˈsɪknəs]",
+    "meanings": [
+      "1. 질병",
+      "2. 멀미 (motion sickness)"
+    ]
+  },
+  "arrive": {
+    "word": "arrive",
+    "phonetic": "[əˈraɪv]",
+    "meanings": [
+      "1. 도착하다"
+    ]
+  },
+  "port": {
+    "word": "port",
+    "phonetic": "[pɔːrt]",
+    "meanings": [
+      "1. 항구"
+    ]
+  },
+  "i'd": {
+    "word": "I'd",
+    "phonetic": "[aɪd]",
+    "meanings": [
+      "1. I would / I had의 축약형"
+    ]
+  },
+  "check": {
+    "word": "check",
+    "phonetic": "[tʃek]",
+    "meanings": [
+      "1. 확인하다",
+      "2. (수하물을) 부치다"
+    ]
+  },
+  "e-ticket": {
+    "word": "e-ticket",
+    "phonetic": "[ˈiː tɪkɪt]",
+    "meanings": [
+      "1. 전자 항공권"
+    ]
+  },
+  "possible": {
+    "word": "possible",
+    "phonetic": "[ˈpɑːsəbl]",
+    "meanings": [
+      "1. 가능한"
+    ]
+  },
+  "window": {
+    "word": "window",
+    "phonetic": "[ˈwɪndoʊ]",
+    "meanings": [
+      "1. 창문",
+      "2. 창가"
+    ]
+  },
+  "seat": {
+    "word": "seat",
+    "phonetic": "[siːt]",
+    "meanings": [
+      "1. 좌석, 자리"
+    ]
+  },
+  "prefer": {
+    "word": "prefer",
+    "phonetic": "[prɪˈfɜːr]",
+    "meanings": [
+      "1. 선호하다",
+      "2. ~을 더 좋아하다"
+    ]
+  },
+  "aisle": {
+    "word": "aisle",
+    "phonetic": "[aɪl]",
+    "meanings": [
+      "1. 통로"
+    ]
+  },
+  "family": {
+    "word": "family",
+    "phonetic": "[ˈfæməli]",
+    "meanings": [
+      "1. 가족"
+    ]
+  },
+  "sit": {
+    "word": "sit",
+    "phonetic": "[sɪt]",
+    "meanings": [
+      "1. 앉다"
+    ]
+  },
+  "together": {
+    "word": "together",
+    "phonetic": "[təˈɡeðər]",
+    "meanings": [
+      "1. 함께, 같이"
+    ]
+  },
+  "bags": {
+    "word": "bags",
+    "phonetic": "[bæɡz]",
+    "meanings": [
+      "1. 가방들"
+    ]
+  },
+  "only": {
+    "word": "only",
+    "phonetic": "[ˈoʊnli]",
+    "meanings": [
+      "1. 오직, 단지"
+    ]
+  },
+  "carry-on": {
+    "word": "carry-on",
+    "phonetic": "[ˈkæri ɑːn]",
+    "meanings": [
+      "1. 기내 수하물",
+      "2. 기내에 반입할 수 있는"
+    ]
+  },
+  "place": {
+    "word": "place",
+    "phonetic": "[pleɪs]",
+    "meanings": [
+      "1. 장소",
+      "2. 놓다, 두다"
+    ]
+  },
+  "scale": {
+    "word": "scale",
+    "phonetic": "[skeɪl]",
+    "meanings": [
+      "1. 저울",
+      "2. 규모"
+    ]
+  },
+  "overweight": {
+    "word": "overweight",
+    "phonetic": "[ˌoʊvərˈweɪt]",
+    "meanings": [
+      "1. 중량 초과의",
+      "2. 과체중의"
+    ]
+  },
+  "excess": {
+    "word": "excess",
+    "phonetic": "[ɪkˈses]",
+    "meanings": [
+      "1. 초과, 과잉",
+      "2. 초과한"
+    ]
+  },
+  "by": {
+    "word": "by",
+    "phonetic": "[baɪ]",
+    "meanings": [
+      "1. ~에 의하여",
+      "2. ~옆에"
+    ]
+  },
+  "mark": {
+    "word": "mark",
+    "phonetic": "[mɑːrk]",
+    "meanings": [
+      "1. 표시하다",
+      "2. 자국"
+    ]
+  },
+  "as": {
+    "word": "as",
+    "phonetic": "[æz]",
+    "meanings": [
+      "1. ~로서",
+      "2. ~만큼"
+    ]
+  },
+  "fragile": {
+    "word": "fragile",
+    "phonetic": "[ˈfrædʒl]",
+    "meanings": [
+      "1. 부서지기 쉬운",
+      "2. 취약한"
+    ]
+  },
+  "pick": {
+    "word": "pick",
+    "phonetic": "[pɪk]",
+    "meanings": [
+      "1. 고르다",
+      "2. 줍다 (pick up)"
+    ]
+  },
+  "layover": {
+    "word": "layover",
+    "phonetic": "[ˈleɪoʊvər]",
+    "meanings": [
+      "1. 도중하차, 경유"
+    ]
+  },
+  "final": {
+    "word": "final",
+    "phonetic": "[ˈfaɪnl]",
+    "meanings": [
+      "1. 마지막의",
+      "2. 최종적인"
+    ]
+  },
+  "destination": {
+    "word": "destination",
+    "phonetic": "[ˌdestɪˈneɪʃn]",
+    "meanings": [
+      "1. 목적지, 도착지"
+    ]
+  },
+  "self": {
+    "word": "self",
+    "phonetic": "[self]",
+    "meanings": [
+      "1. 자신",
+      "2. 자기"
+    ]
+  },
+  "kiosk": {
+    "word": "kiosk",
+    "phonetic": "[ˈkiːɑːsk]",
+    "meanings": [
+      "1. 무인 단말기, 키오스크"
+    ]
+  },
+  "print": {
+    "word": "print",
+    "phonetic": "[prɪnt]",
+    "meanings": [
+      "1. 인쇄하다",
+      "2. 출력하다"
+    ]
+  },
+  "boarding": {
+    "word": "boarding",
+    "phonetic": "[ˈbɔːrdɪŋ]",
+    "meanings": [
+      "1. 탑승"
+    ]
+  },
+  "pass": {
+    "word": "pass",
+    "phonetic": "[pæs]",
+    "meanings": [
+      "1. 지나가다",
+      "2. 통과하다",
+      "3. 탑승권 (boarding pass)"
+    ]
+  },
+  "has": {
+    "word": "has",
+    "phonetic": "[hæz]",
+    "meanings": [
+      "1. have의 3인칭 단수형"
+    ]
+  },
+  "changed": {
+    "word": "changed",
+    "phonetic": "[tʃeɪndʒd]",
+    "meanings": [
+      "1. 변경된"
+    ]
+  },
+  "when": {
+    "word": "when",
+    "phonetic": "[wen]",
+    "meanings": [
+      "1. 언제",
+      "2. ~할 때"
+    ]
+  },
+  "standby": {
+    "word": "standby",
+    "phonetic": "[ˈstændbaɪ]",
+    "meanings": [
+      "1. 대기",
+      "2. 예비품"
+    ]
+  },
+  "list": {
+    "word": "list",
+    "phonetic": "[lɪst]",
+    "meanings": [
+      "1. 목록, 명단"
+    ]
+  },
+  "security": {
+    "word": "security",
+    "phonetic": "[səˈkjʊrəti]",
+    "meanings": [
+      "1. 보안, 경비",
+      "2. 안전"
+    ]
+  },
+  "shoes": {
+    "word": "shoes",
+    "phonetic": "[ʃuːz]",
+    "meanings": [
+      "1. 신발"
+    ]
+  },
+  "empty": {
+    "word": "empty",
+    "phonetic": "[ˈempti]",
+    "meanings": [
+      "1. 비어 있는",
+      "2. 비우다"
+    ]
+  },
+  "pockets": {
+    "word": "pockets",
+    "phonetic": "[ˈpɑːkɪts]",
+    "meanings": [
+      "1. 주머니들"
+    ]
+  },
+  "laptop": {
+    "word": "laptop",
+    "phonetic": "[ˈlæptɑːp]",
+    "meanings": [
+      "1. 노트북 컴퓨터"
+    ]
+  },
+  "out": {
+    "word": "out",
+    "phonetic": "[aʊt]",
+    "meanings": [
+      "1. 밖으로",
+      "2. 밖에"
+    ]
+  },
+  "of": {
+    "word": "of",
+    "phonetic": "[əv]",
+    "meanings": [
+      "1. ~의",
+      "2. ~에 대한"
+    ]
+  },
+  "bottle": {
+    "word": "bottle",
+    "phonetic": "[ˈbɑːtl]",
+    "meanings": [
+      "1. 병"
+    ]
+  },
+  "throw": {
+    "word": "throw",
+    "phonetic": "[θroʊ]",
+    "meanings": [
+      "1. 던지다",
+      "2. 버리다 (throw away)"
+    ]
+  },
+  "away": {
+    "word": "away",
+    "phonetic": "[əˈweɪ]",
+    "meanings": [
+      "1. 떨어져",
+      "2. 다른 데로"
+    ]
+  },
+  "metal": {
+    "word": "metal",
+    "phonetic": "[ˈmetl]",
+    "meanings": [
+      "1. 금속"
+    ]
+  },
+  "implant": {
+    "word": "implant",
+    "phonetic": "[ɪmˈplænt]",
+    "meanings": [
+      "1. 이식하다",
+      "2. 이식물"
+    ]
+  },
+  "plastic": {
+    "word": "plastic",
+    "phonetic": "[ˈplæstɪk]",
+    "meanings": [
+      "1. 플라스틱",
+      "2. 비닐"
+    ]
+  },
+  "liquids": {
+    "word": "liquids",
+    "phonetic": "[ˈlɪkwɪdz]",
+    "meanings": [
+      "1. 액체류"
+    ]
+  },
+  "remove": {
+    "word": "remove",
+    "phonetic": "[rɪˈmuːv]",
+    "meanings": [
+      "1. 제거하다",
+      "2. 벗다"
+    ]
+  },
+  "belt": {
+    "word": "belt",
+    "phonetic": "[belt]",
+    "meanings": [
+      "1. 벨트, 허리띠"
+    ]
+  },
+  "step": {
+    "word": "step",
+    "phonetic": "[step]",
+    "meanings": [
+      "1. 걸음",
+      "2. 걷다"
+    ]
+  },
+  "through": {
+    "word": "through",
+    "phonetic": "[θruː]",
+    "meanings": [
+      "1. ~을 통과하여",
+      "2. ~을 통하여"
+    ]
+  },
+  "scanner": {
+    "word": "scanner",
+    "phonetic": "[ˈskænər]",
+    "meanings": [
+      "1. 스캐너, 검색기"
+    ]
+  },
+  "purpose": {
+    "word": "purpose",
+    "phonetic": "[ˈpɜːrpəs]",
+    "meanings": [
+      "1. 목적, 의도"
+    ]
+  },
+  "visit": {
+    "word": "visit",
+    "phonetic": "[ˈvɪzɪt]",
+    "meanings": [
+      "1. 방문하다",
+      "2. 방문"
+    ]
+  },
+  "sightseeing": {
+    "word": "sightseeing",
+    "phonetic": "[ˈsaɪtsiːɪŋ]",
+    "meanings": [
+      "1. 관광, 구경"
+    ]
+  },
+  "business": {
+    "word": "business",
+    "phonetic": "[ˈbɪznəs]",
+    "meanings": [
+      "1. 사업",
+      "2. 업무"
+    ]
+  },
+  "visiting": {
+    "word": "visiting",
+    "phonetic": "[ˈvɪzɪtɪŋ]",
+    "meanings": [
+      "1. 방문하는"
+    ]
+  },
+  "friends": {
+    "word": "friends",
+    "phonetic": "[frendz]",
+    "meanings": [
+      "1. 친구들"
+    ]
+  },
+  "stay": {
+    "word": "stay",
+    "phonetic": "[steɪ]",
+    "meanings": [
+      "1. 머무르다",
+      "2. 체류"
+    ]
+  },
+  "week": {
+    "word": "week",
+    "phonetic": "[wiːk]",
+    "meanings": [
+      "1. 주, 일주일"
+    ]
+  },
+  "be": {
+    "word": "be",
+    "phonetic": "[bi]",
+    "meanings": [
+      "1. ~이다",
+      "2. 있다"
+    ]
+  },
+  "staying": {
+    "word": "staying",
+    "phonetic": "[ˈsteɪɪŋ]",
+    "meanings": [
+      "1. 머무르는 중인"
+    ]
+  },
+  "hilton": {
+    "word": "hilton",
+    "phonetic": "[ˈhɪltən]",
+    "meanings": [
+      "1. 힐튼 (호텔 이름)"
+    ]
+  },
+  "hotel": {
+    "word": "hotel",
+    "phonetic": "[hoʊˈtel]",
+    "meanings": [
+      "1. 호텔"
+    ]
+  },
+  "traveling": {
+    "word": "traveling",
+    "phonetic": "[ˈtrævəlɪŋ]",
+    "meanings": [
+      "1. 여행하는"
+    ]
+  },
+  "alone": {
+    "word": "alone",
+    "phonetic": "[əˈloʊn]",
+    "meanings": [
+      "1. 혼자",
+      "2. 홀로"
+    ]
+  },
+  "first": {
+    "word": "first",
+    "phonetic": "[fɜːrst]",
+    "meanings": [
+      "1. 첫 번째의",
+      "2. 처음으로"
+    ]
+  },
+  "anything": {
+    "word": "anything",
+    "phonetic": "[ˈeniθɪŋ]",
+    "meanings": [
+      "1. 무엇이든",
+      "2. 아무것도"
+    ]
+  },
+  "start": {
+    "word": "start",
+    "phonetic": "[stɑːrt]",
+    "meanings": [
+      "1. 시작하다",
+      "2. 출발하다"
+    ]
+  },
+  "started": {
+    "word": "started",
+    "phonetic": "[ˈstɑːrtɪd]",
+    "meanings": [
+      "1. 시작된"
+    ]
+  },
+  "yet": {
+    "word": "yet",
+    "phonetic": "[jet]",
+    "meanings": [
+      "1. 아직",
+      "2. 벌써"
+    ]
+  },
+  "wrong": {
+    "word": "wrong",
+    "phonetic": "[rɔːŋ]",
+    "meanings": [
+      "1. 틀린",
+      "2. 잘못된"
+    ]
+  },
+  "board": {
+    "word": "board",
+    "phonetic": "[bɔːrd]",
+    "meanings": [
+      "1. 탑승하다",
+      "2. 판"
+    ]
+  },
+  "now": {
+    "word": "now",
+    "phonetic": "[naʊ]",
+    "meanings": [
+      "1. 지금",
+      "2. 이제"
+    ]
+  },
+  "priority": {
+    "word": "priority",
+    "phonetic": "[praɪˈɔːrəti]",
+    "meanings": [
+      "1. 우선순위",
+      "2. 우선권"
+    ]
+  },
+  "line": {
+    "word": "line",
+    "phonetic": "[laɪn]",
+    "meanings": [
+      "1. 선",
+      "2. 줄"
+    ]
+  },
+  "someone": {
+    "word": "someone",
+    "phonetic": "[ˈsʌmwʌn]",
+    "meanings": [
+      "1. 누군가"
+    ]
+  },
+  "sitting": {
+    "word": "sitting",
+    "phonetic": "[ˈsɪtɪŋ]",
+    "meanings": [
+      "1. 앉아 있는"
+    ]
+  },
+  "blanket": {
+    "word": "blanket",
+    "phonetic": "[ˈblæŋkɪt]",
+    "meanings": [
+      "1. 담요"
+    ]
+  },
+  "kind": {
+    "word": "kind",
+    "phonetic": "[kaɪnd]",
+    "meanings": [
+      "1. 종류",
+      "2. 친절한"
+    ]
+  },
+  "drinks": {
+    "word": "drinks",
+    "phonetic": "[drɪŋks]",
+    "meanings": [
+      "1. 음료들"
+    ]
+  },
+  "beef": {
+    "word": "beef",
+    "phonetic": "[biːf]",
+    "meanings": [
+      "1. 소고기"
+    ]
+  },
+  "chicken": {
+    "word": "chicken",
+    "phonetic": "[ˈtʃɪkɪn]",
+    "meanings": [
+      "1. 닭고기"
+    ]
+  },
+  "snack": {
+    "word": "snack",
+    "phonetic": "[snæk]",
+    "meanings": [
+      "1. 간식",
+      "2. 스낵"
+    ]
+  },
+  "little": {
+    "word": "little",
+    "phonetic": "[ˈlɪtl]",
+    "meanings": [
+      "1. 작은",
+      "2. 약간의"
+    ]
+  },
+  "air": {
+    "word": "air",
+    "phonetic": "[er]",
+    "meanings": [
+      "1. 공기",
+      "2. 항공의"
+    ]
+  },
+  "sick": {
+    "word": "sick",
+    "phonetic": "[sɪk]",
+    "meanings": [
+      "1. 아픈",
+      "2. 멀미가 나는"
+    ]
+  },
+  "lavatory": {
+    "word": "lavatory",
+    "phonetic": "[ˈlævətɔːri]",
+    "meanings": [
+      "1. 화장실 (기내 등)"
+    ]
+  },
+  "occupied": {
+    "word": "occupied",
+    "phonetic": "[ˈɑːkjupaɪd]",
+    "meanings": [
+      "1. 사용 중인",
+      "2. 바쁜"
+    ]
+  },
+  "fasten": {
+    "word": "fasten",
+    "phonetic": "[ˈfæsn]",
+    "meanings": [
+      "1. 매다",
+      "2. 고정하다"
+    ]
+  },
+  "seatbelt": {
+    "word": "seatbelt",
+    "phonetic": "[ˈsiːtbelt]",
+    "meanings": [
+      "1. 안전벨트"
+    ]
+  },
+  "until": {
+    "word": "until",
+    "phonetic": "[ənˈtɪl]",
+    "meanings": [
+      "1. ~할 때까지"
+    ]
+  },
+  "land": {
+    "word": "land",
+    "phonetic": "[lænd]",
+    "meanings": [
+      "1. 착륙하다",
+      "2. 땅"
+    ]
+  },
+  "customs": {
+    "word": "customs",
+    "phonetic": "[ˈkʌstəmz]",
+    "meanings": [
+      "1. 세관"
+    ]
+  },
+  "declaration": {
+    "word": "declaration",
+    "phonetic": "[ˌdekləˈreɪʃn]",
+    "meanings": [
+      "1. 선언",
+      "2. 신고서"
+    ]
+  },
+  "form": {
+    "word": "form",
+    "phonetic": "[fɔːrm]",
+    "meanings": [
+      "1. 형태",
+      "2. 서식, 양식"
+    ]
+  },
+  "pen": {
+    "word": "pen",
+    "phonetic": "[pen]",
+    "meanings": [
+      "1. 펜"
+    ]
+  },
+  "down": {
+    "word": "down",
+    "phonetic": "[daʊn]",
+    "meanings": [
+      "1. 아래로"
+    ]
+  },
+  "conditioning": {
+    "word": "conditioning",
+    "phonetic": "[kənˈdɪʃənɪŋ]",
+    "meanings": [
+      "1. 조절 (air conditioning: 에어컨)"
+    ]
+  },
+  "recline": {
+    "word": "recline",
+    "phonetic": "[rɪˈklaɪn]",
+    "meanings": [
+      "1. 비스듬히 기대다",
+      "2. (의자를) 뒤로 젖히다"
+    ]
+  },
+  "put": {
+    "word": "put",
+    "phonetic": "[pʊt]",
+    "meanings": [
+      "1. 놓다",
+      "2. 두다"
+    ]
+  },
+  "upright": {
+    "word": "upright",
+    "phonetic": "[ˈʌpraɪt]",
+    "meanings": [
+      "1. 똑바른",
+      "2. 꼿꼿한"
+    ]
+  },
+  "carousel": {
+    "word": "carousel",
+    "phonetic": "[ˌkærəˈsel]",
+    "meanings": [
+      "1. 회전목마",
+      "2. (공항의) 수하물 컨베이어 벨트"
+    ]
+  },
+  "hasn't": {
+    "word": "hasn't",
+    "phonetic": "[ˈhæznt]",
+    "meanings": [
+      "1. has not의 축약형"
+    ]
+  },
+  "arrived": {
+    "word": "arrived",
+    "phonetic": "[əˈraɪvd]",
+    "meanings": [
+      "1. 도착했다"
+    ]
+  },
+  "damaged": {
+    "word": "damaged",
+    "phonetic": "[ˈdæmɪdʒd]",
+    "meanings": [
+      "1. 손상된",
+      "2. 파손된"
+    ]
+  },
+  "transfer": {
+    "word": "transfer",
+    "phonetic": "[trænsˈfɜːr]",
+    "meanings": [
+      "1. 이동하다",
+      "2. 환승하다"
+    ]
+  },
+  "desk": {
+    "word": "desk",
+    "phonetic": "[desk]",
+    "meanings": [
+      "1. 책상",
+      "2. 안내 데스크"
+    ]
+  },
+  "again": {
+    "word": "again",
+    "phonetic": "[əˈɡen]",
+    "meanings": [
+      "1. 다시",
+      "2. 또"
+    ]
+  },
+  "terminal": {
+    "word": "terminal",
+    "phonetic": "[ˈtɜːrmɪnl]",
+    "meanings": [
+      "1. 터미널",
+      "2. 종착역"
+    ]
+  },
+  "shuttle": {
+    "word": "shuttle",
+    "phonetic": "[ˈʃʌtl]",
+    "meanings": [
+      "1. 셔틀",
+      "2. 왕복 운행하는"
+    ]
+  },
+  "city": {
+    "word": "city",
+    "phonetic": "[ˈsɪti]",
+    "meanings": [
+      "1. 도시",
+      "2. 시내"
+    ]
+  },
+  "currency": {
+    "word": "currency",
+    "phonetic": "[ˈkɜːrənsi]",
+    "meanings": [
+      "1. 통화",
+      "2. 화폐"
+    ]
+  },
+  "tourist": {
+    "word": "tourist",
+    "phonetic": "[ˈtʊrɪst]",
+    "meanings": [
+      "1. 관광객"
+    ]
+  },
+  "center": {
+    "word": "center",
+    "phonetic": "[ˈsentər]",
+    "meanings": [
+      "1. 중심",
+      "2. 센터"
+    ]
+  },
+  "double": {
+    "word": "double",
+    "phonetic": "[ˈdʌbl]",
+    "meanings": [
+      "1. 두 배의",
+      "2. 2인용의"
+    ]
+  },
+  "bed": {
+    "word": "bed",
+    "phonetic": "[bed]",
+    "meanings": [
+      "1. 침대"
+    ]
+  },
+  "non-smoking": {
+    "word": "non-smoking",
+    "phonetic": "[nɑːn ˈsmoʊkɪŋ]",
+    "meanings": [
+      "1. 금연의"
+    ]
+  },
+  "safe": {
+    "word": "safe",
+    "phonetic": "[seɪf]",
+    "meanings": [
+      "1. 금고",
+      "2. 안전한"
+    ]
+  },
+  "view": {
+    "word": "view",
+    "phonetic": "[vjuː]",
+    "meanings": [
+      "1. 전망",
+      "2. 경치"
+    ]
+  },
+  "floor": {
+    "word": "floor",
+    "phonetic": "[flɔːr]",
+    "meanings": [
+      "1. 층",
+      "2. 바닥"
+    ]
+  },
+  "early": {
+    "word": "early",
+    "phonetic": "[ˈɜːrli]",
+    "meanings": [
+      "1. 일찍",
+      "2. 이른"
+    ]
+  },
+  "deposit": {
+    "word": "deposit",
+    "phonetic": "[dɪˈpɑːzɪt]",
+    "meanings": [
+      "1. 보증금",
+      "2. 예금"
+    ]
+  },
+  "catch": {
+    "word": "catch",
+    "phonetic": "[kætʃ]",
+    "meanings": [
+      "1. 잡다",
+      "2. (차를) 타다"
+    ]
+  },
+  "gym": {
+    "word": "gym",
+    "phonetic": "[dʒɪm]",
+    "meanings": [
+      "1. 체육관",
+      "2. 헬스장"
+    ]
+  },
+  "open": {
+    "word": "open",
+    "phonetic": "[ˈoʊpən]",
+    "meanings": [
+      "1. 열다",
+      "2. 열려 있는"
+    ]
+  },
+  "swimming": {
+    "word": "swimming",
+    "phonetic": "[ˈswɪmɪŋ]",
+    "meanings": [
+      "1. 수영"
+    ]
+  },
+  "own": {
+    "word": "own",
+    "phonetic": "[oʊn]",
+    "meanings": [
+      "1. 자신의",
+      "2. 소유하다"
+    ]
+  },
+  "spa": {
+    "word": "spa",
+    "phonetic": "[spɑː]",
+    "meanings": [
+      "1. 스파",
+      "2. 온천"
+    ]
+  },
+  "massage": {
+    "word": "massage",
+    "phonetic": "[məˈsɑːʒ]",
+    "meanings": [
+      "1. 마사지"
+    ]
+  },
+  "good": {
+    "word": "good",
+    "phonetic": "[ɡʊd]",
+    "meanings": [
+      "1. 좋은"
+    ]
+  },
+  "restaurant": {
+    "word": "restaurant",
+    "phonetic": "[ˈrestrənt]",
+    "meanings": [
+      "1. 식당",
+      "2. 레스토랑"
+    ]
+  },
+  "nearby": {
+    "word": "nearby",
+    "phonetic": "[ˌnɪrˈbaɪ]",
+    "meanings": [
+      "1. 근처에",
+      "2. 인근의"
+    ]
+  },
+  "hot": {
+    "word": "hot",
+    "phonetic": "[hɑːt]",
+    "meanings": [
+      "1. 더운",
+      "2. 뜨거운"
+    ]
+  },
+  "toilet": {
+    "word": "toilet",
+    "phonetic": "[ˈtɔɪlət]",
+    "meanings": [
+      "1. 화장실",
+      "2. 변기"
+    ]
+  },
+  "clogged": {
+    "word": "clogged",
+    "phonetic": "[klɑːɡd]",
+    "meanings": [
+      "1. 막힌"
+    ]
+  },
+  "sink": {
+    "word": "sink",
+    "phonetic": "[sɪŋk]",
+    "meanings": [
+      "1. 세면대",
+      "2. 싱크대"
+    ]
+  },
+  "leaking": {
+    "word": "leaking",
+    "phonetic": "[ˈliːkɪŋ]",
+    "meanings": [
+      "1. 새는"
+    ]
+  },
+  "cleaned": {
+    "word": "cleaned",
+    "phonetic": "[kliːnd]",
+    "meanings": [
+      "1. 청소된"
+    ]
+  },
+  "sheets": {
+    "word": "sheets",
+    "phonetic": "[ʃiːts]",
+    "meanings": [
+      "1. 시트",
+      "2. 얇은 천"
+    ]
+  },
+  "more": {
+    "word": "more",
+    "phonetic": "[mɔːr]",
+    "meanings": [
+      "1. 더",
+      "2. 더 많은"
+    ]
+  },
+  "paper": {
+    "word": "paper",
+    "phonetic": "[ˈpeɪpər]",
+    "meanings": [
+      "1. 종이",
+      "2. 휴지 (toilet paper)"
+    ]
+  },
+  "hangers": {
+    "word": "hangers",
+    "phonetic": "[ˈhæŋərz]",
+    "meanings": [
+      "1. 옷걸이들"
+    ]
+  },
+  "iron": {
+    "word": "iron",
+    "phonetic": "[ˈaɪərn]",
+    "meanings": [
+      "1. 다리미",
+      "2. 다림질하다"
+    ]
+  },
+  "ironing": {
+    "word": "ironing",
+    "phonetic": "[ˈaɪərnɪŋ]",
+    "meanings": [
+      "1. 다림질"
+    ]
+  },
+  "hair": {
+    "word": "hair",
+    "phonetic": "[her]",
+    "meanings": [
+      "1. 머리카락"
+    ]
+  },
+  "dryer": {
+    "word": "dryer",
+    "phonetic": "[ˈdraɪər]",
+    "meanings": [
+      "1. 드라이어",
+      "2. 건조기"
+    ]
+  },
+  "tv": {
+    "word": "tv",
+    "phonetic": "[ˌtiː ˈviː]",
+    "meanings": [
+      "1. 텔레비전"
+    ]
+  },
+  "connect": {
+    "word": "connect",
+    "phonetic": "[kəˈnekt]",
+    "meanings": [
+      "1. 연결하다"
+    ]
+  },
+  "internet": {
+    "word": "internet",
+    "phonetic": "[ˈɪntərnet]",
+    "meanings": [
+      "1. 인터넷"
+    ]
+  },
+  "locked": {
+    "word": "locked",
+    "phonetic": "[lɑːkt]",
+    "meanings": [
+      "1. 잠긴"
+    ]
+  },
+  "myself": {
+    "word": "myself",
+    "phonetic": "[maɪˈself]",
+    "meanings": [
+      "1. 나 자신"
+    ]
+  },
+  "pharmacy": {
+    "word": "pharmacy",
+    "phonetic": "[ˈfɑːrməsi]",
+    "meanings": [
+      "1. 약국"
+    ]
+  },
+  "bandage": {
+    "word": "bandage",
+    "phonetic": "[ˈbændɪdʒ]",
+    "meanings": [
+      "1. 붕대",
+      "2. 반창고"
+    ]
+  },
+  "convenience": {
+    "word": "convenience",
+    "phonetic": "[kənˈviːniəns]",
+    "meanings": [
+      "1. 편의",
+      "2. 편리"
+    ]
+  },
+  "store": {
+    "word": "store",
+    "phonetic": "[stɔːr]",
+    "meanings": [
+      "1. 상점",
+      "2. 가게"
+    ]
+  },
+  "leave": {
+    "word": "leave",
+    "phonetic": "[liːv]",
+    "meanings": [
+      "1. 떠나다",
+      "2. 남기다",
+      "3. 맡기다"
+    ]
+  },
+  "front": {
+    "word": "front",
+    "phonetic": "[frʌnt]",
+    "meanings": [
+      "1. 앞",
+      "2. 프론트"
+    ]
+  },
+  "extend": {
+    "word": "extend",
+    "phonetic": "[ɪkˈstend]",
+    "meanings": [
+      "1. 연장하다",
+      "2. 확장하다"
+    ]
+  },
+  "night": {
+    "word": "night",
+    "phonetic": "[naɪt]",
+    "meanings": [
+      "1. 밤"
+    ]
+  },
+  "tomorrow": {
+    "word": "tomorrow",
+    "phonetic": "[təˈmɑːroʊ]",
+    "meanings": [
+      "1. 내일"
+    ]
+  },
+  "tax": {
+    "word": "tax",
+    "phonetic": "[tæks]",
+    "meanings": [
+      "1. 세금"
+    ]
+  },
+  "cash": {
+    "word": "cash",
+    "phonetic": "[kæʃ]",
+    "meanings": [
+      "1. 현금"
+    ]
+  },
+  "mistake": {
+    "word": "mistake",
+    "phonetic": "[mɪˈsteɪk]",
+    "meanings": [
+      "1. 실수",
+      "2. 착오"
+    ]
+  },
+  "didn't": {
+    "word": "didn't",
+    "phonetic": "[ˈdɪdnt]",
+    "meanings": [
+      "1. did not의 축약형"
+    ]
+  },
+  "minibar": {
+    "word": "minibar",
+    "phonetic": "[ˈmɪnibɑːr]",
+    "meanings": [
+      "1. 미니바 (객실 내 소형 냉장고)"
+    ]
+  },
+  "bellboy": {
+    "word": "bellboy",
+    "phonetic": "[ˈbelbɔɪ]",
+    "meanings": [
+      "1. 벨보이 (호텔 짐꾼)"
+    ]
+  },
+  "tag": {
+    "word": "tag",
+    "phonetic": "[tæɡ]",
+    "meanings": [
+      "1. 태그",
+      "2. 꼬리표"
+    ]
+  },
+  "had": {
+    "word": "had",
+    "phonetic": "[hæd]",
+    "meanings": [
+      "1. have의 과거형"
+    ]
+  },
+  "great": {
+    "word": "great",
+    "phonetic": "[ɡreɪt]",
+    "meanings": [
+      "1. 훌륭한",
+      "2. 대단한"
+    ]
+  },
+  "popular": {
+    "word": "popular",
+    "phonetic": "[ˈpɑːpjələr]",
+    "meanings": [
+      "1. 인기 있는",
+      "2. 대중적인"
+    ]
+  },
+  "attractions": {
+    "word": "attractions",
+    "phonetic": "[əˈtrækʃnz]",
+    "meanings": [
+      "1. 명소들",
+      "2. 매력물들"
+    ]
+  },
+  "around": {
+    "word": "around",
+    "phonetic": "[əˈraʊnd]",
+    "meanings": [
+      "1. 주위에",
+      "2. 대략"
+    ]
+  },
+  "smells": {
+    "word": "smells",
+    "phonetic": "[smelz]",
+    "meanings": [
+      "1. 냄새가 나다"
+    ]
+  },
+  "smoke": {
+    "word": "smoke",
+    "phonetic": "[smoʊk]",
+    "meanings": [
+      "1. 연기",
+      "2. 담배를 피우다"
+    ]
+  },
+  "rooms": {
+    "word": "rooms",
+    "phonetic": "[ruːmz]",
+    "meanings": [
+      "1. 방들"
+    ]
+  },
+  "noisy": {
+    "word": "noisy",
+    "phonetic": "[ˈnɔɪzi]",
+    "meanings": [
+      "1. 시끄러운"
+    ]
+  },
+  "people": {
+    "word": "people",
+    "phonetic": "[ˈpiːpl]",
+    "meanings": [
+      "1. 사람들"
+    ]
+  },
+  "door": {
+    "word": "door",
+    "phonetic": "[dɔːr]",
+    "meanings": [
+      "1. 문"
+    ]
+  },
+  "loud": {
+    "word": "loud",
+    "phonetic": "[laʊd]",
+    "meanings": [
+      "1. 시끄러운",
+      "2. 큰 소리의"
+    ]
+  },
+  "send": {
+    "word": "send",
+    "phonetic": "[send]",
+    "meanings": [
+      "1. 보내다"
+    ]
+  },
+  "ice": {
+    "word": "ice",
+    "phonetic": "[aɪs]",
+    "meanings": [
+      "1. 얼음"
+    ]
+  },
+  "machine": {
+    "word": "machine",
+    "phonetic": "[məˈʃiːn]",
+    "meanings": [
+      "1. 기계"
+    ]
+  },
+  "vending": {
+    "word": "vending",
+    "phonetic": "[ˈvendɪŋ]",
+    "meanings": [
+      "1. 판매 (vending machine: 자판기)"
+    ]
+  },
+  "borrow": {
+    "word": "borrow",
+    "phonetic": "[ˈbɑːroʊ]",
+    "meanings": [
+      "1. 빌리다"
+    ]
+  },
+  "umbrella": {
+    "word": "umbrella",
+    "phonetic": "[ʌmˈbrelə]",
+    "meanings": [
+      "1. 우산"
+    ]
+  },
+  "adapter": {
+    "word": "adapter",
+    "phonetic": "[əˈdæptər]",
+    "meanings": [
+      "1. 어댑터",
+      "2. 변환기"
+    ]
+  },
+  "hospital": {
+    "word": "hospital",
+    "phonetic": "[ˈhɑːspɪtl]",
+    "meanings": [
+      "1. 병원"
+    ]
+  },
+  "lobby": {
+    "word": "lobby",
+    "phonetic": "[ˈlɑːbi]",
+    "meanings": [
+      "1. 로비"
+    ]
+  },
+  "anyone": {
+    "word": "anyone",
+    "phonetic": "[ˈeniwʌn]",
+    "meanings": [
+      "1. 누구든",
+      "2. 아무도"
+    ]
+  },
+  "turned": {
+    "word": "turned",
+    "phonetic": "[tɜːrnd]",
+    "meanings": [
+      "1. 돌린",
+      "2. 제출한 (turn in)"
+    ]
+  },
+  "cancel": {
+    "word": "cancel",
+    "phonetic": "[ˈkænsl]",
+    "meanings": [
+      "1. 취소하다"
+    ]
+  },
+  "cancellation": {
+    "word": "cancellation",
+    "phonetic": "[ˌkænsəˈleɪʃn]",
+    "meanings": [
+      "1. 취소"
+    ]
+  },
+  "wait": {
+    "word": "wait",
+    "phonetic": "[weit]",
+    "meanings": [
+      "기다림, 대기"
+    ]
+  },
+  "specialty": {
+    "word": "specialty",
+    "phonetic": "[spéʃəlti]",
+    "meanings": [
+      "명물, 특산품, 전문"
+    ]
+  },
+  "steak": {
+    "word": "steak",
+    "phonetic": "[steik]",
+    "meanings": [
+      "스테이크"
+    ]
+  },
+  "salmon": {
+    "word": "salmon",
+    "phonetic": "[sǽmən]",
+    "meanings": [
+      "연어"
+    ]
+  },
+  "grilled": {
+    "word": "grilled",
+    "phonetic": "[grild]",
+    "meanings": [
+      "구운"
+    ]
+  },
+  "same": {
+    "word": "same",
+    "phonetic": "[seim]",
+    "meanings": [
+      "같은, 동일한"
+    ]
+  },
+  "side": {
+    "word": "side",
+    "phonetic": "[said]",
+    "meanings": [
+      "사이드, 곁들이는"
+    ]
+  },
+  "dressing": {
+    "word": "dressing",
+    "phonetic": "[drésiŋ]",
+    "meanings": [
+      "드레싱, 소스"
+    ]
+  },
+  "cooked": {
+    "word": "cooked",
+    "phonetic": "[kukt]",
+    "meanings": [
+      "요리된, 익힌"
+    ]
+  },
+  "rare": {
+    "word": "rare",
+    "phonetic": "[rɛər]",
+    "meanings": [
+      "살짝 익힌 (레어)"
+    ]
+  },
+  "spicy": {
+    "word": "spicy",
+    "phonetic": "[spáisi]",
+    "meanings": [
+      "매운"
+    ]
+  },
+  "peanuts": {
+    "word": "peanuts",
+    "phonetic": "[píːnʌts]",
+    "meanings": [
+      "땅콩"
+    ]
+  },
+  "seafood": {
+    "word": "seafood",
+    "phonetic": "[síːfùːd]",
+    "meanings": [
+      "해산물"
+    ]
+  },
+  "vegetarian": {
+    "word": "vegetarian",
+    "phonetic": "[vèdʒətέəriən]",
+    "meanings": [
+      "채식주의자의"
+    ]
+  },
+  "options": {
+    "word": "options",
+    "phonetic": "[άpʃənz]",
+    "meanings": [
+      "선택권, 옵션"
+    ]
+  },
+  "meat": {
+    "word": "meat",
+    "phonetic": "[miːt]",
+    "meanings": [
+      "고기"
+    ]
+  },
+  "soup": {
+    "word": "soup",
+    "phonetic": "[suːp]",
+    "meanings": [
+      "수프, 국"
+    ]
+  },
+  "tap": {
+    "word": "tap",
+    "phonetic": "[tæp]",
+    "meanings": [
+      "수도꼭지 (tap water: 수돗물)"
+    ]
+  },
+  "sparkling": {
+    "word": "sparkling",
+    "phonetic": "[spάːrkliŋ]",
+    "meanings": [
+      "탄산이 든"
+    ]
+  },
+  "still": {
+    "word": "still",
+    "phonetic": "[stil]",
+    "meanings": [
+      "탄산이 없는 (still water: 일반 물)"
+    ]
+  },
+  "beer": {
+    "word": "beer",
+    "phonetic": "[biər]",
+    "meanings": [
+      "맥주"
+    ]
+  },
+  "wine": {
+    "word": "wine",
+    "phonetic": "[wain]",
+    "meanings": [
+      "와인, 포도주"
+    ]
+  },
+  "bread": {
+    "word": "bread",
+    "phonetic": "[bred]",
+    "meanings": [
+      "빵"
+    ]
+  },
+  "refill": {
+    "word": "refill",
+    "phonetic": "[rìːfíl]",
+    "meanings": [
+      "리필, 다시 채우다"
+    ]
+  },
+  "soda": {
+    "word": "soda",
+    "phonetic": "[sóudə]",
+    "meanings": [
+      "탄산음료"
+    ]
+  },
+  "napkins": {
+    "word": "napkins",
+    "phonetic": "[nǽpkinz]",
+    "meanings": [
+      "냅킨"
+    ]
+  },
+  "kids": {
+    "word": "kids",
+    "phonetic": "[kidz]",
+    "meanings": [
+      "아이들"
+    ]
+  },
+  "chair": {
+    "word": "chair",
+    "phonetic": "[tʃɛər]",
+    "meanings": [
+      "의자"
+    ]
+  },
+  "share": {
+    "word": "share",
+    "phonetic": "[ʃɛər]",
+    "meanings": [
+      "나누다, 공유하다"
+    ]
+  },
+  "plate": {
+    "word": "plate",
+    "phonetic": "[pleit]",
+    "meanings": [
+      "접시"
+    ]
+  },
+  "undercooked": {
+    "word": "undercooked",
+    "phonetic": "[ʌ̀ndərkúkt]",
+    "meanings": [
+      "설익은, 덜 익은"
+    ]
+  },
+  "salty": {
+    "word": "salty",
+    "phonetic": "[sɔ́ːlti]",
+    "meanings": [
+      "짠"
+    ]
+  },
+  "fork": {
+    "word": "fork",
+    "phonetic": "[fɔːrk]",
+    "meanings": [
+      "포크"
+    ]
+  },
+  "spoon": {
+    "word": "spoon",
+    "phonetic": "[spuːn]",
+    "meanings": [
+      "숟가락"
+    ]
+  },
+  "delicious": {
+    "word": "delicious",
+    "phonetic": "[dilíʃəs]",
+    "meanings": [
+      "맛있는"
+    ]
+  },
+  "register": {
+    "word": "register",
+    "phonetic": "[rédʒistər]",
+    "meanings": [
+      "계산대, 등록하다"
+    ]
+  },
+  "split": {
+    "word": "split",
+    "phonetic": "[split]",
+    "meanings": [
+      "나누다"
+    ]
+  },
+  "separately": {
+    "word": "separately",
+    "phonetic": "[sépərətli]",
+    "meanings": [
+      "따로, 개별적으로"
+    ]
+  },
+  "service": {
+    "word": "service",
+    "phonetic": "[sə́ːrvis]",
+    "meanings": [
+      "서비스, 봉사"
+    ]
+  },
+  "pack": {
+    "word": "pack",
+    "phonetic": "[pæk]",
+    "meanings": [
+      "포장하다"
+    ]
+  },
+  "box": {
+    "word": "box",
+    "phonetic": "[baks]",
+    "meanings": [
+      "상자, 용기"
+    ]
+  },
+  "decaf": {
+    "word": "decaf",
+    "phonetic": "[díːkæf]",
+    "meanings": [
+      "디카페인"
+    ]
+  },
+  "latte": {
+    "word": "latte",
+    "phonetic": "[lάːtei]",
+    "meanings": [
+      "라떼"
+    ]
+  },
+  "whipped": {
+    "word": "whipped",
+    "phonetic": "[hwipt]",
+    "meanings": [
+      "휘저은 (whipped cream: 휘핑크림)"
+    ]
+  },
+  "cream": {
+    "word": "cream",
+    "phonetic": "[kriːm]",
+    "meanings": [
+      "크림"
+    ]
+  },
+  "light": {
+    "word": "light",
+    "phonetic": "[lait]",
+    "meanings": [
+      "가벼운, 적은"
+    ]
+  },
+  "straw": {
+    "word": "straw",
+    "phonetic": "[strɔː]",
+    "meanings": [
+      "빨대"
+    ]
+  },
+  "stirrers": {
+    "word": "stirrers",
+    "phonetic": "[stə́ːrərz]",
+    "meanings": [
+      "젓는 막대"
+    ]
+  },
+  "slice": {
+    "word": "slice",
+    "phonetic": "[slais]",
+    "meanings": [
+      "조각"
+    ]
+  },
+  "cheesecake": {
+    "word": "cheesecake",
+    "phonetic": "[tʃíːzkèik]",
+    "meanings": [
+      "치즈케이크"
+    ]
+  },
+  "pastries": {
+    "word": "pastries",
+    "phonetic": "[péistriz]",
+    "meanings": [
+      "페이스트리, 빵류"
+    ]
+  },
+  "takeout": {
+    "word": "takeout",
+    "phonetic": "[téikàut]",
+    "meanings": [
+      "포장 음식"
+    ]
+  },
+  "ketchup": {
+    "word": "ketchup",
+    "phonetic": "[kétʃəp]",
+    "meanings": [
+      "케첩"
+    ]
+  },
+  "sauce": {
+    "word": "sauce",
+    "phonetic": "[sɔːs]",
+    "meanings": [
+      "소스"
+    ]
+  },
+  "bitter": {
+    "word": "bitter",
+    "phonetic": "[bítər]",
+    "meanings": [
+      "쓴"
+    ]
+  },
+  "bland": {
+    "word": "bland",
+    "phonetic": "[blænd]",
+    "meanings": [
+      "싱거운, 자극적이지 않은"
+    ]
+  },
+  "salt": {
+    "word": "salt",
+    "phonetic": "[sɔːlt]",
+    "meanings": [
+      "소금"
+    ]
+  },
+  "pepper": {
+    "word": "pepper",
+    "phonetic": "[pépər]",
+    "meanings": [
+      "후추"
+    ]
+  },
+  "scrambled": {
+    "word": "scrambled",
+    "phonetic": "[skrǽmbld]",
+    "meanings": [
+      "스크램블한"
+    ]
+  },
+  "substitute": {
+    "word": "substitute",
+    "phonetic": "[sΛbstətjùːt]",
+    "meanings": [
+      "대체하다, 바꾸다"
+    ]
+  },
+  "fries": {
+    "word": "fries",
+    "phonetic": "[fraiz]",
+    "meanings": [
+      "감자튀김"
+    ]
+  },
+  "kitchen": {
+    "word": "kitchen",
+    "phonetic": "[kítʃin]",
+    "meanings": [
+      "주방"
+    ]
+  },
+  "closing": {
+    "word": "closing",
+    "phonetic": "[klóuziŋ]",
+    "meanings": [
+      "닫는, 마감"
+    ]
+  },
+  "hall": {
+    "word": "hall",
+    "phonetic": "[hɔːl]",
+    "meanings": [
+      "복도, 홀"
+    ]
+  },
+  "buffet": {
+    "word": "buffet",
+    "phonetic": "[bəféi]",
+    "meanings": [
+      "뷔페"
+    ]
+  },
+  "enjoy": {
+    "word": "enjoy",
+    "phonetic": "[indʒɔ́i]",
+    "meanings": [
+      "즐기다"
+    ]
+  },
+  "coffee": {
+    "word": "coffee",
+    "phonetic": "[ˈkɔːfi]",
+    "meanings": [
+      "1. 커피",
+      "2. 커피 한 잔"
+    ]
+  },
+  "day": {
+    "word": "day",
+    "phonetic": "[deɪ]",
+    "meanings": [
+      "1. 하루, 날",
+      "2. 낮"
+    ]
+  },
+  "meal": {
+    "word": "meal",
+    "phonetic": "[miːl]",
+    "meanings": [
+      "1. 식사",
+      "2. 끼니"
+    ]
+  },
+  "i'll": {
+    "word": "I'll",
+    "phonetic": "[aɪl]",
+    "meanings": [
+      "나는 ~할 것이다 (I will의 줄임말)"
+    ]
+  },
+  "can't": {
+    "word": "can't",
+    "phonetic": "[kænt]",
+    "meanings": [
+      "~할 수 없다 (cannot의 줄임말)"
+    ]
+  },
+  "often": {
+    "word": "often",
+    "phonetic": "[ˈɔːfn]",
+    "meanings": [
+      "자주",
+      "종종"
+    ]
+  },
+  "buses": {
+    "word": "buses",
+    "phonetic": "[bʌsɪz]",
+    "meanings": [
+      "버스들"
+    ]
+  },
+  "run": {
+    "word": "run",
+    "phonetic": "[rʌn]",
+    "meanings": [
+      "달리다",
+      "운행하다"
+    ]
+  },
+  "central": {
+    "word": "central",
+    "phonetic": "[ˈsentrəl]",
+    "meanings": [
+      "중앙의"
+    ]
+  },
+  "goes": {
+    "word": "goes",
+    "phonetic": "[ɡoʊz]",
+    "meanings": [
+      "가다 (go의 3인칭 단수)"
+    ]
+  },
+  "drop": {
+    "word": "drop",
+    "phonetic": "[drɑːp]",
+    "meanings": [
+      "떨어뜨리다",
+      "내려주다"
+    ]
+  },
+  "seats": {
+    "word": "seats",
+    "phonetic": "[siːts]",
+    "meanings": [
+      "좌석들"
+    ]
+  },
+  "rack": {
+    "word": "rack",
+    "phonetic": "[ræk]",
+    "meanings": [
+      "선반",
+      "거치대"
+    ]
+  },
+  "refund": {
+    "word": "refund",
+    "phonetic": "[ˈriːfʌnd]",
+    "meanings": [
+      "환불"
+    ]
+  },
+  "direct": {
+    "word": "direct",
+    "phonetic": "[dəˈrekt]",
+    "meanings": [
+      "직접의",
+      "직행의"
+    ]
+  },
+  "stops": {
+    "word": "stops",
+    "phonetic": "[stɑːps]",
+    "meanings": [
+      "정류장들"
+    ]
+  },
+  "know": {
+    "word": "know",
+    "phonetic": "[noʊ]",
+    "meanings": [
+      "알다"
+    ]
+  },
+  "meter": {
+    "word": "meter",
+    "phonetic": "[ˈmiːtər]",
+    "meanings": [
+      "미터기",
+      "계량기"
+    ]
+  },
+  "expensive": {
+    "word": "expensive",
+    "phonetic": "[ɪkˈspensɪv]",
+    "meanings": [
+      "비싼"
+    ]
+  },
+  "drive": {
+    "word": "drive",
+    "phonetic": "[draɪv]",
+    "meanings": [
+      "운전하다"
+    ]
+  },
+  "slower": {
+    "word": "slower",
+    "phonetic": "[ˈsloʊər]",
+    "meanings": [
+      "더 느린"
+    ]
+  },
+  "hurry": {
+    "word": "hurry",
+    "phonetic": "[ˈhɜːri]",
+    "meanings": [
+      "서두름",
+      "급함"
+    ]
+  },
+  "rent": {
+    "word": "rent",
+    "phonetic": "[rent]",
+    "meanings": [
+      "빌리다",
+      "임대하다"
+    ]
+  },
+  "car": {
+    "word": "car",
+    "phonetic": "[kɑːr]",
+    "meanings": [
+      "자동차"
+    ]
+  },
+  "three": {
+    "word": "three",
+    "phonetic": "[θriː]",
+    "meanings": [
+      "셋"
+    ]
+  },
+  "driver's": {
+    "word": "driver's",
+    "phonetic": "[ˈdraɪvərz]",
+    "meanings": [
+      "운전자의"
+    ]
+  },
+  "license": {
+    "word": "license",
+    "phonetic": "[ˈlaɪsns]",
+    "meanings": [
+      "면허증"
+    ]
+  },
+  "gas": {
+    "word": "gas",
+    "phonetic": "[ɡæs]",
+    "meanings": [
+      "가스",
+      "휘발유"
+    ]
+  },
+  "fill": {
+    "word": "fill",
+    "phonetic": "[fɪl]",
+    "meanings": [
+      "채우다"
+    ]
+  },
+  "flat": {
+    "word": "flat",
+    "phonetic": "[flæt]",
+    "meanings": [
+      "평평한",
+      "펑크 난"
+    ]
+  },
+  "tire": {
+    "word": "tire",
+    "phonetic": "[ˈtaɪər]",
+    "meanings": [
+      "타이어"
+    ]
+  },
+  "tow": {
+    "word": "tow",
+    "phonetic": "[toʊ]",
+    "meanings": [
+      "견인하다"
+    ]
+  },
+  "truck": {
+    "word": "truck",
+    "phonetic": "[trʌk]",
+    "meanings": [
+      "트럭"
+    ]
+  },
+  "park": {
+    "word": "park",
+    "phonetic": "[pɑːrk]",
+    "meanings": [
+      "공원",
+      "주차하다"
+    ]
+  },
+  "parking": {
+    "word": "parking",
+    "phonetic": "[ˈpɑːrkɪŋ]",
+    "meanings": [
+      "주차"
+    ]
+  },
+  "per": {
+    "word": "per",
+    "phonetic": "[pər]",
+    "meanings": [
+      "~당",
+      "마다"
+    ]
+  },
+  "hour": {
+    "word": "hour",
+    "phonetic": "[ˈaʊər]",
+    "meanings": [
+      "시간"
+    ]
+  },
+  "free": {
+    "word": "free",
+    "phonetic": "[friː]",
+    "meanings": [
+      "자유로운",
+      "무료의"
+    ]
+  },
+  "weekends": {
+    "word": "weekends",
+    "phonetic": "[ˈwiːkendz]",
+    "meanings": [
+      "주말"
+    ]
+  },
+  "got": {
+    "word": "got",
+    "phonetic": "[ɡɑːt]",
+    "meanings": [
+      "얻었다 (get의 과거)"
+    ]
+  },
+  "fine": {
+    "word": "fine",
+    "phonetic": "[faɪn]",
+    "meanings": [
+      "좋은",
+      "벌금"
+    ]
+  },
+  "speed": {
+    "word": "speed",
+    "phonetic": "[spiːd]",
+    "meanings": [
+      "속도"
+    ]
+  },
+  "limit": {
+    "word": "limit",
+    "phonetic": "[ˈlɪmɪt]",
+    "meanings": [
+      "제한",
+      "한계"
+    ]
+  },
+  "class": {
+    "word": "class",
+    "phonetic": "[klæs]",
+    "meanings": [
+      "수업",
+      "등급"
+    ]
+  },
+  "number": {
+    "word": "number",
+    "phonetic": "[ˈnʌmbər]",
+    "meanings": [
+      "숫자",
+      "번호"
+    ]
+  },
+  "validate": {
+    "word": "validate",
+    "phonetic": "[ˈvælɪdeɪt]",
+    "meanings": [
+      "유효하게 하다",
+      "개찰하다"
+    ]
+  },
+  "discount": {
+    "word": "discount",
+    "phonetic": "[ˈdɪskaʊnt]",
+    "meanings": [
+      "할인"
+    ]
+  },
+  "students": {
+    "word": "students",
+    "phonetic": "[ˈstuːdnts]",
+    "meanings": [
+      "학생들"
+    ]
+  },
+  "last": {
+    "word": "last",
+    "phonetic": "[læst]",
+    "meanings": [
+      "마지막의"
+    ]
+  },
+  "cost": {
+    "word": "cost",
+    "phonetic": "[kɔːst]",
+    "meanings": [
+      "비용이 들다"
+    ]
+  },
+  "approximately": {
+    "word": "approximately",
+    "phonetic": "[əˈprɑːksɪmətli]",
+    "meanings": [
+      "대략"
+    ]
+  },
+  "trunk": {
+    "word": "trunk",
+    "phonetic": "[trʌŋk]",
+    "meanings": [
+      "트렁크"
+    ]
+  },
+  "watch": {
+    "word": "watch",
+    "phonetic": "[wɑːtʃ]",
+    "meanings": [
+      "보다",
+      "조심하다"
+    ]
+  },
+  "mind": {
+    "word": "mind",
+    "phonetic": "[maɪnd]",
+    "meanings": [
+      "마음",
+      "주의하다"
+    ]
+  },
+  "gap": {
+    "word": "gap",
+    "phonetic": "[ɡæp]",
+    "meanings": [
+      "틈",
+      "격차"
+    ]
+  },
+  "wheelchair": {
+    "word": "wheelchair",
+    "phonetic": "[ˈwiːltʃer]",
+    "meanings": [
+      "휠체어"
+    ]
+  },
+  "accessible": {
+    "word": "accessible",
+    "phonetic": "[əkˈsesəbl]",
+    "meanings": [
+      "접근 가능한"
+    ]
+  },
+  "elevator": {
+    "word": "elevator",
+    "phonetic": "[ˈelɪveɪtər]",
+    "meanings": [
+      "엘리베이터"
+    ]
+  },
+  "bicycle": {
+    "word": "bicycle",
+    "phonetic": "[ˈbaɪsɪkl]",
+    "meanings": [
+      "자전거"
+    ]
+  },
+  "pets": {
+    "word": "pets",
+    "phonetic": "[pets]",
+    "meanings": [
+      "반려동물들"
+    ]
+  },
+  "trip": {
+    "word": "trip",
+    "phonetic": "[trɪp]",
+    "meanings": [
+      "여행"
+    ]
+  },
+  "ride": {
+    "word": "ride",
+    "phonetic": "[raɪd]",
+    "meanings": [
+      "타다",
+      "탑승"
+    ]
+  },
+  "welcome": {
+    "word": "welcome",
+    "phonetic": "[ˈwelkəm]",
+    "meanings": [
+      "환영하다"
+    ]
+  },
+  "aboard": {
+    "word": "aboard",
+    "phonetic": "[əˈbɔːrd]",
+    "meanings": [
+      "탑승한"
+    ]
+  },
+  "bit": {
+    "word": "bit",
+    "phonetic": "[bɪt]",
+    "meanings": [
+      "조금"
+    ]
+  },
+  "it's": {
+    "word": "it's",
+    "phonetic": "[ɪts]",
+    "meanings": [
+      "그것은 ~이다 (it is의 줄임말)"
+    ]
+  },
+  "gift": {
+    "word": "gift",
+    "phonetic": "[ɡɪft]",
+    "meanings": [
+      "선물"
+    ]
+  },
+  "medium": {
+    "word": "medium",
+    "phonetic": "[ˈmiːdiəm]",
+    "meanings": [
+      "중간의",
+      "미디엄"
+    ]
+  },
+  "big": {
+    "word": "big",
+    "phonetic": "[bɪɡ]",
+    "meanings": [
+      "큰"
+    ]
+  },
+  "cashier": {
+    "word": "cashier",
+    "phonetic": "[kæˈʃɪr]",
+    "meanings": [
+      "계산원",
+      "계산대"
+    ]
+  },
+  "sundays": {
+    "word": "sundays",
+    "phonetic": "[ˈsʌndeɪz]",
+    "meanings": [
+      "일요일들"
+    ]
+  },
+  "cosmetics": {
+    "word": "cosmetics",
+    "phonetic": "[kɑːzˈmetɪks]",
+    "meanings": [
+      "화장품"
+    ]
+  },
+  "shopping": {
+    "word": "shopping",
+    "phonetic": "[ˈʃɑːpɪŋ]",
+    "meanings": [
+      "쇼핑"
+    ]
+  },
+  "wrap": {
+    "word": "wrap",
+    "phonetic": "[ræp]",
+    "meanings": [
+      "포장하다",
+      "싸다"
+    ]
+  },
+  "warranty": {
+    "word": "warranty",
+    "phonetic": "[ˈwɔːrənti]",
+    "meanings": [
+      "보증",
+      "보증서"
+    ]
+  },
+  "deliver": {
+    "word": "deliver",
+    "phonetic": "[dɪˈlɪvər]",
+    "meanings": [
+      "배달하다"
+    ]
+  },
+  "delivery": {
+    "word": "delivery",
+    "phonetic": "[dɪˈlɪvəri]",
+    "meanings": [
+      "배달",
+      "배송"
+    ]
+  },
+  "souvenirs": {
+    "word": "souvenirs",
+    "phonetic": "[ˌsuːvəˈnɪrz]",
+    "meanings": [
+      "기념품들"
+    ]
+  },
+  "item": {
+    "word": "item",
+    "phonetic": "[ˈaɪtəm]",
+    "meanings": [
+      "항목",
+      "물품"
+    ]
+  },
+  "another": {
+    "word": "another",
+    "phonetic": "[əˈnʌðər]",
+    "meanings": [
+      "또 다른"
+    ]
+  },
+  "budget": {
+    "word": "budget",
+    "phonetic": "[ˈbʌdʒɪt]",
+    "meanings": [
+      "예산"
+    ]
+  },
+  "cheaper": {
+    "word": "cheaper",
+    "phonetic": "[ˈtʃiːpər]",
+    "meanings": [
+      "더 싼"
+    ]
+  },
+  "sample": {
+    "word": "sample",
+    "phonetic": "[ˈsæmpl]",
+    "meanings": [
+      "견본",
+      "샘플"
+    ]
+  },
+  "arrivals": {
+    "word": "arrivals",
+    "phonetic": "[əˈraɪvlz]",
+    "meanings": [
+      "도착한 것들",
+      "신상품들"
+    ]
+  },
+  "men's": {
+    "word": "men's",
+    "phonetic": "[menz]",
+    "meanings": [
+      "남성의"
+    ]
+  },
+  "clothing": {
+    "word": "clothing",
+    "phonetic": "[ˈkloʊðɪŋ]",
+    "meanings": [
+      "의류",
+      "옷"
+    ]
+  },
+  "section": {
+    "word": "section",
+    "phonetic": "[ˈsekʃn]",
+    "meanings": [
+      "구역",
+      "코너"
+    ]
+  },
+  "women's": {
+    "word": "women's",
+    "phonetic": "[ˈwɪmɪnz]",
+    "meanings": [
+      "여성의"
+    ]
+  },
+  "children's": {
+    "word": "children's",
+    "phonetic": "[ˈtʃɪldrənz]",
+    "meanings": [
+      "아동의"
+    ]
+  },
+  "basic": {
+    "word": "basic",
+    "phonetic": "[ˈbeɪsɪk]",
+    "meanings": [
+      "기본적인"
+    ]
+  },
+  "t-shirts": {
+    "word": "t-shirts",
+    "phonetic": "[ˈtiː ʃɜːrts]",
+    "meanings": [
+      "티셔츠들"
+    ]
+  },
+  "mirror": {
+    "word": "mirror",
+    "phonetic": "[ˈmɪrər]",
+    "meanings": [
+      "거울"
+    ]
+  },
+  "broken": {
+    "word": "broken",
+    "phonetic": "[ˈbroʊkən]",
+    "meanings": [
+      "부서진",
+      "고장 난"
+    ]
+  },
+  "stain": {
+    "word": "stain",
+    "phonetic": "[steɪn]",
+    "meanings": [
+      "얼룩"
+    ]
+  },
+  "genuine": {
+    "word": "genuine",
+    "phonetic": "[ˈdʒenjuɪn]",
+    "meanings": [
+      "진짜의",
+      "진품의"
+    ]
+  },
+  "leather": {
+    "word": "leather",
+    "phonetic": "[ˈleðər]",
+    "meanings": [
+      "가죽"
+    ]
+  },
+  "material": {
+    "word": "material",
+    "phonetic": "[məˈtɪriəl]",
+    "meanings": [
+      "재료",
+      "소재"
+    ]
+  },
+  "wash": {
+    "word": "wash",
+    "phonetic": "[wɑːʃ]",
+    "meanings": [
+      "씻다",
+      "세탁하다"
+    ]
+  },
+  "loyalty": {
+    "word": "loyalty",
+    "phonetic": "[ˈlɔɪəlti]",
+    "meanings": [
+      "충성도",
+      "단골"
+    ]
+  },
+  "program": {
+    "word": "program",
+    "phonetic": "[ˈproʊɡræm]",
+    "meanings": [
+      "프로그램",
+      "제도"
+    ]
+  },
+  "membership": {
+    "word": "membership",
+    "phonetic": "[ˈmembərʃɪp]",
+    "meanings": [
+      "회원 자격",
+      "멤버십"
+    ]
+  },
+  "coupon": {
+    "word": "coupon",
+    "phonetic": "[ˈkuːpɑːn]",
+    "meanings": [
+      "쿠폰"
+    ]
+  },
+  "end": {
+    "word": "end",
+    "phonetic": "[end]",
+    "meanings": [
+      "끝나다",
+      "끝"
+    ]
+  },
+  "brought": {
+    "word": "brought",
+    "phonetic": "[brɔːt]",
+    "meanings": [
+      "가져왔다 (bring의 과거)"
+    ]
+  },
+  "grocery": {
+    "word": "grocery",
+    "phonetic": "[ˈɡroʊsəri]",
+    "meanings": [
+      "식료품"
+    ]
+  },
+  "fresh": {
+    "word": "fresh",
+    "phonetic": "[freʃ]",
+    "meanings": [
+      "신선한"
+    ]
+  },
+  "fruit": {
+    "word": "fruit",
+    "phonetic": "[fruːt]",
+    "meanings": [
+      "과일"
+    ]
+  },
+  "local": {
+    "word": "local",
+    "phonetic": "[ˈloʊkl]",
+    "meanings": [
+      "지역의",
+      "현지의"
+    ]
+  },
+  "produce": {
+    "word": "produce",
+    "phonetic": "[ˈprɑːduːs]",
+    "meanings": [
+      "농산물"
+    ]
+  },
+  "kilo": {
+    "word": "kilo",
+    "phonetic": "[ˈkiːloʊ]",
+    "meanings": [
+      "킬로그램"
+    ]
+  },
+  "taste": {
+    "word": "taste",
+    "phonetic": "[teɪst]",
+    "meanings": [
+      "맛보다",
+      "맛"
+    ]
+  },
+  "expired": {
+    "word": "expired",
+    "phonetic": "[ɪkˈspaɪərd]",
+    "meanings": [
+      "만료된",
+      "유통기한이 지난"
+    ]
+  },
+  "checkout": {
+    "word": "checkout",
+    "phonetic": "[ˈtʃekaʊt]",
+    "meanings": [
+      "계산대",
+      "체크아웃"
+    ]
+  },
+  "scan": {
+    "word": "scan",
+    "phonetic": "[skæn]",
+    "meanings": [
+      "스캔하다"
+    ]
+  },
+  "escalator": {
+    "word": "escalator",
+    "phonetic": "[ˈeskəleɪtər]",
+    "meanings": [
+      "에스컬레이터"
+    ]
+  },
+  "court": {
+    "word": "court",
+    "phonetic": "[kɔːrt]",
+    "meanings": [
+      "법정",
+      "코트"
+    ]
+  },
+  "electronics": {
+    "word": "electronics",
+    "phonetic": "[ɪˌlekˈtrɑːnɪks]",
+    "meanings": [
+      "전자제품"
+    ]
+  },
+  "mall": {
+    "word": "mall",
+    "phonetic": "[mɔːl]",
+    "meanings": [
+      "쇼핑몰"
+    ]
+  },
+  "child": {
+    "word": "child",
+    "phonetic": "[tʃaɪld]",
+    "meanings": [
+      "아이"
+    ]
+  },
+  "announcement": {
+    "word": "announcement",
+    "phonetic": "[əˈnaʊnsmənt]",
+    "meanings": [
+      "발표",
+      "안내 방송"
+    ]
+  },
+  "love": {
+    "word": "love",
+    "phonetic": "[lʌv]",
+    "meanings": [
+      "사랑하다",
+      "매우 좋아하다"
+    ]
+  },
+  "recommendations": {
+    "word": "recommendations",
+    "phonetic": "[ˌrekəmenˈdeɪʃnz]",
+    "meanings": [
+      "추천들"
+    ]
+  },
+  "online": {
+    "word": "online",
+    "phonetic": "[ˌɔːnˈlaɪn]",
+    "meanings": [
+      "온라인으로"
+    ]
+  }
+}
