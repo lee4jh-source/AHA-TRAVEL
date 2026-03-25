@@ -318,9 +318,6 @@ const SpeakingModal = ({ queue, onClose }: { queue: any[], onClose: () => void }
   return (
     <div className="fixed inset-0 bg-[#041627]/80 backdrop-blur-sm z-[100] flex items-center justify-center p-6">
       <div className="bg-white rounded-[2rem] p-8 w-full max-w-sm flex flex-col items-center text-center shadow-2xl relative">
-        <button onClick={onClose} className="absolute top-6 right-6 text-[#74777d] hover:text-[#041627] transition-colors">
-          <X size={24} />
-        </button>
         <h3 className="text-xl font-bold mb-2 text-[#041627]">스피킹 연습</h3>
         <p className="text-sm font-medium text-[#a93100] mb-8 bg-[#ffdbd0] px-3 py-1 rounded-full">
           {idx + 1} / {queue.length}
