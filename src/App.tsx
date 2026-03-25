@@ -8,7 +8,7 @@ import {
   Ban, TriangleAlert, RadioTower, Copy, ArrowRight, Quote, Share2,
   ChevronRight, CreditCard, ChevronLeft, Coffee, Camera,
   Brain, Volume2, CheckCircle2, XCircle, RefreshCw, Edit3, PenTool,
-  BookOpen, FileText, Briefcase, ShieldAlert, Mic
+  BookOpen, FileText, Briefcase, ShieldAlert, Mic, X
 } from 'lucide-react';
 import { categoryData } from './data';
 
@@ -317,7 +317,10 @@ const SpeakingModal = ({ queue, onClose }: { queue: any[], onClose: () => void }
 
   return (
     <div className="fixed inset-0 bg-[#041627]/80 backdrop-blur-sm z-[100] flex items-center justify-center p-6">
-      <div className="bg-white rounded-[2rem] p-8 w-full max-w-sm flex flex-col items-center text-center shadow-2xl">
+      <div className="bg-white rounded-[2rem] p-8 w-full max-w-sm flex flex-col items-center text-center shadow-2xl relative">
+        <button onClick={onClose} className="absolute top-6 right-6 text-[#74777d] hover:text-[#041627] transition-colors">
+          <X size={24} />
+        </button>
         <h3 className="text-xl font-bold mb-2 text-[#041627]">스피킹 연습</h3>
         <p className="text-sm font-medium text-[#a93100] mb-8 bg-[#ffdbd0] px-3 py-1 rounded-full">
           {idx + 1} / {queue.length}
@@ -348,12 +351,11 @@ const SpeakingModal = ({ queue, onClose }: { queue: any[], onClose: () => void }
           )}
         </div>
         
-        <div className="flex gap-3 w-full mt-6">
-          <button onClick={onClose} className="flex-1 py-3 bg-[#f3f3f3] text-[#041627] font-bold rounded-xl hover:bg-[#e2e2e2] transition-colors">
-            종료
-          </button>
-          {score !== null && (
-            <button onClick={handleNext} className="flex-1 py-3 bg-[#041627] text-white font-bold rounded-xl hover:bg-[#1a2b3c] transition-colors">
+        <div className="flex w-full mt-6 justify-center">
+          {score === null ? (
+            <p className="text-[#74777d] font-medium py-3">마이크 버튼을 클릭하고 시작</p>
+          ) : (
+            <button onClick={handleNext} className="w-full py-3 bg-[#041627] text-white font-bold rounded-xl hover:bg-[#1a2b3c] transition-colors">
               {idx < queue.length - 1 ? '다음 문장' : '완료'}
             </button>
           )}
