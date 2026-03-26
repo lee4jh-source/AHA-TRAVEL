@@ -471,6 +471,11 @@ const LearningTab = ({ category, setRecentSentences }: { category: string, setRe
 
   useEffect(() => {
     stopAudio();
+    // DOM 업데이트 후 스크롤이 적용되도록 약간의 지연을 줍니다.
+    const timer = setTimeout(() => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }, 100);
+    return () => clearTimeout(timer);
   }, [currentPage]);
 
   useEffect(() => {
