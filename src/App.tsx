@@ -437,6 +437,7 @@ const LearningTab = ({ category, setRecentSentences }: { category: string, setRe
   const [speakingQueue, setSpeakingQueue] = useState<any[] | null>(null);
   const [activeSentenceIndex, setActiveSentenceIndex] = useState<number | null>(null);
   const playStateRef = useRef({ mode: 'idle', index: -1 });
+  const playTimeoutRef = useRef<NodeJS.Timeout | null>(null);
   const [playMode, setPlayMode] = useState<'idle' | 'play-all' | 'repeat-all' | 'play-one' | 'repeat-one'>('idle');
   const prefetchPromise = useRef<Promise<any> | null>(null);
   const sentenceRefs = useRef<(HTMLDivElement | null)[]>([]);
@@ -451,6 +452,10 @@ const LearningTab = ({ category, setRecentSentences }: { category: string, setRe
   }, [currentPage, sentences, setRecentSentences]);
 
   const stopAudio = () => {
+    if (playTimeoutRef.current) {
+      clearTimeout(playTimeoutRef.current);
+      playTimeoutRef.current = null;
+    }
     playStateRef.current = { mode: 'idle', index: -1 };
     setPlayMode('idle');
     window.speechSynthesis.cancel();
@@ -561,14 +566,18 @@ const LearningTab = ({ category, setRecentSentences }: { category: string, setRe
     utterance.onend = () => {
       if (playStateRef.current.mode === 'idle') return;
       
-      if (playStateRef.current.mode === 'play-all' || playStateRef.current.mode === 'repeat-all') {
-        playStateRef.current.index++;
-        playNext();
-      } else if (playStateRef.current.mode === 'repeat-one') {
-        playNext();
-      } else {
-        stopAudio();
-      }
+      playTimeoutRef.current = setTimeout(() => {
+        if (playStateRef.current.mode === 'idle') return;
+        
+        if (playStateRef.current.mode === 'play-all' || playStateRef.current.mode === 'repeat-all') {
+          playStateRef.current.index++;
+          playNext();
+        } else if (playStateRef.current.mode === 'repeat-one') {
+          playNext();
+        } else {
+          stopAudio();
+        }
+      }, 1200); // 1.2초 대기
     };
 
     utterance.onerror = () => stopAudio();
