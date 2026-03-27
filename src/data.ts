@@ -1,6 +1,6 @@
 const baseData: Record<string, { title: string, sentences: { en: string, ko: string, tip: string }[] }> = {
   airport: {
-    title: "1_공항&비행기",
+    title: "1_공항",
     sentences: [
       { en: "Where is the check-in counter?", ko: "체크인 카운터가 어디인가요?", tip: "항공사 이름을 함께 말하면 더 좋습니다." },
       { en: "I have a connecting flight.", ko: "환승 항공편이 있습니다.", tip: "환승 게이트를 찾을 때 유용합니다." },
@@ -90,7 +90,7 @@ const baseData: Record<string, { title: string, sentences: { en: string, ko: str
     ]
   },
   emergency: {
-    title: "7_위급상황&도움요청",
+    title: "7_위급상황",
     sentences: [
       { en: "Help me, please!", ko: "도와주세요!", tip: "긴급한 상황에서 크게 외칠 때 사용합니다." },
       { en: "Call an ambulance!", ko: "구급차를 불러주세요!", tip: "응급 환자가 발생했을 때 주변에 요청하세요." },
@@ -105,7 +105,7 @@ const baseData: Record<string, { title: string, sentences: { en: string, ko: str
     ]
   },
   hospital: {
-    title: "8_병원&약국",
+    title: "8_병원",
     sentences: [
       { en: "I have a fever.", ko: "열이 나요.", tip: "증상을 설명할 때 'I have a ~' 패턴을 사용하세요." },
       { en: "My stomach hurts.", ko: "배가 아파요.", tip: "복통이 있을 때 쓰는 표현입니다." },
@@ -135,7 +135,7 @@ const baseData: Record<string, { title: string, sentences: { en: string, ko: str
     ]
   },
   navigation: {
-    title: "10_길찾기&길묻기",
+    title: "10_길찾기",
     sentences: [
       { en: "Excuse me, where is the museum?", ko: "실례합니다, 박물관이 어디인가요?", tip: "길을 물어볼 때 가장 기본적인 표현입니다." },
       { en: "How do I get to the station?", ko: "역에 어떻게 가나요?", tip: "목적지까지 가는 방법을 물어볼 때 많이 씁니다." },
@@ -165,7 +165,7 @@ const baseData: Record<string, { title: string, sentences: { en: string, ko: str
     ]
   },
   sim: {
-    title: "12_유심&통신",
+    title: "12_통신",
     sentences: [
       { en: "I need a prepaid SIM card.", ko: "선불 유심칩이 필요해요.", tip: "유심을 구매할 때 쓰는 표현입니다." },
       { en: "Does this include unlimited data?", ko: "무제한 데이터가 포함되어 있나요?", tip: "데이터 용량을 확인할 때 중요합니다." },
@@ -180,7 +180,7 @@ const baseData: Record<string, { title: string, sentences: { en: string, ko: str
     ]
   },
   bank: {
-    title: "13_환전&은행",
+    title: "13_은행",
     sentences: [
       { en: "Where can I exchange money?", ko: "어디서 환전할 수 있나요?", tip: "환전소 위치를 물어볼 때 씁니다." },
       { en: "What is the exchange rate for dollars?", ko: "달러 환율이 어떻게 되나요?", tip: "현재 환율을 확인할 때 유용합니다." },
@@ -195,7 +195,7 @@ const baseData: Record<string, { title: string, sentences: { en: string, ko: str
     ]
   },
   communication: {
-    title: "14_인사&소통&문화",
+    title: "14_소통",
     sentences: [
       { en: "Hello, how are you?", ko: "안녕하세요, 잘 지내시죠?", tip: "가장 기본적인 인사말입니다." },
       { en: "Thank you very much.", ko: "정말 감사합니다.", tip: "감사를 표현할 때 씁니다." },
